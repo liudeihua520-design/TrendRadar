@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-18T09:29:25.745424+08:00",
-  "total_titles_processed": 619,
+  "generated_at": "2026-10-18T10:24:42.655150+08:00",
+  "total_titles_processed": 679,
   "failed_sources": [],
   "trends": [
     {
@@ -26,11 +26,12 @@
             3,
             6,
             8,
-            15
+            15,
+            18
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时17分 ~ 09时29分]"
+          "appearance_count": 10,
+          "time_info": "[00时17分 ~ 10时24分]"
         },
         {
           "title": "伊朗革命卫队：又一超级油轮在霍尔木兹海峡触雷起火",
@@ -52,22 +53,12 @@
           "ranks": [
             2,
             11,
-            19
+            19,
+            28
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[05时21分 ~ 09时29分]"
-        },
-        {
-          "title": "伊朗海军称“违规”穿越海峡而受损的油轮增多",
-          "url": "https://wallstreetcn.com/livenews/3180604",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时29分"
+          "appearance_count": 6,
+          "time_info": "[05时21分 ~ 10时24分]"
         },
         {
           "title": "据法尔斯通讯社：德黑兰市长扎卡尼在节目中表示，伊朗在谈判问题上的一个失误，是曾认为达成谅解备忘录能够为伊朗带来安全并结束战争，但事实并非如此。他强调，只有伊朗变得强大，战争才能结束。没必要等到战争结束后再谈判。",
@@ -96,6 +87,19 @@
           "time_info": "[05时21分 ~ 09时29分]"
         },
         {
+          "title": "伊朗外长：伊朗愿意协助结束沙特与也门冲突",
+          "url": "https://flash.jin10.com/detail/20261018045054335800",
+          "source": "金十数据",
+          "ranks": [
+            9,
+            17,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[06时18分 ~ 10时24分]"
+        },
+        {
           "title": "伊朗外长重申七天通航方案：下一步行动取决于美国",
           "url": "https://flash.jin10.com/detail/20261018040443957800",
           "source": "金十数据",
@@ -120,16 +124,40 @@
           "time_info": "[00时17分 ~ 05时21分]"
         },
         {
-          "title": "伊朗外长：伊朗愿意协助结束沙特与也门冲突",
-          "url": "https://flash.jin10.com/detail/20261018045054335800",
+          "title": "伊朗海军称“违规”穿越海峡而受损的油轮增多",
+          "url": "https://wallstreetcn.com/livenews/3180604",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时29分 ~ 10时24分]"
+        },
+        {
+          "title": "伊朗外长：伊朗支持通过政治进程解决也门冲突",
+          "url": "https://wallstreetcn.com/livenews/3180601",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时29分 ~ 10时24分]"
+        },
+        {
+          "title": "伊朗海军称“违规”穿越海峡而受损的油轮增多",
+          "url": "https://flash.jin10.com/detail/20261018082121073800",
           "source": "金十数据",
           "ranks": [
-            9,
+            8,
             17
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[06时18分 ~ 09时29分]"
+          "appearance_count": 2,
+          "time_info": "[09时29分 ~ 10时24分]"
         },
         {
           "title": "据伊朗塔斯尼姆通讯社：伊朗科学院院长表示，目前，全球2%的产出归功于伊朗人，37%的科学研究成果由伊朗科学家与国际科学家合作完成。",
@@ -155,17 +183,6 @@
           "time_info": "02时04分"
         },
         {
-          "title": "伊朗外长：伊朗支持通过政治进程解决也门冲突",
-          "url": "https://wallstreetcn.com/livenews/3180601",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时29分"
-        },
-        {
           "title": "伊朗外交部发言人巴加埃：（回应有关伊朗与巴基斯坦陆地边境关闭的报道）由于出现一些技术问题，且需要采取预防措施，边境通行及往来暂时中止。",
           "url": "https://flash.jin10.com/detail/20261018012720841800",
           "source": "金十数据",
@@ -175,17 +192,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时04分"
-        },
-        {
-          "title": "伊朗海军称“违规”穿越海峡而受损的油轮增多",
-          "url": "https://flash.jin10.com/detail/20261018082121073800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时29分"
         },
         {
           "title": "美军称霍尔木兹海峡仍保持通航，约97%过境船舶未被伊朗击中",
@@ -346,8 +352,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时16分 ~ 09时29分]"
+          "appearance_count": 14,
+          "time_info": "[00时16分 ~ 10时24分]"
         },
         {
           "title": "特朗普签署行政令豁免对俄多项制裁",
@@ -360,8 +366,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时16分 ~ 09时29分]"
+          "appearance_count": 11,
+          "time_info": "[00时16分 ~ 10时24分]"
         },
         {
           "title": "被问是否被特朗普当成替罪羊？泽连斯基神秘微笑",
@@ -373,8 +379,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时16分 ~ 09时29分]"
+          "appearance_count": 14,
+          "time_info": "[00时16分 ~ 10时24分]"
         },
         {
           "title": "特朗普：我不知道普京是否会来参加G20峰会，但我希望能见到他",
@@ -463,8 +469,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时28分 ~ 09时29分]"
+          "appearance_count": 4,
+          "time_info": "[08时28分 ~ 10时24分]"
         },
         {
           "title": "美国总统特朗普：我们终将与加拿大达成一项令人瞩目的协议。",
@@ -576,7 +582,7 @@
     },
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 5,
+      "match_count": 7,
       "titles": [
         {
           "title": "如何评价 DeepSeek V4.1 Flash 1017?",
@@ -585,11 +591,12 @@
           "ranks": [
             1,
             2,
-            3
+            3,
+            14
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时16分 ~ 09时29分]"
+          "appearance_count": 14,
+          "time_info": "[00时16分 ~ 10时24分]"
         },
         {
           "title": "“许愿式”编程能力升级！DeepSeek上新：开放自研搜索API，千次调用仅5元",
@@ -601,8 +608,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时16分 ~ 09时29分]"
+          "appearance_count": 14,
+          "time_info": "[00时16分 ~ 10时24分]"
         },
         {
           "title": "用DeepSeek翻唱人是猫",
@@ -614,11 +621,12 @@
             12,
             17,
             15,
-            13
+            13,
+            16
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时16分 ~ 09时29分]"
+          "appearance_count": 14,
+          "time_info": "[00时16分 ~ 10时24分]"
         },
         {
           "title": "已恢复!DeepSeek发故障补偿",
@@ -629,19 +637,42 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时16分 ~ 09时29分]"
+          "appearance_count": 14,
+          "time_info": "[00时16分 ~ 10时24分]"
+        },
+        {
+          "title": "如何看待 Deepseek-4.1-flash-1017 指纹测出来是 6-astra，版本实测如何？",
+          "url": "https://www.zhihu.com/question/2094959269275878409",
+          "source": "知乎",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时24分"
+        },
+        {
+          "title": "DeepSeek新模型实测",
+          "url": "https://search.bilibili.com/all?keyword=DeepSeek%E6%96%B0%E6%A8%A1%E5%9E%8B%E5%AE%9E%E6%B5%8B",
+          "source": "bilibili 热搜",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时24分"
         },
         {
           "title": "【早报】两部门：支持体育运动进影院；DeepSeek新模型登场",
           "url": "https://www.cls.cn/detail/2507548",
           "source": "财联社热门",
           "ranks": [
-            6
+            6,
+            5
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时29分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时29分 ~ 10时24分]"
         }
       ]
     },
@@ -657,8 +688,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时16分 ~ 09时29分]"
+          "appearance_count": 14,
+          "time_info": "[00时16分 ~ 10时24分]"
         },
         {
           "title": "AI交易忧虑压垮美股，纳指跌超2%、CoreWeave暴跌12%，VIX一度升破22，布油涨破110",
@@ -682,8 +713,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时16分 ~ 09时29分]"
+          "appearance_count": 14,
+          "time_info": "[00时16分 ~ 10时24分]"
         },
         {
           "title": "美股收盘：科技重挫纳指跌超2% 红利、能源巨头再创新高",
@@ -694,8 +725,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时16分 ~ 09时29分]"
+          "appearance_count": 14,
+          "time_info": "[00时16分 ~ 10时24分]"
         },
         {
           "title": "美股AI巨头还能撑多久",
@@ -707,6 +738,34 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时16分 ~ 00时17分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美债",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "马斯克反思白宫往事 称美债问题只能靠AI和机器人解决",
+          "url": "https://www.cls.cn/detail/2507535",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时24分"
+        },
+        {
+          "title": "马斯克：解决美债问题的唯一办法是依靠人工智能和机器人",
+          "url": "https://flash.jin10.com/detail/20261017203804811800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时17分"
         }
       ]
     },
@@ -741,25 +800,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时16分 ~ 09时29分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美债",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "马斯克：解决美债问题的唯一办法是依靠人工智能和机器人",
-          "url": "https://flash.jin10.com/detail/20261017203804811800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时17分"
+          "appearance_count": 14,
+          "time_info": "[00时16分 ~ 10时24分]"
         }
       ]
     }
