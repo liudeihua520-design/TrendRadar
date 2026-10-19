@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-19T10:26:28.283606+08:00",
-  "total_titles_processed": 835,
+  "generated_at": "2026-10-19T11:28:21.428274+08:00",
+  "total_titles_processed": 945,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 29,
+      "match_count": 30,
       "titles": [
         {
           "title": "阿赫拉基出任伊朗新任防长",
@@ -15,8 +15,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时22分 ~ 10时26分]"
+          "appearance_count": 16,
+          "time_info": "[00时22分 ~ 11时28分]"
         },
         {
           "title": "伊朗武装部队开火",
@@ -29,8 +29,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时22分 ~ 10时26分]"
+          "appearance_count": 16,
+          "time_info": "[00时22分 ~ 11时28分]"
         },
         {
           "title": "冲突外溢，伊朗被曝深度介入也门冲突，埃及即将参战？",
@@ -44,8 +44,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时22分 ~ 10时26分]"
+          "appearance_count": 16,
+          "time_info": "[00时22分 ~ 11时28分]"
         },
         {
           "title": "伊朗新任国防部长：如果美方投下一枚炸弹，就必须考虑最终会有多少美军士兵被横着抬出这一地区",
@@ -230,6 +230,19 @@
           "time_info": "[07时17分 ~ 08时29分]"
         },
         {
+          "title": "伊朗总统：绝不屈服于无理要求与霸凌",
+          "url": "https://www.toutiao.com/trending/7697487884345081898/",
+          "source": "今日头条",
+          "ranks": [
+            24,
+            21,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时32分 ~ 11时28分]"
+        },
+        {
           "title": "俄罗斯外交部：俄罗斯外交部长拉夫罗夫将于10月19日访问伊朗，期间将与伊朗总统佩泽希齐扬举行会晤。",
           "url": "https://flash.jin10.com/detail/20261019023026655800",
           "source": "金十数据",
@@ -254,18 +267,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时19分 ~ 05时20分]"
-        },
-        {
-          "title": "伊朗总统：绝不屈服于无理要求与霸凌",
-          "url": "https://www.toutiao.com/trending/7697487884345081898/",
-          "source": "今日头条",
-          "ranks": [
-            24,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时32分 ~ 10时26分]"
         },
         {
           "title": "以色列总理内塔尼亚胡：我们的目标是消除伊朗威胁，并推翻德黑兰政权。",
@@ -315,6 +316,17 @@
           "time_info": "08时29分"
         },
         {
+          "title": "据伊朗官方媒体报道，伊朗伊斯兰革命卫队推出一档电视节目，标题为《革命卫队致美国人民的一封信》。播出时间为当地时间10月19日（星期一）16:50，播出频道为伊朗国家电视台第一频道。",
+          "url": "https://flash.jin10.com/detail/20261019110231867800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时28分"
+        },
+        {
           "title": "海合会呼吁伊朗与美国重返对话",
           "url": "https://flash.jin10.com/detail/20261019052431128800",
           "source": "金十数据",
@@ -362,7 +374,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 23,
+      "match_count": 26,
       "titles": [
         {
           "title": "公开施压！泽连斯基称“星链”限速“有意为之，仅针对乌克兰”，特朗普签署行政令豁免对俄多项制裁",
@@ -413,6 +425,17 @@
           "time_info": "[09时32分 ~ 09时33分]"
         },
         {
+          "title": "特朗普：你不愿结束战争，泽连斯基：你逼乌克兰投降",
+          "url": "https://news.ifeng.com/c/8xLGtqVJ3MX",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时26分 ~ 11时28分]"
+        },
+        {
           "title": "特朗普呼吁法国关闭边境",
           "url": "https://wallstreetcn.com/livenews/3180661",
           "source": "华尔街见闻-快讯",
@@ -425,15 +448,16 @@
           "time_info": "[00时22分 ~ 06时20分]"
         },
         {
-          "title": "特朗普：你不愿结束战争，泽连斯基：你逼乌克兰投降",
-          "url": "https://news.ifeng.com/c/8xLGtqVJ3MX",
-          "source": "凤凰网",
+          "title": "特朗普新任白宫发言人上任仅 5 天就被解雇，创下史上最短纪录，为什么会这样？",
+          "url": "https://www.zhihu.com/question/2094636010722411929",
+          "source": "知乎",
           "ranks": [
-            1
+            11,
+            8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时26分"
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[08时28分 ~ 11时28分]"
         },
         {
           "title": "油价没降、俄乌战事未停，特朗普的柴油外交反成共和党选举难题",
@@ -442,7 +466,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时26分"
         },
@@ -458,16 +482,15 @@
           "time_info": "05时20分"
         },
         {
-          "title": "特朗普新任白宫发言人上任仅 5 天就被解雇，创下史上最短纪录，为什么会这样？",
-          "url": "https://www.zhihu.com/question/2094636010722411929",
-          "source": "知乎",
+          "title": "中期选举前，特朗普团队忙着找律师！民主党若夺回国会，明年或迎调查风暴",
+          "url": "https://flash.jin10.com/detail/20261019111518755800",
+          "source": "金十数据",
           "ranks": [
-            11,
-            8
+            5
           ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[08时28分 ~ 10时26分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时28分"
         },
         {
           "title": "泽连斯基称特朗普正逼迫乌克兰向俄罗斯投降",
@@ -544,6 +567,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时21分 ~ 04时19分]"
+        },
+        {
+          "title": "泽连斯基：特朗普正逼迫乌向俄投降",
+          "url": "https://www.toutiao.com/trending/7697602627101655059/",
+          "source": "今日头条",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时28分"
         },
         {
           "title": "美国能源部长：特朗普暂停对俄制裁但未解除",
@@ -623,6 +657,17 @@
           "time_info": "00时22分"
         },
         {
+          "title": "特朗普支持率跌至33%，美国中期选举前共和党承压",
+          "url": "https://flash.jin10.com/detail/20261019105414790800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时28分"
+        },
+        {
           "title": "美国财长贝森特：（回应特朗普豁免俄罗斯制裁）没有解除任何制裁。当时有一个为期60天的期限。看看目前的情况，唯一被取消的只是柴油禁运。",
           "url": "https://flash.jin10.com/detail/20261018224206130800",
           "source": "金十数据",
@@ -685,11 +730,12 @@
           "source": "知乎",
           "ranks": [
             15,
-            13
+            13,
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时32分 ~ 10时26分]"
+          "appearance_count": 4,
+          "time_info": "[09时32分 ~ 11时28分]"
         },
         {
           "title": "DeepSeek新模型有哪些优势",
@@ -708,11 +754,12 @@
           "url": "https://www.zhihu.com/question/2093628371448217836",
           "source": "知乎",
           "ranks": [
-            12
+            12,
+            17
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时26分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时26分 ~ 11时28分]"
         }
       ]
     },
@@ -793,8 +840,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时32分 ~ 10时26分]"
+          "appearance_count": 4,
+          "time_info": "[09时32分 ~ 11时28分]"
         },
         {
           "title": "谷歌将 TPU 送上太空却因散热难题停机，太空算力中心前景如何？",
@@ -806,6 +853,34 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[08时28分 ~ 08时29分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "受油价走软支撑，金价小幅走高",
+          "url": "https://flash.jin10.com/detail/20261019111448476800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时28分"
+        },
+        {
+          "title": "金十图示：2026年10月19日（周一）上海金早盘价为898.12元/克，较国际金价(896.78元/克)，高1.34元/克",
+          "url": "https://flash.jin10.com/detail/20261019104741890800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时28分"
         }
       ]
     },
