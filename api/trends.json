@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-19T15:45:56.036479+08:00",
-  "total_titles_processed": 1324,
+  "generated_at": "2026-10-19T16:36:02.522232+08:00",
+  "total_titles_processed": 1407,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 33,
+      "match_count": 34,
       "titles": [
         {
           "title": "阿赫拉基出任伊朗新任防长",
@@ -44,8 +44,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时22分 ~ 15时45分]"
+          "appearance_count": 23,
+          "time_info": "[00时22分 ~ 16时36分]"
         },
         {
           "title": "伊朗新任国防部长：如果美方投下一枚炸弹，就必须考虑最终会有多少美军士兵被横着抬出这一地区",
@@ -70,6 +70,19 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时22分 ~ 06时20分]"
+        },
+        {
+          "title": "伊朗最新表态：已制定全新应战方案，但“重开霍尔木兹”提议仍有效！",
+          "url": "https://www.cls.cn/detail/2507809",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            11,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[12时31分 ~ 16时36分]"
         },
         {
           "title": "伊朗：已针对可能的新“冒险行径”制定应对方案，不再遵循对方所熟悉的规则",
@@ -129,18 +142,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[02时21分 ~ 05时20分]"
-        },
-        {
-          "title": "伊朗最新表态：已制定全新应战方案，但“重开霍尔木兹”提议仍有效！",
-          "url": "https://www.cls.cn/detail/2507809",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时31分 ~ 15时45分]"
         },
         {
           "title": "伊朗议会议长卡利巴夫：波斯湾数据管理局即将成立。郑重提醒该地区各国政府、基金及企业：请务必不要向任何支持入侵或杀害儿童的人工智能或数据公司提供资源，无论是资金、股权、土地还是能源。若继续向此类公司提供支持，将面临我们的执法行动。",
@@ -339,6 +340,17 @@
           "time_info": "12时31分"
         },
         {
+          "title": "伊朗最高领袖顾问：若再开战，战事将演变为地区性战争",
+          "url": "https://flash.jin10.com/detail/20261019161110184800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时36分"
+        },
+        {
           "title": "据伊朗官方媒体报道，伊朗伊斯兰革命卫队推出一档电视节目，标题为《革命卫队致美国人民的一封信》。播出时间为当地时间10月19日（星期一）16:50，播出频道为伊朗国家电视台第一频道。",
           "url": "https://flash.jin10.com/detail/20261019110231867800",
           "source": "金十数据",
@@ -418,8 +430,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时26分 ~ 15时45分]"
+          "appearance_count": 9,
+          "time_info": "[10时26分 ~ 16时36分]"
         },
         {
           "title": "公开施压！泽连斯基称“星链”限速“有意为之，仅针对乌克兰”，特朗普签署行政令豁免对俄多项制裁",
@@ -443,8 +455,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[08时28分 ~ 15时45分]"
+          "appearance_count": 13,
+          "time_info": "[08时28分 ~ 16时36分]"
         },
         {
           "title": "美国能源部长Wright：俄罗斯帮助世界的唯一方式就是（与乌克兰）实现能源停火。 总统特朗普暂停对俄制裁是一种创新。 对（美国市场的）汽油价格不满意，但乐见油价正在下跌。 汽油价格、柴油价格已经在数周前见顶，我们希望价格继续下跌。 那些反对美国对俄实施豁免的态度根本就是错误的。",
@@ -760,129 +772,8 @@
       ]
     },
     {
-      "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 9,
-      "titles": [
-        {
-          "title": "【早报】两部门：支持体育运动进影院；DeepSeek新模型登场",
-          "url": "https://www.cls.cn/detail/2507548",
-          "source": "财联社热门",
-          "ranks": [
-            3,
-            4,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时22分 ~ 10时26分]"
-        },
-        {
-          "title": "网传 DeepSeek V4.1 Flash 1017 指纹测出 GPT-6 Astra，这是怎么回事？",
-          "url": "https://www.zhihu.com/question/2094959269275878409",
-          "source": "知乎",
-          "ranks": [
-            12,
-            13,
-            14,
-            11,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时22分 ~ 07时17分]"
-        },
-        {
-          "title": "梁文锋和 DeepSeek，为什么配得上 「 国运级 」 三个字？",
-          "url": "https://www.zhihu.com/question/2093628371448217836",
-          "source": "知乎",
-          "ranks": [
-            12,
-            17,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时26分 ~ 15时45分]"
-        },
-        {
-          "title": "Deepseek 对百度搜索的冲击有多大？",
-          "url": "https://www.zhihu.com/question/13453602540",
-          "source": "知乎",
-          "ranks": [
-            15,
-            13,
-            7,
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时32分 ~ 13时29分]"
-        },
-        {
-          "title": "Deepseek公布API网页搜索与抓取费用：每1000次成功请求5元",
-          "url": "https://wallstreetcn.com/livenews/3180663",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时22分 ~ 06时20分]"
-        },
-        {
-          "title": "如何评价 DeepSeek 开放自研搜索 API，单价为每 1000 次成功请求 5 元？",
-          "url": "https://www.zhihu.com/question/2094892066190915387",
-          "source": "知乎",
-          "ranks": [
-            12,
-            11,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时31分 ~ 15时45分]"
-        },
-        {
-          "title": "DeepSeek新模型有哪些优势",
-          "url": "https://search.bilibili.com/all?keyword=DeepSeek%E6%96%B0%E6%A8%A1%E5%9E%8B%E6%9C%89%E5%93%AA%E4%BA%9B%E4%BC%98%E5%8A%BF",
-          "source": "bilibili 热搜",
-          "ranks": [
-            23,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时17分 ~ 08时29分]"
-        },
-        {
-          "title": "DeepSeek 对百度搜索的冲击有多大？",
-          "url": "https://www.zhihu.com/question/13453602540",
-          "source": "知乎",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时35分 ~ 15时45分]"
-        },
-        {
-          "title": "DeepSeek V4.1 F性价比实测",
-          "url": "https://search.bilibili.com/all?keyword=DeepSeek%20V4.1%20F%E6%80%A7%E4%BB%B7%E6%AF%94%E5%AE%9E%E6%B5%8B",
-          "source": "bilibili 热搜",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时35分"
-        }
-      ]
-    },
-    {
       "keyword_group": "美股",
-      "match_count": 8,
+      "match_count": 10,
       "titles": [
         {
           "title": "【早报】美股纳指大跌超500点，半导体、存储股全线跳水；黄仁勋谈“AI市场震荡”；国际油价大涨；胜宏科技、豪威集团等计划回购股份",
@@ -921,6 +812,18 @@
           "time_info": "[06时20分 ~ 07时17分]"
         },
         {
+          "title": "10月19日投资避雷针：上周五美股三大指数集体收跌 费城半导体指数连跌8日",
+          "url": "https://www.cls.cn/detail/2507819",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时35分 ~ 16时36分]"
+        },
+        {
           "title": "美股期货亚市盘初走高，标普500指数期货上涨0.3%，纳斯达克100指数期货上涨0.6%。",
           "url": "https://wallstreetcn.com/livenews/3180708",
           "source": "华尔街见闻-快讯",
@@ -944,15 +847,26 @@
           "time_info": "09时33分"
         },
         {
-          "title": "10月19日投资避雷针：上周五美股三大指数集体收跌 费城半导体指数连跌8日",
-          "url": "https://www.cls.cn/detail/2507819",
-          "source": "财联社热门",
+          "title": "Coreweave(CRWV.O)美股盘前上涨3%，上周累计下跌超过25%。",
+          "url": "https://flash.jin10.com/detail/20261019160428546800",
+          "source": "金十数据",
           "ranks": [
-            13
+            23
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "14时35分"
+          "time_info": "16时36分"
+        },
+        {
+          "title": "美股盘前，存储板块普涨，美光科技(MU.O)涨2.40%，闪迪(SNDK.O)涨3.64%，SK海力士(SKHY.O)涨3.60%，西部数据(WDC.O)、希捷科技(STX.O)涨超2%。",
+          "url": "https://flash.jin10.com/detail/20261019160413731800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时36分"
         },
         {
           "title": "在经历AI抛售潮后，美股有望反弹",
@@ -979,6 +893,128 @@
       ]
     },
     {
+      "keyword_group": "DeepSeek 梁文锋",
+      "match_count": 9,
+      "titles": [
+        {
+          "title": "【早报】两部门：支持体育运动进影院；DeepSeek新模型登场",
+          "url": "https://www.cls.cn/detail/2507548",
+          "source": "财联社热门",
+          "ranks": [
+            3,
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 15,
+          "time_info": "[00时22分 ~ 10时26分]"
+        },
+        {
+          "title": "梁文锋和 DeepSeek，为什么配得上 「 国运级 」 三个字？",
+          "url": "https://www.zhihu.com/question/2093628371448217836",
+          "source": "知乎",
+          "ranks": [
+            12,
+            17,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[10时26分 ~ 16时36分]"
+        },
+        {
+          "title": "网传 DeepSeek V4.1 Flash 1017 指纹测出 GPT-6 Astra，这是怎么回事？",
+          "url": "https://www.zhihu.com/question/2094959269275878409",
+          "source": "知乎",
+          "ranks": [
+            12,
+            13,
+            14,
+            11,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时22分 ~ 07时17分]"
+        },
+        {
+          "title": "如何评价 DeepSeek 开放自研搜索 API，单价为每 1000 次成功请求 5 元？",
+          "url": "https://www.zhihu.com/question/2094892066190915387",
+          "source": "知乎",
+          "ranks": [
+            12,
+            11,
+            16,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[12时31分 ~ 16时36分]"
+        },
+        {
+          "title": "Deepseek 对百度搜索的冲击有多大？",
+          "url": "https://www.zhihu.com/question/13453602540",
+          "source": "知乎",
+          "ranks": [
+            15,
+            13,
+            7,
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[09时32分 ~ 13时29分]"
+        },
+        {
+          "title": "Deepseek公布API网页搜索与抓取费用：每1000次成功请求5元",
+          "url": "https://wallstreetcn.com/livenews/3180663",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时22分 ~ 06时20分]"
+        },
+        {
+          "title": "DeepSeek 对百度搜索的冲击有多大？",
+          "url": "https://www.zhihu.com/question/13453602540",
+          "source": "知乎",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时35分 ~ 16时36分]"
+        },
+        {
+          "title": "DeepSeek新模型有哪些优势",
+          "url": "https://search.bilibili.com/all?keyword=DeepSeek%E6%96%B0%E6%A8%A1%E5%9E%8B%E6%9C%89%E5%93%AA%E4%BA%9B%E4%BC%98%E5%8A%BF",
+          "source": "bilibili 热搜",
+          "ranks": [
+            23,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时17分 ~ 08时29分]"
+        },
+        {
+          "title": "DeepSeek V4.1 F性价比实测",
+          "url": "https://search.bilibili.com/all?keyword=DeepSeek%20V4.1%20F%E6%80%A7%E4%BB%B7%E6%AF%94%E5%AE%9E%E6%B5%8B",
+          "source": "bilibili 热搜",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时35分"
+        }
+      ]
+    },
+    {
       "keyword_group": "谷歌 google gemini",
       "match_count": 2,
       "titles": [
@@ -990,8 +1026,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时32分 ~ 15时45分]"
+          "appearance_count": 11,
+          "time_info": "[09时32分 ~ 16时36分]"
         },
         {
           "title": "谷歌将 TPU 送上太空却因散热难题停机，太空算力中心前景如何？",
