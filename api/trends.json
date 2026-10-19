@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-19T14:35:38.513689+08:00",
-  "total_titles_processed": 1201,
+  "generated_at": "2026-10-19T15:45:56.036479+08:00",
+  "total_titles_processed": 1324,
   "failed_sources": [],
   "trends": [
     {
@@ -44,8 +44,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时22分 ~ 14时35分]"
+          "appearance_count": 21,
+          "time_info": "[00时22分 ~ 15时45分]"
         },
         {
           "title": "伊朗新任国防部长：如果美方投下一枚炸弹，就必须考虑最终会有多少美军士兵被横着抬出这一地区",
@@ -129,6 +129,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[02时21分 ~ 05时20分]"
+        },
+        {
+          "title": "伊朗最新表态：已制定全新应战方案，但“重开霍尔木兹”提议仍有效！",
+          "url": "https://www.cls.cn/detail/2507809",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时31分 ~ 15时45分]"
         },
         {
           "title": "伊朗议会议长卡利巴夫：波斯湾数据管理局即将成立。郑重提醒该地区各国政府、基金及企业：请务必不要向任何支持入侵或杀害儿童的人工智能或数据公司提供资源，无论是资金、股权、土地还是能源。若继续向此类公司提供支持，将面临我们的执法行动。",
@@ -228,18 +240,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时17分 ~ 08时29分]"
-        },
-        {
-          "title": "伊朗最新表态：已制定全新应战方案，但“重开霍尔木兹”提议仍有效！",
-          "url": "https://www.cls.cn/detail/2507809",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时31分 ~ 14时35分]"
         },
         {
           "title": "伊朗总统：绝不屈服于无理要求与霸凌",
@@ -411,6 +411,17 @@
       "match_count": 30,
       "titles": [
         {
+          "title": "特朗普：你不愿结束战争，泽连斯基：你逼乌克兰投降",
+          "url": "https://news.ifeng.com/c/8xLGtqVJ3MX",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[10时26分 ~ 15时45分]"
+        },
+        {
           "title": "公开施压！泽连斯基称“星链”限速“有意为之，仅针对乌克兰”，特朗普签署行政令豁免对俄多项制裁",
           "url": "https://wallstreetcn.com/articles/3783843",
           "source": "华尔街见闻",
@@ -424,17 +435,6 @@
           "time_info": "[00时22分 ~ 09时33分]"
         },
         {
-          "title": "特朗普：你不愿结束战争，泽连斯基：你逼乌克兰投降",
-          "url": "https://news.ifeng.com/c/8xLGtqVJ3MX",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时26分 ~ 14时35分]"
-        },
-        {
           "title": "特朗普新任白宫发言人上任仅 5 天就被解雇，创下史上最短纪录，为什么会这样？",
           "url": "https://www.zhihu.com/question/2094636010722411929",
           "source": "知乎",
@@ -443,8 +443,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[08时28分 ~ 14时35分]"
+          "appearance_count": 11,
+          "time_info": "[08时28分 ~ 15时45分]"
         },
         {
           "title": "美国能源部长Wright：俄罗斯帮助世界的唯一方式就是（与乌克兰）实现能源停火。 总统特朗普暂停对俄制裁是一种创新。 对（美国市场的）汽油价格不满意，但乐见油价正在下跌。 汽油价格、柴油价格已经在数周前见顶，我们希望价格继续下跌。 那些反对美国对俄实施豁免的态度根本就是错误的。",
@@ -533,7 +533,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时35分"
         },
@@ -654,7 +654,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时35分"
         },
@@ -698,7 +698,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时35分"
         },
@@ -801,8 +801,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时26分 ~ 14时35分]"
+          "appearance_count": 7,
+          "time_info": "[10时26分 ~ 15时45分]"
         },
         {
           "title": "Deepseek 对百度搜索的冲击有多大？",
@@ -841,8 +841,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时31分 ~ 14时35分]"
+          "appearance_count": 5,
+          "time_info": "[12时31分 ~ 15时45分]"
         },
         {
           "title": "DeepSeek新模型有哪些优势",
@@ -857,24 +857,24 @@
           "time_info": "[07时17分 ~ 08时29分]"
         },
         {
-          "title": "DeepSeek V4.1 F性价比实测",
-          "url": "https://search.bilibili.com/all?keyword=DeepSeek%20V4.1%20F%E6%80%A7%E4%BB%B7%E6%AF%94%E5%AE%9E%E6%B5%8B",
-          "source": "bilibili 热搜",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时35分"
-        },
-        {
           "title": "DeepSeek 对百度搜索的冲击有多大？",
           "url": "https://www.zhihu.com/question/13453602540",
           "source": "知乎",
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时35分 ~ 15时45分]"
+        },
+        {
+          "title": "DeepSeek V4.1 F性价比实测",
+          "url": "https://search.bilibili.com/all?keyword=DeepSeek%20V4.1%20F%E6%80%A7%E4%BB%B7%E6%AF%94%E5%AE%9E%E6%B5%8B",
+          "source": "bilibili 热搜",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时35分"
         }
@@ -950,7 +950,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时35分"
         },
@@ -961,7 +961,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时35分"
         },
@@ -990,8 +990,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时32分 ~ 14时35分]"
+          "appearance_count": 9,
+          "time_info": "[09时32分 ~ 15时45分]"
         },
         {
           "title": "谷歌将 TPU 送上太空却因散热难题停机，太空算力中心前景如何？",
@@ -1045,7 +1045,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时35分"
         }
