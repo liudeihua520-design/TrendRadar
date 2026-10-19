@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-19T09:33:13.681434+08:00",
-  "total_titles_processed": 741,
+  "generated_at": "2026-10-19T10:26:28.283606+08:00",
+  "total_titles_processed": 835,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时22分 ~ 09时33分]"
+          "appearance_count": 15,
+          "time_info": "[00时22分 ~ 10时26分]"
         },
         {
           "title": "伊朗武装部队开火",
@@ -29,8 +29,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时22分 ~ 09时33分]"
+          "appearance_count": 15,
+          "time_info": "[00时22分 ~ 10时26分]"
         },
         {
           "title": "冲突外溢，伊朗被曝深度介入也门冲突，埃及即将参战？",
@@ -44,8 +44,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时22分 ~ 09时33分]"
+          "appearance_count": 15,
+          "time_info": "[00时22分 ~ 10时26分]"
         },
         {
           "title": "伊朗新任国防部长：如果美方投下一枚炸弹，就必须考虑最终会有多少美军士兵被横着抬出这一地区",
@@ -256,6 +256,18 @@
           "time_info": "[03时19分 ~ 05时20分]"
         },
         {
+          "title": "伊朗总统：绝不屈服于无理要求与霸凌",
+          "url": "https://www.toutiao.com/trending/7697487884345081898/",
+          "source": "今日头条",
+          "ranks": [
+            24,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时32分 ~ 10时26分]"
+        },
+        {
           "title": "以色列总理内塔尼亚胡：我们的目标是消除伊朗威胁，并推翻德黑兰政权。",
           "url": "https://flash.jin10.com/detail/20261019001947873800",
           "source": "金十数据",
@@ -290,17 +302,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时22分 ~ 02时21分]"
-        },
-        {
-          "title": "伊朗总统：绝不屈服于无理要求与霸凌",
-          "url": "https://www.toutiao.com/trending/7697487884345081898/",
-          "source": "今日头条",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时32分 ~ 09时33分]"
         },
         {
           "title": "伊朗总统：绝不屈服于“侵略性”国家无理要求与霸凌",
@@ -361,7 +362,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 21,
+      "match_count": 23,
       "titles": [
         {
           "title": "公开施压！泽连斯基称“星链”限速“有意为之，仅针对乌克兰”，特朗普签署行政令豁免对俄多项制裁",
@@ -424,6 +425,28 @@
           "time_info": "[00时22分 ~ 06时20分]"
         },
         {
+          "title": "特朗普：你不愿结束战争，泽连斯基：你逼乌克兰投降",
+          "url": "https://news.ifeng.com/c/8xLGtqVJ3MX",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时26分"
+        },
+        {
+          "title": "油价没降、俄乌战事未停，特朗普的柴油外交反成共和党选举难题",
+          "url": "https://flash.jin10.com/detail/20261019100528302800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时26分"
+        },
+        {
           "title": "特朗普：不想把俄罗斯从谈判桌上赶走 泽连斯基不想结束战争",
           "url": "https://flash.jin10.com/detail/20261019044419087800",
           "source": "金十数据",
@@ -433,6 +456,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时20分"
+        },
+        {
+          "title": "特朗普新任白宫发言人上任仅 5 天就被解雇，创下史上最短纪录，为什么会这样？",
+          "url": "https://www.zhihu.com/question/2094636010722411929",
+          "source": "知乎",
+          "ranks": [
+            11,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[08时28分 ~ 10时26分]"
         },
         {
           "title": "泽连斯基称特朗普正逼迫乌克兰向俄罗斯投降",
@@ -483,18 +518,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时19分 ~ 05时20分]"
-        },
-        {
-          "title": "特朗普新任白宫发言人上任仅 5 天就被解雇，创下史上最短纪录，为什么会这样？",
-          "url": "https://www.zhihu.com/question/2094636010722411929",
-          "source": "知乎",
-          "ranks": [
-            11,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时28分 ~ 09时33分]"
         },
         {
           "title": "特朗普呼吁法国关闭边境",
@@ -614,7 +637,7 @@
     },
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "【早报】两部门：支持体育运动进影院；DeepSeek新模型登场",
@@ -626,8 +649,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时22分 ~ 09时33分]"
+          "appearance_count": 15,
+          "time_info": "[00时22分 ~ 10时26分]"
         },
         {
           "title": "网传 DeepSeek V4.1 Flash 1017 指纹测出 GPT-6 Astra，这是怎么回事？",
@@ -657,6 +680,18 @@
           "time_info": "[00时22分 ~ 06时20分]"
         },
         {
+          "title": "Deepseek 对百度搜索的冲击有多大？",
+          "url": "https://www.zhihu.com/question/13453602540",
+          "source": "知乎",
+          "ranks": [
+            15,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时32分 ~ 10时26分]"
+        },
+        {
           "title": "DeepSeek新模型有哪些优势",
           "url": "https://search.bilibili.com/all?keyword=DeepSeek%E6%96%B0%E6%A8%A1%E5%9E%8B%E6%9C%89%E5%93%AA%E4%BA%9B%E4%BC%98%E5%8A%BF",
           "source": "bilibili 热搜",
@@ -669,15 +704,15 @@
           "time_info": "[07时17分 ~ 08时29分]"
         },
         {
-          "title": "Deepseek 对百度搜索的冲击有多大？",
-          "url": "https://www.zhihu.com/question/13453602540",
+          "title": "梁文锋和 DeepSeek，为什么配得上 「 国运级 」 三个字？",
+          "url": "https://www.zhihu.com/question/2093628371448217836",
           "source": "知乎",
           "ranks": [
-            15
+            12
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时32分 ~ 09时33分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时26分"
         }
       ]
     },
@@ -740,7 +775,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时33分"
         }
@@ -751,6 +786,17 @@
       "match_count": 2,
       "titles": [
         {
+          "title": "谷歌将 TPU AI 芯片送入太空，每次执行约 15 分钟运算，之后必须暂停散热，太空算力中心前景如何？",
+          "url": "https://www.zhihu.com/question/2094251044960211894",
+          "source": "知乎",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时32分 ~ 10时26分]"
+        },
+        {
           "title": "谷歌将 TPU 送上太空却因散热难题停机，太空算力中心前景如何？",
           "url": "https://www.zhihu.com/question/2094251044960211894",
           "source": "知乎",
@@ -760,17 +806,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[08时28分 ~ 08时29分]"
-        },
-        {
-          "title": "谷歌将 TPU AI 芯片送入太空，每次执行约 15 分钟运算，之后必须暂停散热，太空算力中心前景如何？",
-          "url": "https://www.zhihu.com/question/2094251044960211894",
-          "source": "知乎",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时32分 ~ 09时33分]"
         }
       ]
     },
@@ -784,11 +819,12 @@
           "source": "财联社热门",
           "ranks": [
             10,
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时22分 ~ 09时33分]"
+          "appearance_count": 15,
+          "time_info": "[00时22分 ~ 10时26分]"
         }
       ]
     }
