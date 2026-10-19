@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-20T06:25:55.724414+08:00",
-  "total_titles_processed": 626,
+  "generated_at": "2026-10-20T07:25:33.158091+08:00",
+  "total_titles_processed": 683,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 30,
+      "match_count": 33,
       "titles": [
         {
           "title": "伊朗针对美以威胁有哪些反击预案？凤凰记者：可能从3方面入手",
@@ -15,30 +15,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时29分 ~ 06时25分]"
-        },
-        {
-          "title": "卡塔尔呼吁海湾国家与伊朗开展广泛对话",
-          "url": "https://flash.jin10.com/detail/20261020061820932800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时25分"
-        },
-        {
-          "title": "卡塔尔呼吁海湾国家与伊朗开展广泛对话",
-          "url": "https://wallstreetcn.com/livenews/3181448",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时25分"
+          "appearance_count": 10,
+          "time_info": "[00时29分 ~ 07时25分]"
         },
         {
           "title": "伊朗就海峡光缆发出警告",
@@ -85,6 +63,29 @@
           "time_info": "03时31分"
         },
         {
+          "title": "伊朗新任防长誓言扩大导弹及无人机生产",
+          "url": "https://flash.jin10.com/detail/20261020070514596800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时25分"
+        },
+        {
+          "title": "卡塔尔呼吁海湾国家与伊朗开展广泛对话",
+          "url": "https://flash.jin10.com/detail/20261020061820932800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时25分 ~ 07时25分]"
+        },
+        {
           "title": "据伊朗官方媒体：伊朗总统佩泽希齐扬表示，伊朗与地区国家没有根本分歧，并准备通过对话解决现有问题。",
           "url": "https://flash.jin10.com/detail/20261020020547440800",
           "source": "金十数据",
@@ -107,6 +108,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时28分 ~ 03时31分]"
+        },
+        {
+          "title": "卡塔尔呼吁海湾国家与伊朗开展广泛对话",
+          "url": "https://wallstreetcn.com/livenews/3181448",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时25分 ~ 07时25分]"
         },
         {
           "title": "伊朗波斯湾海峡管理局：122艘船舶被列入违规名单",
@@ -239,6 +252,17 @@
           "time_info": "01时27分"
         },
         {
+          "title": "伊朗驻俄大使：普京与佩泽希齐扬将在莫斯科天然气出口国论坛峰会期间继续磋商",
+          "url": "https://flash.jin10.com/detail/20261020064938698800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时25分"
+        },
+        {
           "title": "俄罗斯外长拉夫罗夫：俄罗斯无意放弃落实与伊朗在经济和投资领域达成的各项协议。 我方专家正逐步重返布什尔核电站。 双方在石油天然气开采与运输领域也具备广阔合作前景。",
           "url": "https://wallstreetcn.com/livenews/3181310",
           "source": "华尔街见闻-快讯",
@@ -305,6 +329,17 @@
           "time_info": "00时29分"
         },
         {
+          "title": "伊朗边境附近战机活动频繁，消息称美以持续进行联合攻击演练",
+          "url": "https://flash.jin10.com/detail/20261020064002159800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时25分"
+        },
+        {
           "title": "以色列总理下令推翻伊朗政权",
           "url": "https://flash.jin10.com/detail/20261020012004133800",
           "source": "金十数据",
@@ -352,18 +387,19 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 29,
+      "match_count": 31,
       "titles": [
         {
           "title": "不满豁免对俄制裁，担心更坏事情发生，美媒称泽连斯基决定“公开对抗特朗普”",
           "url": "https://wallstreetcn.com/articles/3783873",
           "source": "华尔街见闻",
           "ranks": [
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时29分 ~ 06时25分]"
+          "appearance_count": 10,
+          "time_info": "[00时29分 ~ 07时25分]"
         },
         {
           "title": "美国总统特朗普：民主党给我们留下了历史最高的通胀和随之而来的高昂物价，而我一上任，他们就开始高喊“生活负担能力”问题。制造生活成本危机的正是他们。我才是创造了最强劲经济、并正在推动物价下降的人。这不过是又一场假新闻骗局！",
@@ -386,6 +422,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时31分"
+        },
+        {
+          "title": "美国副总统万斯：尚未与特朗普讨论过2028年潜在的总统参选事宜。 还没决定2028年怎么做。 如果我在2028年参选，我认为特朗普会支持我。",
+          "url": "https://wallstreetcn.com/livenews/3181469",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时25分"
         },
         {
           "title": "三位知情人士称，特朗普女婿库什纳与美国总统特使威特科夫计划本周前往挪威参加乌克兰问题会谈。两名知情人士称，乌克兰总统泽连斯基预计将参加会谈。",
@@ -419,11 +466,12 @@
           "ranks": [
             19,
             15,
-            16
+            16,
+            8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时27分 ~ 06时25分]"
+          "appearance_count": 4,
+          "time_info": "[04时27分 ~ 07时25分]"
         },
         {
           "title": "以色列公布通话纪录 特朗普对内塔尼亚胡表支持",
@@ -641,6 +689,17 @@
           "time_info": "04时27分"
         },
         {
+          "title": "据伊朗伊斯兰共和国通讯社（IRNA）报道，伊朗常驻联合国代表团临时代办古拉姆侯赛因·达尔齐致函联合国秘书长及安理会，就美国总统特朗普和以色列方面发出的“傲慢威胁”提出警告。",
+          "url": "https://flash.jin10.com/detail/20261020062204017800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时25分"
+        },
+        {
           "title": "美国总统特朗普：欧洲抗议活动是移民问题导致的。",
           "url": "https://flash.jin10.com/detail/20261020033410130800",
           "source": "金十数据",
@@ -688,7 +747,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "美股科技题材集体反弹 关键半导体指数有望结束连跌 | 今夜看点",
@@ -698,8 +757,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时29分 ~ 06时25分]"
+          "appearance_count": 10,
+          "time_info": "[00时29分 ~ 07时25分]"
         },
         {
           "title": "美股大类资产类ETF多数下跌，地产ETF收跌超1.1%，纳指ETF涨1.2%",
@@ -774,6 +833,17 @@
           "time_info": "[05时25分 ~ 06时25分]"
         },
         {
+          "title": "美股收盘：AI概念回暖纳指涨超1% 存储、芯片板块明显反弹",
+          "url": "https://www.cls.cn/detail/2509104",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时25分"
+        },
+        {
           "title": "金十图示：2026年10月19日（周一）美股热门股票行情一览（美股盘中）",
           "url": "https://flash.jin10.com/detail/20261020003128828800",
           "source": "金十数据",
@@ -809,8 +879,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时29分 ~ 06时25分]"
+          "appearance_count": 10,
+          "time_info": "[00时29分 ~ 07时25分]"
         },
         {
           "title": "如何评价 DeepSeek 开放自研搜索 API，单价为每 1000 次成功请求 5 元？",
@@ -820,8 +890,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时29分 ~ 06时25分]"
+          "appearance_count": 10,
+          "time_info": "[00时29分 ~ 07时25分]"
         },
         {
           "title": "实测Deepseek v4.1动画效果",
@@ -896,7 +966,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时25分"
         }
@@ -904,7 +974,7 @@
     },
     {
       "keyword_group": "美债",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "芯片股反弹，纳指开盘涨1.3%，费城半导体指数涨超3%，油价高位回落，美债走高",
@@ -919,6 +989,17 @@
           "time_info": "[00时29分 ~ 06时25分]"
         },
         {
+          "title": "科技巨头护盘，油价与美债压制反弹，美股周一震荡收高，黄金冲高转跌",
+          "url": "https://wallstreetcn.com/articles/3783911",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时25分"
+        },
+        {
           "title": "10年期美债收益率涨超7个基点，投资者注意力从AI抛售转向美国原油上涨",
           "url": "https://wallstreetcn.com/livenews/3181399",
           "source": "华尔街见闻-快讯",
@@ -929,6 +1010,34 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时27分 ~ 05时25分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "市场消息：消息人士称，软银与MGX正洽谈参与OpenAI本轮融资。",
+          "url": "https://flash.jin10.com/detail/20261020071530604800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时25分"
+        },
+        {
+          "title": "市场消息：消息人士称，OpenAI正争分夺秒地在Anthropic IPO前敲定一轮私募融资的投资者承诺。",
+          "url": "https://flash.jin10.com/detail/20261020071510498800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时25分"
         }
       ]
     },
