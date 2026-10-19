@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-19T18:30:52.356319+08:00",
-  "total_titles_processed": 1640,
+  "generated_at": "2026-10-19T19:28:39.241569+08:00",
+  "total_titles_processed": 1746,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 39,
+      "match_count": 41,
       "titles": [
         {
           "title": "阿赫拉基出任伊朗新任防长",
@@ -357,7 +357,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时30分"
         },
@@ -467,15 +467,37 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时30分"
+        },
+        {
+          "title": "内塔尼亚胡称若胜选将消除伊朗威胁 伊朗外长回应",
+          "url": "https://wallstreetcn.com/livenews/3181139",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时28分"
+        },
+        {
+          "title": "伊朗政府信息委员会主席哈兹拉蒂：武装力量的实力和人民的参与，使伊朗在敌人面前屹立不倒。",
+          "url": "https://flash.jin10.com/detail/20261019184045187800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时28分"
         }
       ]
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 32,
+      "match_count": 34,
       "titles": [
         {
           "title": "特朗普：你不愿结束战争，泽连斯基：你逼乌克兰投降",
@@ -485,8 +507,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[10时26分 ~ 18时30分]"
+          "appearance_count": 12,
+          "time_info": "[10时26分 ~ 19时28分]"
         },
         {
           "title": "公开施压！泽连斯基称“星链”限速“有意为之，仅针对乌克兰”，特朗普签署行政令豁免对俄多项制裁",
@@ -511,8 +533,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[08时28分 ~ 18时30分]"
+          "appearance_count": 16,
+          "time_info": "[08时28分 ~ 19时28分]"
         },
         {
           "title": "美国能源部长Wright：俄罗斯帮助世界的唯一方式就是（与乌克兰）实现能源停火。 总统特朗普暂停对俄制裁是一种创新。 对（美国市场的）汽油价格不满意，但乐见油价正在下跌。 汽油价格、柴油价格已经在数周前见顶，我们希望价格继续下跌。 那些反对美国对俄实施豁免的态度根本就是错误的。",
@@ -579,7 +601,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时30分"
         },
@@ -705,6 +727,18 @@
           "time_info": "[11时28分 ~ 12时31分]"
         },
         {
+          "title": "不满豁免对俄制裁，担心更坏事情发生，美媒称泽连斯基决定“公开对抗特朗普”",
+          "url": "https://wallstreetcn.com/articles/3783873",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时30分 ~ 19时28分]"
+        },
+        {
           "title": "美国物价上涨为何特朗普迁怒乌克兰",
           "url": "https://www.toutiao.com/trending/7698209881555209766/",
           "source": "今日头条",
@@ -716,15 +750,15 @@
           "time_info": "12时31分"
         },
         {
-          "title": "不满豁免对俄制裁，担心更坏事情发生，美媒称泽连斯基决定“公开对抗特朗普”",
-          "url": "https://wallstreetcn.com/articles/3783873",
-          "source": "华尔街见闻",
+          "title": "美国总统特朗普：我今天将前往伟大的堪萨斯州举行集会，为Roger Marshall争取支持。他是美国参议院最优秀的参议员之一。他的对手是个骗子，如果当选，将给堪萨斯州带来灾难。我曾三次赢得该州选举，并获得堪萨斯州历史上最高的选票数，这是一项莫大的荣誉！稍后见！",
+          "url": "https://flash.jin10.com/detail/20261019185319984800",
+          "source": "金十数据",
           "ranks": [
             10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "18时30分"
+          "time_info": "19时28分"
         },
         {
           "title": "美国能源部长：特朗普暂停对俄制裁但未解除",
@@ -758,6 +792,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时17分"
+        },
+        {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-10-19）",
+          "url": "https://flash.jin10.com/detail/20261019184740102800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时28分"
         },
         {
           "title": "以色列总理内塔尼亚胡：感谢特朗普总统给予的大力支持，以及双方开展的共同努力。我们将携手完成任务。",
@@ -846,6 +891,163 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时22分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "DeepSeek 梁文锋",
+      "match_count": 12,
+      "titles": [
+        {
+          "title": "【早报】两部门：支持体育运动进影院；DeepSeek新模型登场",
+          "url": "https://www.cls.cn/detail/2507548",
+          "source": "财联社热门",
+          "ranks": [
+            3,
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 15,
+          "time_info": "[00时22分 ~ 10时26分]"
+        },
+        {
+          "title": "梁文锋和 DeepSeek，为什么配得上 「 国运级 」 三个字？",
+          "url": "https://www.zhihu.com/question/2093628371448217836",
+          "source": "知乎",
+          "ranks": [
+            12,
+            17,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[10时26分 ~ 19时28分]"
+        },
+        {
+          "title": "如何评价 DeepSeek 开放自研搜索 API，单价为每 1000 次成功请求 5 元？",
+          "url": "https://www.zhihu.com/question/2094892066190915387",
+          "source": "知乎",
+          "ranks": [
+            12,
+            11,
+            16,
+            5,
+            4,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[12时31分 ~ 19时28分]"
+        },
+        {
+          "title": "网传 DeepSeek V4.1 Flash 1017 指纹测出 GPT-6 Astra，这是怎么回事？",
+          "url": "https://www.zhihu.com/question/2094959269275878409",
+          "source": "知乎",
+          "ranks": [
+            12,
+            13,
+            14,
+            11,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时22分 ~ 07时17分]"
+        },
+        {
+          "title": "Deepseek 对百度搜索的冲击有多大？",
+          "url": "https://www.zhihu.com/question/13453602540",
+          "source": "知乎",
+          "ranks": [
+            15,
+            13,
+            7,
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[09时32分 ~ 13时29分]"
+        },
+        {
+          "title": "Deepseek公布API网页搜索与抓取费用：每1000次成功请求5元",
+          "url": "https://wallstreetcn.com/livenews/3180663",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时22分 ~ 06时20分]"
+        },
+        {
+          "title": "DeepSeek 对百度搜索的冲击有多大？",
+          "url": "https://www.zhihu.com/question/13453602540",
+          "source": "知乎",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[14时35分 ~ 17时32分]"
+        },
+        {
+          "title": "DeepSeek新模型有哪些优势",
+          "url": "https://search.bilibili.com/all?keyword=DeepSeek%E6%96%B0%E6%A8%A1%E5%9E%8B%E6%9C%89%E5%93%AA%E4%BA%9B%E4%BC%98%E5%8A%BF",
+          "source": "bilibili 热搜",
+          "ranks": [
+            23,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时17分 ~ 08时29分]"
+        },
+        {
+          "title": "Deepseek对传统搜索的冲击有多大？",
+          "url": "https://www.zhihu.com/question/13453602540",
+          "source": "知乎",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时30分 ~ 19时28分]"
+        },
+        {
+          "title": "DeepSeek V4.1 F性价比实测",
+          "url": "https://search.bilibili.com/all?keyword=DeepSeek%20V4.1%20F%E6%80%A7%E4%BB%B7%E6%AF%94%E5%AE%9E%E6%B5%8B",
+          "source": "bilibili 热搜",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时35分"
+        },
+        {
+          "title": "【MiniMax认领Space Bunny，M3.1 Flash即将发布】10月19日下午，MiniMax官方账号发布一条短视频，配文“Welcome back，Space Bunny”。此举被视为官方认领匿名模型Space Bunny（太空兔）。该模型自9月下旬上线后，3天内即登顶 OpenRouter和 OpenCode的Token日调用量榜首，与DeepSeek V4.1 Flash、GLM 5.3 Flash一同占据前三名。（界面）",
+          "url": "https://wallstreetcn.com/livenews/3181164",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时28分"
+        },
+        {
+          "title": "DeepSeek V4.1最新前端实测",
+          "url": "https://search.bilibili.com/all?keyword=DeepSeek%20V4.1%E6%9C%80%E6%96%B0%E5%89%8D%E7%AB%AF%E5%AE%9E%E6%B5%8B",
+          "source": "bilibili 热搜",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时28分"
         }
       ]
     },
@@ -978,140 +1180,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时31分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 10,
-      "titles": [
-        {
-          "title": "【早报】两部门：支持体育运动进影院；DeepSeek新模型登场",
-          "url": "https://www.cls.cn/detail/2507548",
-          "source": "财联社热门",
-          "ranks": [
-            3,
-            4,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时22分 ~ 10时26分]"
-        },
-        {
-          "title": "梁文锋和 DeepSeek，为什么配得上 「 国运级 」 三个字？",
-          "url": "https://www.zhihu.com/question/2093628371448217836",
-          "source": "知乎",
-          "ranks": [
-            12,
-            17,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[10时26分 ~ 18时30分]"
-        },
-        {
-          "title": "如何评价 DeepSeek 开放自研搜索 API，单价为每 1000 次成功请求 5 元？",
-          "url": "https://www.zhihu.com/question/2094892066190915387",
-          "source": "知乎",
-          "ranks": [
-            12,
-            11,
-            16,
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[12时31分 ~ 18时30分]"
-        },
-        {
-          "title": "网传 DeepSeek V4.1 Flash 1017 指纹测出 GPT-6 Astra，这是怎么回事？",
-          "url": "https://www.zhihu.com/question/2094959269275878409",
-          "source": "知乎",
-          "ranks": [
-            12,
-            13,
-            14,
-            11,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时22分 ~ 07时17分]"
-        },
-        {
-          "title": "Deepseek 对百度搜索的冲击有多大？",
-          "url": "https://www.zhihu.com/question/13453602540",
-          "source": "知乎",
-          "ranks": [
-            15,
-            13,
-            7,
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时32分 ~ 13时29分]"
-        },
-        {
-          "title": "Deepseek公布API网页搜索与抓取费用：每1000次成功请求5元",
-          "url": "https://wallstreetcn.com/livenews/3180663",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时22分 ~ 06时20分]"
-        },
-        {
-          "title": "DeepSeek 对百度搜索的冲击有多大？",
-          "url": "https://www.zhihu.com/question/13453602540",
-          "source": "知乎",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时35分 ~ 17时32分]"
-        },
-        {
-          "title": "DeepSeek新模型有哪些优势",
-          "url": "https://search.bilibili.com/all?keyword=DeepSeek%E6%96%B0%E6%A8%A1%E5%9E%8B%E6%9C%89%E5%93%AA%E4%BA%9B%E4%BC%98%E5%8A%BF",
-          "source": "bilibili 热搜",
-          "ranks": [
-            23,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时17分 ~ 08时29分]"
-        },
-        {
-          "title": "DeepSeek V4.1 F性价比实测",
-          "url": "https://search.bilibili.com/all?keyword=DeepSeek%20V4.1%20F%E6%80%A7%E4%BB%B7%E6%AF%94%E5%AE%9E%E6%B5%8B",
-          "source": "bilibili 热搜",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时35分"
-        },
-        {
-          "title": "Deepseek对传统搜索的冲击有多大？",
-          "url": "https://www.zhihu.com/question/13453602540",
-          "source": "知乎",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时30分"
         }
       ]
     },
