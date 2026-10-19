@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-19T11:28:21.428274+08:00",
-  "total_titles_processed": 945,
+  "generated_at": "2026-10-19T12:31:32.903594+08:00",
+  "total_titles_processed": 1047,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 30,
+      "match_count": 33,
       "titles": [
         {
           "title": "阿赫拉基出任伊朗新任防长",
@@ -44,8 +44,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时22分 ~ 11时28分]"
+          "appearance_count": 17,
+          "time_info": "[00时22分 ~ 12时31分]"
         },
         {
           "title": "伊朗新任国防部长：如果美方投下一枚炸弹，就必须考虑最终会有多少美军士兵被横着抬出这一地区",
@@ -316,13 +316,35 @@
           "time_info": "08时29分"
         },
         {
+          "title": "伊朗：一艘“违规”油轮在霍尔木兹海峡触雷爆炸",
+          "url": "https://flash.jin10.com/detail/20261019120740140800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时31分"
+        },
+        {
+          "title": "伊朗最新表态：已制定全新应战方案，但“重开霍尔木兹”提议仍有效！",
+          "url": "https://www.cls.cn/detail/2507809",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时31分"
+        },
+        {
           "title": "据伊朗官方媒体报道，伊朗伊斯兰革命卫队推出一档电视节目，标题为《革命卫队致美国人民的一封信》。播出时间为当地时间10月19日（星期一）16:50，播出频道为伊朗国家电视台第一频道。",
           "url": "https://flash.jin10.com/detail/20261019110231867800",
           "source": "金十数据",
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时28分"
         },
@@ -369,12 +391,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时20分"
+        },
+        {
+          "title": "伊朗革命卫队副总司令：将坚定不移地继续我们的胜利之路",
+          "url": "https://flash.jin10.com/detail/20261019115421976800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时31分"
         }
       ]
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 26,
+      "match_count": 27,
       "titles": [
         {
           "title": "公开施压！泽连斯基称“星链”限速“有意为之，仅针对乌克兰”，特朗普签署行政令豁免对俄多项制裁",
@@ -402,29 +435,6 @@
           "time_info": "[00时22分 ~ 06时20分]"
         },
         {
-          "title": "美国总统特朗普：伊朗非常强硬。（福克斯新闻）",
-          "url": "https://wallstreetcn.com/livenews/3180671",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时22分 ~ 06时20分]"
-        },
-        {
-          "title": "特朗普发文力挺俄罗斯",
-          "url": "https://news.ifeng.com/c/8xLMv1Nvg4h",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时32分 ~ 09时33分]"
-        },
-        {
           "title": "特朗普：你不愿结束战争，泽连斯基：你逼乌克兰投降",
           "url": "https://news.ifeng.com/c/8xLGtqVJ3MX",
           "source": "凤凰网",
@@ -432,16 +442,16 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时26分 ~ 11时28分]"
+          "appearance_count": 3,
+          "time_info": "[10时26分 ~ 12时31分]"
         },
         {
-          "title": "特朗普呼吁法国关闭边境",
-          "url": "https://wallstreetcn.com/livenews/3180661",
+          "title": "美国总统特朗普：伊朗非常强硬。（福克斯新闻）",
+          "url": "https://wallstreetcn.com/livenews/3180671",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            13,
-            23
+            6,
+            16
           ],
           "is_new": false,
           "appearance_count": 7,
@@ -456,8 +466,31 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[08时28分 ~ 11时28分]"
+          "appearance_count": 7,
+          "time_info": "[08时28分 ~ 12时31分]"
+        },
+        {
+          "title": "特朗普发文力挺俄罗斯",
+          "url": "https://news.ifeng.com/c/8xLMv1Nvg4h",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时32分 ~ 09时33分]"
+        },
+        {
+          "title": "特朗普呼吁法国关闭边境",
+          "url": "https://wallstreetcn.com/livenews/3180661",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时22分 ~ 06时20分]"
         },
         {
           "title": "油价没降、俄乌战事未停，特朗普的柴油外交反成共和党选举难题",
@@ -488,7 +521,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时28分"
         },
@@ -573,11 +606,23 @@
           "url": "https://www.toutiao.com/trending/7697602627101655059/",
           "source": "今日头条",
           "ranks": [
-            8
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时28分 ~ 12时31分]"
+        },
+        {
+          "title": "美国物价上涨为何特朗普迁怒乌克兰",
+          "url": "https://www.toutiao.com/trending/7698209881555209766/",
+          "source": "今日头条",
+          "ranks": [
+            6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "11时28分"
+          "time_info": "12时31分"
         },
         {
           "title": "美国能源部长：特朗普暂停对俄制裁但未解除",
@@ -663,7 +708,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时28分"
         },
@@ -682,7 +727,7 @@
     },
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "【早报】两部门：支持体育运动进影院；DeepSeek新模型登场",
@@ -731,11 +776,25 @@
           "ranks": [
             15,
             13,
-            7
+            7,
+            10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时32分 ~ 11时28分]"
+          "appearance_count": 5,
+          "time_info": "[09时32分 ~ 12时31分]"
+        },
+        {
+          "title": "梁文锋和 DeepSeek，为什么配得上 「 国运级 」 三个字？",
+          "url": "https://www.zhihu.com/question/2093628371448217836",
+          "source": "知乎",
+          "ranks": [
+            12,
+            17,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时26分 ~ 12时31分]"
         },
         {
           "title": "DeepSeek新模型有哪些优势",
@@ -750,22 +809,21 @@
           "time_info": "[07时17分 ~ 08时29分]"
         },
         {
-          "title": "梁文锋和 DeepSeek，为什么配得上 「 国运级 」 三个字？",
-          "url": "https://www.zhihu.com/question/2093628371448217836",
+          "title": "如何评价 DeepSeek 开放自研搜索 API，单价为每 1000 次成功请求 5 元？",
+          "url": "https://www.zhihu.com/question/2094892066190915387",
           "source": "知乎",
           "ranks": [
-            12,
-            17
+            12
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时26分 ~ 11时28分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时31分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "【早报】美股纳指大跌超500点，半导体、存储股全线跳水；黄仁勋谈“AI市场震荡”；国际油价大涨；胜宏科技、豪威集团等计划回购股份",
@@ -825,6 +883,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时33分"
+        },
+        {
+          "title": "美股牛市4周年：标普500指数上涨119%",
+          "url": "https://www.toutiao.com/trending/7698186948640456731/",
+          "source": "今日头条",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时31分"
         }
       ]
     },
@@ -840,8 +909,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时32分 ~ 11时28分]"
+          "appearance_count": 5,
+          "time_info": "[09时32分 ~ 12时31分]"
         },
         {
           "title": "谷歌将 TPU 送上太空却因散热难题停机，太空算力中心前景如何？",
@@ -867,7 +936,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时28分"
         },
@@ -878,7 +947,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时28分"
         }
