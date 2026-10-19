@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-19T13:29:02.483261+08:00",
-  "total_titles_processed": 1122,
+  "generated_at": "2026-10-19T14:35:38.513689+08:00",
+  "total_titles_processed": 1201,
   "failed_sources": [],
   "trends": [
     {
@@ -44,8 +44,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时22分 ~ 13时29分]"
+          "appearance_count": 20,
+          "time_info": "[00时22分 ~ 14时35分]"
         },
         {
           "title": "伊朗新任国防部长：如果美方投下一枚炸弹，就必须考虑最终会有多少美军士兵被横着抬出这一地区",
@@ -230,6 +230,18 @@
           "time_info": "[07时17分 ~ 08时29分]"
         },
         {
+          "title": "伊朗最新表态：已制定全新应战方案，但“重开霍尔木兹”提议仍有效！",
+          "url": "https://www.cls.cn/detail/2507809",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时31分 ~ 14时35分]"
+        },
+        {
           "title": "伊朗总统：绝不屈服于无理要求与霸凌",
           "url": "https://www.toutiao.com/trending/7697487884345081898/",
           "source": "今日头条",
@@ -267,17 +279,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时19分 ~ 05时20分]"
-        },
-        {
-          "title": "伊朗最新表态：已制定全新应战方案，但“重开霍尔木兹”提议仍有效！",
-          "url": "https://www.cls.cn/detail/2507809",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时31分 ~ 13时29分]"
         },
         {
           "title": "以色列总理内塔尼亚胡：我们的目标是消除伊朗威胁，并推翻德黑兰政权。",
@@ -407,7 +408,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 27,
+      "match_count": 30,
       "titles": [
         {
           "title": "公开施压！泽连斯基称“星链”限速“有意为之，仅针对乌克兰”，特朗普签署行政令豁免对俄多项制裁",
@@ -430,8 +431,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时26分 ~ 13时29分]"
+          "appearance_count": 6,
+          "time_info": "[10时26分 ~ 14时35分]"
         },
         {
           "title": "特朗普新任白宫发言人上任仅 5 天就被解雇，创下史上最短纪录，为什么会这样？",
@@ -442,8 +443,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[08时28分 ~ 13时29分]"
+          "appearance_count": 10,
+          "time_info": "[08时28分 ~ 14时35分]"
         },
         {
           "title": "美国能源部长Wright：俄罗斯帮助世界的唯一方式就是（与乌克兰）实现能源停火。 总统特朗普暂停对俄制裁是一种创新。 对（美国市场的）汽油价格不满意，但乐见油价正在下跌。 汽油价格、柴油价格已经在数周前见顶，我们希望价格继续下跌。 那些反对美国对俄实施豁免的态度根本就是错误的。",
@@ -524,6 +525,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时28分"
+        },
+        {
+          "title": "美媒统计特朗普执政下美国人财务状况的五大变化（三）：住房成本",
+          "url": "https://flash.jin10.com/detail/20261019141330125800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时35分"
         },
         {
           "title": "泽连斯基称特朗普正逼迫乌克兰向俄罗斯投降",
@@ -636,6 +648,17 @@
           "time_info": "00时22分"
         },
         {
+          "title": "美媒统计特朗普执政下美国人财务状况的五大变化（二）：投资收益",
+          "url": "https://flash.jin10.com/detail/20261019141048533800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时35分"
+        },
+        {
           "title": "泽连斯基指特朗普施压乌克兰“投降”，提出新交易：停袭俄炼厂换“爱国者”导弹",
           "url": "https://flash.jin10.com/detail/20261019064327534800",
           "source": "金十数据",
@@ -667,6 +690,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时17分"
+        },
+        {
+          "title": "美媒统计特朗普执政下美国人财务状况的五大变化（一）：食品成本",
+          "url": "https://flash.jin10.com/detail/20261019140707751800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时35分"
         },
         {
           "title": "特朗普支持内塔尼亚胡竞选连任以色列总理",
@@ -727,7 +761,7 @@
     },
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 7,
+      "match_count": 9,
       "titles": [
         {
           "title": "【早报】两部门：支持体育运动进影院；DeepSeek新模型登场",
@@ -758,6 +792,19 @@
           "time_info": "[00时22分 ~ 07时17分]"
         },
         {
+          "title": "梁文锋和 DeepSeek，为什么配得上 「 国运级 」 三个字？",
+          "url": "https://www.zhihu.com/question/2093628371448217836",
+          "source": "知乎",
+          "ranks": [
+            12,
+            17,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[10时26分 ~ 14时35分]"
+        },
+        {
           "title": "Deepseek 对百度搜索的冲击有多大？",
           "url": "https://www.zhihu.com/question/13453602540",
           "source": "知乎",
@@ -785,29 +832,17 @@
           "time_info": "[00时22分 ~ 06时20分]"
         },
         {
-          "title": "梁文锋和 DeepSeek，为什么配得上 「 国运级 」 三个字？",
-          "url": "https://www.zhihu.com/question/2093628371448217836",
-          "source": "知乎",
-          "ranks": [
-            12,
-            17,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时26分 ~ 13时29分]"
-        },
-        {
           "title": "如何评价 DeepSeek 开放自研搜索 API，单价为每 1000 次成功请求 5 元？",
           "url": "https://www.zhihu.com/question/2094892066190915387",
           "source": "知乎",
           "ranks": [
             12,
-            11
+            11,
+            16
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时31分 ~ 13时29分]"
+          "appearance_count": 4,
+          "time_info": "[12时31分 ~ 14时35分]"
         },
         {
           "title": "DeepSeek新模型有哪些优势",
@@ -820,12 +855,34 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[07时17分 ~ 08时29分]"
+        },
+        {
+          "title": "DeepSeek V4.1 F性价比实测",
+          "url": "https://search.bilibili.com/all?keyword=DeepSeek%20V4.1%20F%E6%80%A7%E4%BB%B7%E6%AF%94%E5%AE%9E%E6%B5%8B",
+          "source": "bilibili 热搜",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时35分"
+        },
+        {
+          "title": "DeepSeek 对百度搜索的冲击有多大？",
+          "url": "https://www.zhihu.com/question/13453602540",
+          "source": "知乎",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时35分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 6,
+      "match_count": 8,
       "titles": [
         {
           "title": "【早报】美股纳指大跌超500点，半导体、存储股全线跳水；黄仁勋谈“AI市场震荡”；国际油价大涨；胜宏科技、豪威集团等计划回购股份",
@@ -887,6 +944,28 @@
           "time_info": "09时33分"
         },
         {
+          "title": "10月19日投资避雷针：上周五美股三大指数集体收跌 费城半导体指数连跌8日",
+          "url": "https://www.cls.cn/detail/2507819",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时35分"
+        },
+        {
+          "title": "在经历AI抛售潮后，美股有望反弹",
+          "url": "https://flash.jin10.com/detail/20261019140036664800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时35分"
+        },
+        {
           "title": "美股牛市4周年：标普500指数上涨119%",
           "url": "https://www.toutiao.com/trending/7698186948640456731/",
           "source": "今日头条",
@@ -911,8 +990,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时32分 ~ 13时29分]"
+          "appearance_count": 8,
+          "time_info": "[09时32分 ~ 14时35分]"
         },
         {
           "title": "谷歌将 TPU 送上太空却因散热难题停机，太空算力中心前景如何？",
@@ -952,6 +1031,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时28分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "美国联邦调查局：涉嫌在OpenAI办公室安装窃听设备的嫌疑人被捕前数日，曾通过WhatsApp联系沙特王室成员。",
+          "url": "https://flash.jin10.com/detail/20261019141252425800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时35分"
         }
       ]
     },
