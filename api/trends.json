@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-20T21:37:33.925292+08:00",
-  "total_titles_processed": 2093,
+  "generated_at": "2026-10-20T22:32:13.745522+08:00",
+  "total_titles_processed": 2191,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 58,
+      "match_count": 61,
       "titles": [
         {
           "title": "以色列总理称已下达“推翻伊朗政权”指令",
@@ -42,13 +42,24 @@
           "time_info": "14时31分"
         },
         {
+          "title": "据以色列列第12频道：巴基斯坦陆军参谋长今日向伊朗高级官员提交的提案已获得美国批准，伊朗方面也已初步同意。",
+          "url": "https://flash.jin10.com/detail/20261020221318778800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时32分"
+        },
+        {
           "title": "美国财政部长贝森特谈：（房利美、房地美）可能在明年处理所有权问题。 我认为抵押贷款利率将会下降。 利率因能源冲击而上升，住房市场已放缓。 如果我们失去来自中国台湾的芯片供应，那将是破坏性的。 伊朗开始出现恐慌情绪，货币崩溃。 伊朗经济将在某个时点出现非线性变化。",
           "url": "https://wallstreetcn.com/livenews/3181955",
           "source": "华尔街见闻-快讯",
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时37分"
         },
@@ -398,7 +409,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时37分"
         },
@@ -513,6 +524,17 @@
           "time_info": "16时31分"
         },
         {
+          "title": "【美国待售房屋销量降至历史低点，抵押贷款利率上升】美国9月现有住房待售销量跌至历史最低水平，高企的抵押贷款利率持续压制购房需求。 周二公布的数据显示，美国全国房地产经纪人协会（NAR）的成屋签约指数上月下跌7.3%，至66，为2001年有记录以来最低。 这一惨淡数据是最新一系列报告显示美国房地产市场在高借贷成本和房价压力下仍陷入僵局的最新例证。自伊朗战争爆发以来，抵押贷款利率持续攀升，目前已接近三年来的最高水平。 根据未经季节性调整的数据，签约量较去年同期下降近13%。 美国各地区的待售房屋销量均大幅下滑。西部地区跌幅最大，达9.2%；而南部——最大的房屋销售地区——下跌8.2%。",
+          "url": "https://wallstreetcn.com/livenews/3181977",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时32分"
+        },
+        {
           "title": "以色列总理下令推翻伊朗政权",
           "url": "https://flash.jin10.com/detail/20261020012004133800",
           "source": "金十数据",
@@ -541,9 +563,20 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时37分"
+        },
+        {
+          "title": "以色列国防部长卡茨： 倘若真主党配合伊朗一同袭击以色列，它将遭受沉重打击。以色列国防军准备向纳巴蒂耶、利塔尼河谷更多区域推进 。",
+          "url": "https://flash.jin10.com/detail/20261020220044418800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时32分"
         },
         {
           "title": "巴基斯坦陆军参谋长抵达伊朗德黑兰",
@@ -563,7 +596,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时37分"
         },
@@ -670,7 +703,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 54,
+      "match_count": 56,
       "titles": [
         {
           "title": "普京提议中美俄三方会谈，特朗普表态",
@@ -684,20 +717,6 @@
           "time_info": "[11时26分 ~ 19时27分]"
         },
         {
-          "title": "特朗普：中方在乌问题上立场很公允",
-          "url": "https://www.toutiao.com/trending/7697897058136604715/",
-          "source": "今日头条",
-          "ranks": [
-            6,
-            2,
-            4,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[14时31分 ~ 21时37分]"
-        },
-        {
           "title": "特朗普：也许泽连斯基是时候找别人来谈判了",
           "url": "https://news.ifeng.com/c/8xMyNrph5V3",
           "source": "凤凰网",
@@ -707,8 +726,23 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[09时32分 ~ 21时37分]"
+          "appearance_count": 19,
+          "time_info": "[09时32分 ~ 22时32分]"
+        },
+        {
+          "title": "特朗普：中方在乌问题上立场很公允",
+          "url": "https://www.toutiao.com/trending/7697897058136604715/",
+          "source": "今日头条",
+          "ranks": [
+            6,
+            2,
+            4,
+            5,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[14时31分 ~ 22时32分]"
         },
         {
           "title": "不满豁免对俄制裁，担心更坏事情发生，美媒称泽连斯基决定“公开对抗特朗普”",
@@ -721,6 +755,17 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时29分 ~ 07时25分]"
+        },
+        {
+          "title": "特朗普对与中俄举行三方会谈态度积极，外交部回应",
+          "url": "https://news.ifeng.com/c/8xNT3u1JB1s",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[20时31分 ~ 22时32分]"
         },
         {
           "title": "花活+1，特朗普呼吁：新墨西哥州应更名为“新美国州”",
@@ -745,8 +790,19 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[09时32分 ~ 21时37分]"
+          "appearance_count": 18,
+          "time_info": "[09时32分 ~ 22时32分]"
+        },
+        {
+          "title": "美国中期选举在即，特朗普连共和党铁盘都快守不住了",
+          "url": "https://news.ifeng.com/c/8xNa7mI3a46",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[20时31分 ~ 22时32分]"
         },
         {
           "title": "特朗普称该换人代表乌克兰谈判 以色列总理下令推翻伊朗政权 | 环球市场",
@@ -762,28 +818,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[09时32分 ~ 15时38分]"
-        },
-        {
-          "title": "特朗普对与中俄举行三方会谈态度积极，外交部回应",
-          "url": "https://news.ifeng.com/c/8xNT3u1JB1s",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时31分 ~ 21时37分]"
-        },
-        {
-          "title": "美国中期选举在即，特朗普连共和党铁盘都快守不住了",
-          "url": "https://news.ifeng.com/c/8xNa7mI3a46",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时31分 ~ 21时37分]"
         },
         {
           "title": "中期选举前关键民调！特朗普支持率创历史新低：31%",
@@ -1013,6 +1047,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[16时30分 ~ 16时31分]"
+        },
+        {
+          "title": "特朗普：中方在乌问题上立场很公允",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E4%B8%AD%E6%96%B9%E5%9C%A8%E4%B9%8C%E9%97%AE%E9%A2%98%E4%B8%8A%E7%AB%8B%E5%9C%BA%E5%BE%88%E5%85%AC%E5%85%81",
+          "source": "百度热搜",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时31分 ~ 22时32分]"
+        },
+        {
+          "title": "特朗普公开支持以总理连任有何考量",
+          "url": "https://www.toutiao.com/trending/7698684709220188681/",
+          "source": "今日头条",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时31分 ~ 22时32分]"
         },
         {
           "title": "特朗普称对中美俄三方会谈持积极态度，中方是否接受提议？外交部回应",
@@ -1304,7 +1360,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 25,
+      "match_count": 28,
       "titles": [
         {
           "title": "【早报】美股存储、半导体股，全线爆发；首批18只主动ETF获批；10余家A股公司宣布回购",
@@ -1407,6 +1463,18 @@
           "time_info": "[20时31分 ~ 21时37分]"
         },
         {
+          "title": "韩国AI新股上市首日暴跌 美股科技题材再度承压 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2510214",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时37分 ~ 22时32分]"
+        },
+        {
           "title": "金十图示：2026年10月19日（周一）热门中概股行情一览（美股收盘）",
           "url": "https://flash.jin10.com/detail/20261020040516018800",
           "source": "金十数据",
@@ -1429,6 +1497,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时27分 ~ 05时25分]"
+        },
+        {
+          "title": "美股市值前十公司盘初股价全线下跌",
+          "url": "https://www.toutiao.com/trending/7698236248431050795/",
+          "source": "今日头条",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时31分 ~ 22时32分]"
         },
         {
           "title": "美股七巨头收盘播报｜周一（10月19日），美国科技股七巨头（Magnificent 7）指数涨1.26%，报234.71点，早盘显著上涨，北京时间22:30以来持续高位震荡。成分股中，亚马逊收涨4.98%，特斯拉涨3.76%，苹果跌0.15%。 “超大”市值科技股指数涨1.44%，报460.34点。",
@@ -1455,17 +1534,6 @@
           "time_info": "[05时25分 ~ 06时25分]"
         },
         {
-          "title": "韩国AI新股上市首日暴跌 美股科技题材再度承压 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2510214",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时37分"
-        },
-        {
           "title": "金十数据整理：每日美股市场要闻速递（2026-10-20）",
           "url": "https://flash.jin10.com/detail/20261020200215090800",
           "source": "金十数据",
@@ -1483,7 +1551,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时37分"
         },
@@ -1587,6 +1655,17 @@
           "time_info": "01时27分"
         },
         {
+          "title": "美股盘初，主要行业ETF涨跌不一，医疗业ETF涨近2%，区域银行业ETF、银行业ETF涨超1%，半导体ETF跌近2%，科技行业ETF跌超1%。",
+          "url": "https://wallstreetcn.com/livenews/3181965",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时32分"
+        },
+        {
           "title": "美股牛市4岁了",
           "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E7%89%9B%E5%B8%824%E5%B2%81%E4%BA%86",
           "source": "百度热搜",
@@ -1596,6 +1675,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时32分"
+        },
+        {
+          "title": "美股盘初：费城半导体指数跌1.75%，存储芯片股、光通信股普跌，通用汽车跌约6%",
+          "url": "https://wallstreetcn.com/livenews/3181960",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时32分"
         }
       ]
     },
@@ -1614,8 +1704,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[16时30分 ~ 21时37分]"
+          "appearance_count": 10,
+          "time_info": "[16时30分 ~ 22时32分]"
         },
         {
           "title": "如何评价 DeepSeek V4.1 Flash 1017 登顶「史上最差 AI 模型名称排行榜」?",
@@ -1686,6 +1776,19 @@
           "time_info": "[15时38分 ~ 16时31分]"
         },
         {
+          "title": "如何看待 DeepSeek 开源的大规模云服务推理框架 DeepInfer ？",
+          "url": "https://www.zhihu.com/question/2095922064804636469",
+          "source": "知乎",
+          "ranks": [
+            10,
+            4,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[19时27分 ~ 22时32分]"
+        },
+        {
           "title": "如何评价美国国土安全部将 DeepSeek 及相关第三方产品排除出联邦文职采购？",
           "url": "https://www.zhihu.com/question/2095646780692099465",
           "source": "知乎",
@@ -1698,17 +1801,15 @@
           "time_info": "[11时26分 ~ 15时38分]"
         },
         {
-          "title": "如何看待 DeepSeek 开源的大规模云服务推理框架 DeepInfer ？",
-          "url": "https://www.zhihu.com/question/2095922064804636469",
-          "source": "知乎",
+          "title": "无理打压中企！美国政府下令全面移除DeepSeek技术",
+          "url": "https://original.ifeng.com/c/8xNeD5i09FW",
+          "source": "凤凰网",
           "ranks": [
-            10,
-            4,
-            11
+            9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时27分 ~ 21时37分]"
+          "appearance_count": 5,
+          "time_info": "[20时31分 ~ 22时32分]"
         },
         {
           "title": "DeepSeek学霸的降维打击",
@@ -1732,17 +1833,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[02时28分 ~ 04时27分]"
-        },
-        {
-          "title": "无理打压中企！美国政府下令全面移除DeepSeek技术",
-          "url": "https://original.ifeng.com/c/8xNeD5i09FW",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时31分 ~ 21时37分]"
         },
         {
           "title": "针对DeepSeek 美国政府下黑手",
@@ -1815,7 +1905,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "Cognizant与谷歌云扩大合作联盟，加速企业向智能体驱动型企业转型。",
@@ -1875,6 +1965,17 @@
           "time_info": "06时25分"
         },
         {
+          "title": "报道：谷歌在伦敦的云服务中断，多家银行与金融公司受影响，谷歌致歉",
+          "url": "https://wallstreetcn.com/livenews/3181980",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时32分"
+        },
+        {
           "title": "谷歌高管驳斥欧洲对美国在人工智能领域主导地位的担忧。（英国《金融时报》）",
           "url": "https://wallstreetcn.com/livenews/3181583",
           "source": "华尔街见闻-快讯",
@@ -1899,8 +2000,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时31分 ~ 21时37分]"
+          "appearance_count": 5,
+          "time_info": "[20时31分 ~ 22时32分]"
         },
         {
           "title": "赶在Anthropic IPO前：OpenAI据悉加速融资 估值或超1.4万亿美元",
