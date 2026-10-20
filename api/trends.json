@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-20T15:38:22.075256+08:00",
-  "total_titles_processed": 1453,
+  "generated_at": "2026-10-20T16:31:36.445477+08:00",
+  "total_titles_processed": 1559,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 47,
+      "match_count": 49,
       "titles": [
         {
           "title": "普京提议中美俄三方会谈，特朗普表态",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时26分 ~ 15时38分]"
+          "appearance_count": 9,
+          "time_info": "[11时26分 ~ 16时31分]"
         },
         {
           "title": "特朗普：也许泽连斯基是时候找别人来谈判了",
@@ -27,8 +27,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时32分 ~ 15时38分]"
+          "appearance_count": 11,
+          "time_info": "[09时32分 ~ 16时31分]"
         },
         {
           "title": "不满豁免对俄制裁，担心更坏事情发生，美媒称泽连斯基决定“公开对抗特朗普”",
@@ -41,6 +41,32 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时29分 ~ 07时25分]"
+        },
+        {
+          "title": "花活+1，特朗普呼吁：新墨西哥州应更名为“新美国州”",
+          "url": "https://news.ifeng.com/c/8xMwKeUNLmT",
+          "source": "凤凰网",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[09时32分 ~ 16时31分]"
+        },
+        {
+          "title": "新华社：特朗普为何此时“力挺”内塔尼亚胡",
+          "url": "https://m.thepaper.cn/newsDetail_forward_34285005",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            19,
+            18,
+            17,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[09时32分 ~ 16时31分]"
         },
         {
           "title": "特朗普称该换人代表乌克兰谈判 以色列总理下令推翻伊朗政权 | 环球市场",
@@ -58,29 +84,16 @@
           "time_info": "[09时32分 ~ 15时38分]"
         },
         {
-          "title": "花活+1，特朗普呼吁：新墨西哥州应更名为“新美国州”",
-          "url": "https://news.ifeng.com/c/8xMwKeUNLmT",
-          "source": "凤凰网",
+          "title": "特朗普：中方在乌问题上立场很公允",
+          "url": "https://www.toutiao.com/trending/7697897058136604715/",
+          "source": "今日头条",
           "ranks": [
-            12
+            6,
+            2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时32分 ~ 15时38分]"
-        },
-        {
-          "title": "新华社：特朗普为何此时“力挺”内塔尼亚胡",
-          "url": "https://m.thepaper.cn/newsDetail_forward_34285005",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            19,
-            18,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时32分 ~ 15时38分]"
+          "appearance_count": 4,
+          "time_info": "[14时31分 ~ 16时31分]"
         },
         {
           "title": "美国总统特朗普：民主党给我们留下了历史最高的通胀和随之而来的高昂物价，而我一上任，他们就开始高喊“生活负担能力”问题。制造生活成本危机的正是他们。我才是创造了最强劲经济、并正在推动物价下降的人。这不过是又一场假新闻骗局！",
@@ -114,18 +127,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时32分"
-        },
-        {
-          "title": "特朗普：中方在乌问题上立场很公允",
-          "url": "https://www.toutiao.com/trending/7697897058136604715/",
-          "source": "今日头条",
-          "ranks": [
-            6,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时31分 ~ 15时38分]"
         },
         {
           "title": "三位知情人士称，特朗普女婿库什纳与美国总统特使威特科夫计划本周前往挪威参加乌克兰问题会谈。两名知情人士称，乌克兰总统泽连斯基预计将参加会谈。",
@@ -180,6 +181,31 @@
           "time_info": "[04时27分 ~ 07时25分]"
         },
         {
+          "title": "中期选举前关键民调！特朗普支持率创历史新低：31%",
+          "url": "https://www.cls.cn/detail/2509225",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时31分 ~ 16时31分]"
+        },
+        {
+          "title": "特朗普民调支持率创历史新低",
+          "url": "https://www.toutiao.com/trending/7698543479689904678/",
+          "source": "今日头条",
+          "ranks": [
+            29,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时38分 ~ 16时31分]"
+        },
+        {
           "title": "特朗普为何突然表态支持内塔尼亚胡",
           "url": "https://www.toutiao.com/trending/7698521849260412470/",
           "source": "今日头条",
@@ -202,18 +228,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时25分 ~ 06时25分]"
-        },
-        {
-          "title": "中期选举前关键民调！特朗普支持率创历史新低：31%",
-          "url": "https://www.cls.cn/detail/2509225",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时31分 ~ 15时38分]"
         },
         {
           "title": "特朗普感谢马斯克向美儿童捐赠股票",
@@ -276,13 +290,35 @@
           "time_info": "[05时25分 ~ 06时25分]"
         },
         {
+          "title": "如何看待特朗普再推80亿美元柴油补贴",
+          "url": "https://www.toutiao.com/trending/7698633967376797225/",
+          "source": "今日头条",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时30分 ~ 16时31分]"
+        },
+        {
+          "title": "特朗普为何“厚”以“薄”乌",
+          "url": "https://www.toutiao.com/trending/7698245928846786601/",
+          "source": "今日头条",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时30分 ~ 16时31分]"
+        },
+        {
           "title": "特朗普称对中美俄三方会谈持积极态度，中方是否接受提议？外交部回应",
           "url": "https://wallstreetcn.com/livenews/3181669",
           "source": "华尔街见闻-快讯",
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时38分"
         },
@@ -538,23 +574,12 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时27分"
-        },
-        {
-          "title": "特朗普民调支持率创历史新低",
-          "url": "https://www.toutiao.com/trending/7698543479689904678/",
-          "source": "今日头条",
-          "ranks": [
-            29
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时38分"
         }
       ]
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 42,
+      "match_count": 49,
       "titles": [
         {
           "title": "以色列总理称已下达“推翻伊朗政权”指令",
@@ -565,8 +590,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[08时32分 ~ 15时38分]"
+          "appearance_count": 12,
+          "time_info": "[08时32分 ~ 16时31分]"
         },
         {
           "title": "伊朗针对美以威胁有哪些反击预案？凤凰记者：可能从3方面入手",
@@ -600,6 +625,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时31分"
+        },
+        {
+          "title": "伊朗外交部发言人巴加埃：美国的所有军事行动均可被视为犯罪。从国际视角来看，美方是违法者，根本不把国际法准则放在眼里。",
+          "url": "https://flash.jin10.com/detail/20261020161203749800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时31分"
         },
         {
           "title": "据塔斯尼姆通讯社：伊朗最高领袖的顾问称，所谓霍尔木兹海峡处于开放状态的言论毫无根据。",
@@ -874,6 +910,28 @@
           "time_info": "[07时25分 ~ 08时32分]"
         },
         {
+          "title": "以色列总理下令推翻伊朗政权",
+          "url": "https://www.douyin.com/hot/2703704",
+          "source": "抖音",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时30分 ~ 16时31分]"
+        },
+        {
+          "title": "俄外长：俄专家正陆续返回伊朗布什尔核电站项目",
+          "url": "https://wallstreetcn.com/livenews/3181712",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时31分"
+        },
+        {
           "title": "伊朗第一副总统阿雷夫：伊朗别无选择，只能对霍尔木兹海峡实施管控。",
           "url": "https://flash.jin10.com/detail/20261019235622227800",
           "source": "金十数据",
@@ -894,6 +952,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时27分"
+        },
+        {
+          "title": "伊朗恢复海外侨民自用汽车进口业务",
+          "url": "https://flash.jin10.com/detail/20261020160828668800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时31分"
         },
         {
           "title": "俄罗斯外长拉夫罗夫：俄罗斯无意放弃落实与伊朗在经济和投资领域达成的各项协议。 我方专家正逐步重返布什尔核电站。 双方在石油天然气开采与运输领域也具备广阔合作前景。",
@@ -962,6 +1031,17 @@
           "time_info": "00时29分"
         },
         {
+          "title": "伊朗外交部：支持伊朗与海湾国家举行联合会议",
+          "url": "https://flash.jin10.com/detail/20261020160529434800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时31分"
+        },
+        {
           "title": "以色列总理下令推翻伊朗政权",
           "url": "https://flash.jin10.com/detail/20261020012004133800",
           "source": "金十数据",
@@ -995,6 +1075,17 @@
           "time_info": "02时28分"
         },
         {
+          "title": "伊朗重申美国的“过分要求”阻碍谈判进展。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3181699",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时31分"
+        },
+        {
           "title": "伊朗称122艘船只被列入霍尔木兹海峡“违规名单”",
           "url": "https://flash.jin10.com/detail/20261020094523348800",
           "source": "金十数据",
@@ -1015,6 +1106,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时26分"
+        },
+        {
+          "title": "伊朗外交部：伊朗已做好准备应对任何侵略行动",
+          "url": "https://flash.jin10.com/detail/20261020160040374800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时31分"
         },
         {
           "title": "伊朗外长阿拉格齐：我在德黑兰接待了拉夫罗夫外长，并进行了及时的会谈。我们讨论了从欧洲到西亚的各类议题，包括黎巴嫩、巴勒斯坦、乌克兰和也门局势。双方还重点探讨了扩大在经济及核能领域的合作。伊朗与俄罗斯之间的合作，正处于两国历史上最紧密的时期。",
@@ -1042,7 +1144,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 15,
+      "match_count": 17,
       "titles": [
         {
           "title": "【早报】美股存储、半导体股，全线爆发；首批18只主动ETF获批；10余家A股公司宣布回购",
@@ -1157,6 +1259,17 @@
           "time_info": "[05时25分 ~ 06时25分]"
         },
         {
+          "title": "美股盘前，存储芯片股普跌，SK海力士跌约4%，西部数据跌约2%，闪迪跌约2%，美光科技跌约2%，希捷科技跌约2%。",
+          "url": "https://wallstreetcn.com/livenews/3181703",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时31分"
+        },
+        {
           "title": "美股超跌反弹能否持续？本周科技巨头财报将检验AI盈利成色",
           "url": "https://flash.jin10.com/detail/20261020105637135800",
           "source": "金十数据",
@@ -1177,6 +1290,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时32分"
+        },
+        {
+          "title": "3M(MMM.N)美股盘前上涨3.9%，此前该公司扩大与亚马逊数据中心合作。",
+          "url": "https://flash.jin10.com/detail/20261020160426835800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时31分"
         },
         {
           "title": "金十图示：2026年10月19日（周一）美股热门股票行情一览（美股盘中）",
@@ -1226,7 +1350,7 @@
     },
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 11,
+      "match_count": 12,
       "titles": [
         {
           "title": "如何评价 DeepSeek V4.1 Flash 1017 登顶「史上最差 AI 模型名称排行榜」?",
@@ -1237,8 +1361,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[08时32分 ~ 15时38分]"
+          "appearance_count": 12,
+          "time_info": "[08时32分 ~ 16时31分]"
         },
         {
           "title": "梁文锋和 DeepSeek，为什么配得上 「 国运级 」 三个字？",
@@ -1283,6 +1407,18 @@
           "time_info": "[00时29分 ~ 07时25分]"
         },
         {
+          "title": "美国禁止政府使用DeepSeek",
+          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E5%9B%BD%E7%A6%81%E6%AD%A2%E6%94%BF%E5%BA%9C%E4%BD%BF%E7%94%A8DeepSeek",
+          "source": "bilibili 热搜",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时38分 ~ 16时31分]"
+        },
+        {
           "title": "如何评价美国国土安全部将 DeepSeek 及相关第三方产品排除出联邦文职采购？",
           "url": "https://www.zhihu.com/question/2095646780692099465",
           "source": "知乎",
@@ -1295,15 +1431,15 @@
           "time_info": "[11时26分 ~ 15时38分]"
         },
         {
-          "title": "美国禁止政府使用DeepSeek",
-          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E5%9B%BD%E7%A6%81%E6%AD%A2%E6%94%BF%E5%BA%9C%E4%BD%BF%E7%94%A8DeepSeek",
-          "source": "bilibili 热搜",
+          "title": "美国政府指示各机构停用DeepSeek，外交部：反对将科技经贸问题政治化",
+          "url": "https://www.cls.cn/detail/2509748",
+          "source": "财联社热门",
           "ranks": [
-            2
+            5
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时38分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时30分 ~ 16时31分]"
         },
         {
           "title": "Deepseek对传统搜索的冲击有多大？",
@@ -1315,6 +1451,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[02时28分 ~ 04时27分]"
+        },
+        {
+          "title": "DeepSeek学霸的降维打击",
+          "url": "https://www.toutiao.com/trending/7698612360591707667/",
+          "source": "今日头条",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时38分 ~ 16时31分]"
         },
         {
           "title": "针对DeepSeek 美国政府下黑手",
@@ -1334,18 +1481,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时38分"
-        },
-        {
-          "title": "DeepSeek学霸的降维打击",
-          "url": "https://www.toutiao.com/trending/7698612360591707667/",
-          "source": "今日头条",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时38分"
         },
@@ -1459,11 +1595,12 @@
           "source": "财联社热门",
           "ranks": [
             12,
-            11
+            11,
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时31分 ~ 15时38分]"
+          "appearance_count": 4,
+          "time_info": "[14时31分 ~ 16时31分]"
         },
         {
           "title": "报道：OpenAI计划在Anthropic上市前加快融资步伐",
@@ -1555,7 +1692,7 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "国际金价跌0.6%",
@@ -1579,6 +1716,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时26分"
+        },
+        {
+          "title": "金十图示：2026年10月20日（周二）上海金午盘价为889.87元/克，较国际金价(884.99元/克)，高4.88元/克",
+          "url": "https://flash.jin10.com/detail/20261020160244547800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时31分"
         },
         {
           "title": "金价的对手不只是利率！空头会否继续发力关键看...",
