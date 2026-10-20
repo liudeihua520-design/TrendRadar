@@ -1,8 +1,461 @@
 {
-  "generated_at": "2026-10-21T02:29:45.192106+08:00",
-  "total_titles_processed": 465,
+  "generated_at": "2026-10-21T03:31:39.641563+08:00",
+  "total_titles_processed": 515,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "特朗普",
+      "match_count": 40,
+      "titles": [
+        {
+          "title": "特朗普对与中俄举行三方会谈态度积极，外交部回应",
+          "url": "https://news.ifeng.com/c/8xNT3u1JB1s",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时29分 ~ 03时31分]"
+        },
+        {
+          "title": "特朗普：也许泽连斯基是时候找别人来谈判了",
+          "url": "https://news.ifeng.com/c/8xMyNrph5V3",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时29分 ~ 03时31分]"
+        },
+        {
+          "title": "特朗普：中方在乌问题上立场很公允",
+          "url": "https://www.toutiao.com/trending/7697897058136604715/",
+          "source": "今日头条",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时29分 ~ 03时31分]"
+        },
+        {
+          "title": "美国中期选举在即，特朗普连共和党铁盘都快守不住了",
+          "url": "https://news.ifeng.com/c/8xNa7mI3a46",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时29分 ~ 03时31分]"
+        },
+        {
+          "title": "美国总统特朗普：美国副总统万斯做的不错。",
+          "url": "https://flash.jin10.com/detail/20261021021215564800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时29分"
+        },
+        {
+          "title": "美国总统特朗普：（有关民主党众议员奥马尔）外界一直在讨论将她驱逐出境，但她也可能面临牢狱之灾。",
+          "url": "https://flash.jin10.com/detail/20261021031349332800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时31分"
+        },
+        {
+          "title": "美国总统特朗普谈2028年背书支持副总统万斯的可能性，称：一切都还言之太早。 我俩压根儿没聊过这事儿。 不知何故，总统总会在中期选举中失利。",
+          "url": "https://wallstreetcn.com/livenews/3182118",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时31分"
+        },
+        {
+          "title": "美国总统特朗普：不知何故，总统总会在中期选举中失利。",
+          "url": "https://flash.jin10.com/detail/20261021031320258800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时31分"
+        },
+        {
+          "title": "美国总统特朗普：重申石油价格将在伊朗战争结束时下跌。",
+          "url": "https://wallstreetcn.com/livenews/3182117",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时31分"
+        },
+        {
+          "title": "市场消息：美国一家食品进口企业就特朗普政府对加拿大产品征收50%关税，向美国国际贸易法院提起诉讼。",
+          "url": "https://flash.jin10.com/detail/20261021000852045800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时29分"
+        },
+        {
+          "title": "美国总统特朗普：（关于美国副总统万斯2028年参选）我俩压根儿没聊过这事儿。",
+          "url": "https://flash.jin10.com/detail/20261021031122183800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时31分"
+        },
+        {
+          "title": "美国总统特朗普：截至选举日，我已经花费或将累计花费超过4亿美元。",
+          "url": "https://flash.jin10.com/detail/20261021011014849800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时38分"
+        },
+        {
+          "title": "美国总统特朗普：索马里真是个烂地方，好吗？根本就不是个国家。",
+          "url": "https://flash.jin10.com/detail/20261021031104147800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时31分"
+        },
+        {
+          "title": "美国总统特朗普：（是否支持美国副总统万斯参加2028年大选）现在还为时过早。",
+          "url": "https://flash.jin10.com/detail/20261021031025923800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时31分"
+        },
+        {
+          "title": "美国将建议普京与乌克兰总统泽连斯基、美国总统特朗普面谈。（Politico）",
+          "url": "https://wallstreetcn.com/livenews/3182102",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时29分 ~ 03时31分]"
+        },
+        {
+          "title": "美国总统特朗普：副总统万斯非常不错。",
+          "url": "https://wallstreetcn.com/livenews/3182099",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时29分 ~ 03时31分]"
+        },
+        {
+          "title": "泽连斯基：作为伙伴我愿向特朗普让步",
+          "url": "https://www.toutiao.com/trending/7698667131718484506/",
+          "source": "今日头条",
+          "ranks": [
+            8,
+            14,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时29分 ~ 03时31分]"
+        },
+        {
+          "title": "新华社：特朗普为何此时“力挺”内塔尼亚胡",
+          "url": "https://m.thepaper.cn/newsDetail_forward_34285005",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时29分 ~ 02时29分]"
+        },
+        {
+          "title": "美国特朗普政府因对加拿大产品征收50%关税被起诉。 一家食品进口企业已就关税问题向美国贸易法院提起诉讼。",
+          "url": "https://wallstreetcn.com/livenews/3182049",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时29分 ~ 01时38分]"
+        },
+        {
+          "title": "马斯克向特朗普账户捐80亿美元的图谋",
+          "url": "https://www.toutiao.com/trending/7698722328774970934/",
+          "source": "今日头条",
+          "ranks": [
+            25,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时29分 ~ 03时31分]"
+        },
+        {
+          "title": "美国总统特朗普：但这对我来说还不够好。",
+          "url": "https://flash.jin10.com/detail/20261021031006410800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时31分"
+        },
+        {
+          "title": "美国总统特朗普：我们现在就可以离开伊朗，而且我们已经做得非常出色了。",
+          "url": "https://flash.jin10.com/detail/20261021030949134800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时31分"
+        },
+        {
+          "title": "美国总统特朗普：伊朗战争将很快结束。",
+          "url": "https://flash.jin10.com/detail/20261021030818045800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时31分"
+        },
+        {
+          "title": "美国总统特朗普：无法说明美国国防部长赫格塞思在以色列与以色列总理内塔尼亚胡谈了些什么。",
+          "url": "https://flash.jin10.com/detail/20261021030620527800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时31分"
+        },
+        {
+          "title": "美国总统特朗普：乌克兰必须愿意达成协议。 我想看看我们能否就乌克兰冲突达成协议。 我们给了乌克兰很多，却什么也没得到。",
+          "url": "https://wallstreetcn.com/livenews/3182109",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时31分"
+        },
+        {
+          "title": "美国总统特朗普：与印度的贸易协议已相当接近达成。",
+          "url": "https://flash.jin10.com/detail/20261021030606605800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时31分"
+        },
+        {
+          "title": "美国总统特朗普：一直在与普京谈论被俄罗斯拘押的美国公民哈伯德，是时候让他回来了。",
+          "url": "https://flash.jin10.com/detail/20261021030305900800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时31分"
+        },
+        {
+          "title": "美国总统特朗普：普京和泽连斯基不必同处一室也能签署和平协议。",
+          "url": "https://flash.jin10.com/detail/20261021025911845800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时31分"
+        },
+        {
+          "title": "挪威首相：美国中东问题特使威特科夫今天亲自出席了我们的会议，特朗普高级顾问库什纳则从美国通过视频方式参会。",
+          "url": "https://flash.jin10.com/detail/20261021010653328800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时38分"
+        },
+        {
+          "title": "美国总统特朗普：俄罗斯是一个庞大的国家。乌克兰则不是。",
+          "url": "https://flash.jin10.com/detail/20261021025826907800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时31分"
+        },
+        {
+          "title": "美国总统特朗普：我们向乌克兰提供了巨额援助。而作为回报，我们得到的只有高昂的柴油价格而已。",
+          "url": "https://flash.jin10.com/detail/20261021025711758800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时31分"
+        },
+        {
+          "title": "美国总统特朗普：是时候让他们结束这场战争了。",
+          "url": "https://flash.jin10.com/detail/20261021025619835800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时31分"
+        },
+        {
+          "title": "美国总统特朗普：俄罗斯是一台庞大的机器。他们只是一直碾压式向前推进，这就是他们所做的。他们已占领了非常大的一片土地。",
+          "url": "https://flash.jin10.com/detail/20261021025600483800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时31分"
+        },
+        {
+          "title": "美国法官驳回特朗普政府试图阻止NAACP就数据中心起诉马斯克xAI的请求",
+          "url": "https://wallstreetcn.com/livenews/3182033",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时29分"
+        },
+        {
+          "title": "美国总统特朗普：俄罗斯人不断向前推进。他们拥有无限的人力供应。",
+          "url": "https://flash.jin10.com/detail/20261021025554851800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时31分"
+        },
+        {
+          "title": "美国总统特朗普：我想看看我们能否就乌克兰冲突达成协议。",
+          "url": "https://flash.jin10.com/detail/20261021025406930800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时31分"
+        },
+        {
+          "title": "美国总统特朗普：我们给了乌克兰很多，却什么也没得到。",
+          "url": "https://flash.jin10.com/detail/20261021025348179800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时31分"
+        },
+        {
+          "title": "美国总统特朗普：如果他不这样做，我认为这将是一件非常糟糕的事情。",
+          "url": "https://flash.jin10.com/detail/20261021025212229800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时31分"
+        },
+        {
+          "title": "市场消息：美国小企业提起新诉讼，寻求阻止特朗普对加拿大征收关税。",
+          "url": "https://flash.jin10.com/detail/20261020233440107800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时29分"
+        },
+        {
+          "title": "美国总统特朗普：我们希望乌克兰总统泽连斯基达成协议。",
+          "url": "https://flash.jin10.com/detail/20261021025154414800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时31分"
+        }
+      ]
+    },
     {
       "keyword_group": "伊朗",
       "match_count": 20,
@@ -66,6 +519,18 @@
           "time_info": "[00时29分 ~ 01时38分]"
         },
         {
+          "title": "伊朗总统佩泽希齐扬对巴基斯坦调解人表示：任何谈判都必须以美国首先解除所有施压、威胁和制裁为前提。（Tasnim）",
+          "url": "https://wallstreetcn.com/livenews/3182095",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时29分 ~ 03时31分]"
+        },
+        {
           "title": "伊朗议会议长会见巴基斯坦陆军总参谋长，谈及伊美局势",
           "url": "https://wallstreetcn.com/livenews/3182072",
           "source": "华尔街见闻-快讯",
@@ -84,18 +549,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时29分"
-        },
-        {
-          "title": "伊朗总统佩泽希齐扬对巴基斯坦调解人表示：任何谈判都必须以美国首先解除所有施压、威胁和制裁为前提。（Tasnim）",
-          "url": "https://wallstreetcn.com/livenews/3182095",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时29分"
         },
@@ -139,7 +593,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时29分"
         },
@@ -161,7 +615,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时29分"
         },
@@ -172,7 +626,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时29分"
         },
@@ -183,7 +637,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时29分"
         },
@@ -194,7 +648,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时29分"
         },
@@ -227,194 +681,9 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时29分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "特朗普",
-      "match_count": 16,
-      "titles": [
-        {
-          "title": "特朗普对与中俄举行三方会谈态度积极，外交部回应",
-          "url": "https://news.ifeng.com/c/8xNT3u1JB1s",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时29分 ~ 02时29分]"
-        },
-        {
-          "title": "特朗普：也许泽连斯基是时候找别人来谈判了",
-          "url": "https://news.ifeng.com/c/8xMyNrph5V3",
-          "source": "凤凰网",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时29分 ~ 02时29分]"
-        },
-        {
-          "title": "特朗普：中方在乌问题上立场很公允",
-          "url": "https://www.toutiao.com/trending/7697897058136604715/",
-          "source": "今日头条",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时29分 ~ 02时29分]"
-        },
-        {
-          "title": "美国中期选举在即，特朗普连共和党铁盘都快守不住了",
-          "url": "https://news.ifeng.com/c/8xNa7mI3a46",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时29分 ~ 02时29分]"
-        },
-        {
-          "title": "美国总统特朗普：美国副总统万斯做的不错。",
-          "url": "https://flash.jin10.com/detail/20261021021215564800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时29分"
-        },
-        {
-          "title": "美国将建议普京与乌克兰总统泽连斯基、美国总统特朗普面谈。（Politico）",
-          "url": "https://wallstreetcn.com/livenews/3182102",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时29分"
-        },
-        {
-          "title": "市场消息：美国一家食品进口企业就特朗普政府对加拿大产品征收50%关税，向美国国际贸易法院提起诉讼。",
-          "url": "https://flash.jin10.com/detail/20261021000852045800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时29分"
-        },
-        {
-          "title": "美国总统特朗普：截至选举日，我已经花费或将累计花费超过4亿美元。",
-          "url": "https://flash.jin10.com/detail/20261021011014849800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时38分"
-        },
-        {
-          "title": "美国总统特朗普：副总统万斯非常不错。",
-          "url": "https://wallstreetcn.com/livenews/3182099",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时29分"
-        },
-        {
-          "title": "泽连斯基：作为伙伴我愿向特朗普让步",
-          "url": "https://www.toutiao.com/trending/7698667131718484506/",
-          "source": "今日头条",
-          "ranks": [
-            8,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时29分 ~ 02时29分]"
-        },
-        {
-          "title": "新华社：特朗普为何此时“力挺”内塔尼亚胡",
-          "url": "https://m.thepaper.cn/newsDetail_forward_34285005",
-          "source": "澎湃新闻",
-          "ranks": [
-            17,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时29分 ~ 02时29分]"
-        },
-        {
-          "title": "美国特朗普政府因对加拿大产品征收50%关税被起诉。 一家食品进口企业已就关税问题向美国贸易法院提起诉讼。",
-          "url": "https://wallstreetcn.com/livenews/3182049",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时29分 ~ 01时38分]"
-        },
-        {
-          "title": "挪威首相：美国中东问题特使威特科夫今天亲自出席了我们的会议，特朗普高级顾问库什纳则从美国通过视频方式参会。",
-          "url": "https://flash.jin10.com/detail/20261021010653328800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时38分"
-        },
-        {
-          "title": "美国法官驳回特朗普政府试图阻止NAACP就数据中心起诉马斯克xAI的请求",
-          "url": "https://wallstreetcn.com/livenews/3182033",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时29分"
-        },
-        {
-          "title": "马斯克向特朗普账户捐80亿美元的图谋",
-          "url": "https://www.toutiao.com/trending/7698722328774970934/",
-          "source": "今日头条",
-          "ranks": [
-            25
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时29分"
-        },
-        {
-          "title": "市场消息：美国小企业提起新诉讼，寻求阻止特朗普对加拿大征收关税。",
-          "url": "https://flash.jin10.com/detail/20261020233440107800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时29分"
         }
       ]
     },
@@ -430,8 +699,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时29分 ~ 02时29分]"
+          "appearance_count": 4,
+          "time_info": "[00时29分 ~ 03时31分]"
         },
         {
           "title": "韩国AI新股上市首日暴跌 美股科技题材再度承压 | 今夜看点",
@@ -442,8 +711,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时29分 ~ 02时29分]"
+          "appearance_count": 4,
+          "time_info": "[00时29分 ~ 03时31分]"
         },
         {
           "title": "美股深夜反攻纳指涨超1%",
@@ -455,8 +724,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时29分 ~ 02时29分]"
+          "appearance_count": 4,
+          "time_info": "[00时29分 ~ 03时31分]"
         },
         {
           "title": "美股见顶最直接的信号：韩国芯片出口？",
@@ -466,8 +735,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时38分 ~ 02时29分]"
+          "appearance_count": 3,
+          "time_info": "[01时38分 ~ 03时31分]"
         },
         {
           "title": "美股市值前十公司盘初股价全线下跌",
@@ -505,8 +774,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时29分 ~ 02时29分]"
+          "appearance_count": 4,
+          "time_info": "[00时29分 ~ 03时31分]"
         },
         {
           "title": "美国政府指示各机构停用DeepSeek，外交部：反对将科技经贸问题政治化",
@@ -520,6 +789,19 @@
           "time_info": "00时29分"
         },
         {
+          "title": "怎么看 DeepSeek 官宣单集群日均吞吐达 155 万亿 Token，单卡每小时收入 38 美金？",
+          "url": "https://www.zhihu.com/question/2095938083422262957",
+          "source": "知乎",
+          "ranks": [
+            15,
+            7,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时38分 ~ 03时31分]"
+        },
+        {
           "title": "无理打压中企！美国政府下令全面移除DeepSeek技术",
           "url": "https://original.ifeng.com/c/8xNeD5i09FW",
           "source": "凤凰网",
@@ -527,20 +809,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时29分 ~ 02时29分]"
-        },
-        {
-          "title": "怎么看 DeepSeek 官宣单集群日均吞吐达 155 万亿 Token，单卡每小时收入 38 美金？",
-          "url": "https://www.zhihu.com/question/2095938083422262957",
-          "source": "知乎",
-          "ranks": [
-            15,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时38分 ~ 02时29分]"
+          "appearance_count": 4,
+          "time_info": "[00时29分 ~ 03时31分]"
         },
         {
           "title": "DeepSeek一张卡每小时收入38美元",
@@ -567,19 +837,32 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时29分 ~ 02时29分]"
+          "appearance_count": 4,
+          "time_info": "[00时29分 ~ 03时31分]"
         },
         {
           "title": "OpenAI已经收购Orchestra Bio。 将Orchestra Bio与Rosalind AI模型及工具整合，用于生命科学研究。（Axios）",
           "url": "https://wallstreetcn.com/livenews/3182097",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            6
+            6,
+            20
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时29分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时29分 ~ 03时31分]"
+        },
+        {
+          "title": "OpenAI CEO Altman在内部沟通时提出一种AI安全方案，提议将头部AI实验室整合为同一个组织，集中管控前沿模型风险。 不过OpenAI、Anthropic均在筹备IPO，商业化诉求上升，让跨竞争对手的深度协同难以落地。",
+          "url": "https://wallstreetcn.com/livenews/3182087",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时29分 ~ 03时31分]"
         },
         {
           "title": "据Axios：OpenAI收购生物医疗公司Orchestra Bio。",
@@ -588,18 +871,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时29分"
-        },
-        {
-          "title": "OpenAI CEO Altman在内部沟通时提出一种AI安全方案，提议将头部AI实验室整合为同一个组织，集中管控前沿模型风险。 不过OpenAI、Anthropic均在筹备IPO，商业化诉求上升，让跨竞争对手的深度协同难以落地。",
-          "url": "https://wallstreetcn.com/livenews/3182087",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时29分"
         }
@@ -619,6 +891,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时38分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美元",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "周二（10月20日）纽约尾盘，ICE美元指数跌0.29%，报101.685点，日内交投区间为101.982-101.506点。 彭博美元指数跌0.25%，报1220.19点，日内交投区间为1222.99-1218.40点，北京时间22:30刷新日低。",
+          "url": "https://wallstreetcn.com/livenews/3182110",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时31分"
         }
       ]
     }
