@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-20T18:25:45.893268+08:00",
-  "total_titles_processed": 1764,
+  "generated_at": "2026-10-20T19:27:18.368732+08:00",
+  "total_titles_processed": 1877,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 53,
+      "match_count": 54,
       "titles": [
         {
           "title": "以色列总理称已下达“推翻伊朗政权”指令",
@@ -16,8 +16,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[08时32分 ~ 18时25分]"
+          "appearance_count": 15,
+          "time_info": "[08时32分 ~ 19时27分]"
         },
         {
           "title": "伊朗针对美以威胁有哪些反击预案？凤凰记者：可能从3方面入手",
@@ -513,6 +513,17 @@
           "time_info": "04时27分"
         },
         {
+          "title": "巴基斯坦陆军参谋长抵达伊朗德黑兰",
+          "url": "https://wallstreetcn.com/livenews/3181869",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时27分"
+        },
+        {
           "title": "据塔斯尼姆通讯社：德国驻伊朗大使因“毫无根据的指控”被伊朗外交部召见。",
           "url": "https://flash.jin10.com/detail/20261020011740385800",
           "source": "金十数据",
@@ -530,7 +541,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时25分"
         },
@@ -585,7 +596,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时25分"
         },
@@ -615,7 +626,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 50,
+      "match_count": 51,
       "titles": [
         {
           "title": "普京提议中美俄三方会谈，特朗普表态",
@@ -625,8 +636,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[11时26分 ~ 18时25分]"
+          "appearance_count": 12,
+          "time_info": "[11时26分 ~ 19时27分]"
         },
         {
           "title": "特朗普：也许泽连斯基是时候找别人来谈判了",
@@ -637,8 +648,22 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[09时32分 ~ 18时25分]"
+          "appearance_count": 14,
+          "time_info": "[09时32分 ~ 19时27分]"
+        },
+        {
+          "title": "特朗普：中方在乌问题上立场很公允",
+          "url": "https://www.toutiao.com/trending/7697897058136604715/",
+          "source": "今日头条",
+          "ranks": [
+            6,
+            2,
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[14时31分 ~ 19时27分]"
         },
         {
           "title": "不满豁免对俄制裁，担心更坏事情发生，美媒称泽连斯基决定“公开对抗特朗普”",
@@ -660,8 +685,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[09时32分 ~ 18时25分]"
+          "appearance_count": 14,
+          "time_info": "[09时32分 ~ 19时27分]"
         },
         {
           "title": "新华社：特朗普为何此时“力挺”内塔尼亚胡",
@@ -675,22 +700,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[09时32分 ~ 18时25分]"
-        },
-        {
-          "title": "特朗普：中方在乌问题上立场很公允",
-          "url": "https://www.toutiao.com/trending/7697897058136604715/",
-          "source": "今日头条",
-          "ranks": [
-            6,
-            2,
-            4,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[14时31分 ~ 18时25分]"
+          "appearance_count": 13,
+          "time_info": "[09时32分 ~ 19时27分]"
         },
         {
           "title": "特朗普称该换人代表乌克兰谈判 以色列总理下令推翻伊朗政权 | 环球市场",
@@ -753,6 +764,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时32分"
+        },
+        {
+          "title": "据福克斯新闻：特朗普将于周二的一场活动上宣布一项2500万美元的举报人奖励计划。",
+          "url": "https://flash.jin10.com/detail/20261020190937306800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时27分"
         },
         {
           "title": "三位知情人士称，特朗普女婿库什纳与美国总统特使威特科夫计划本周前往挪威参加乌克兰问题会谈。两名知情人士称，乌克兰总统泽连斯基预计将参加会谈。",
@@ -1204,7 +1226,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 17,
+      "match_count": 19,
       "titles": [
         {
           "title": "【早报】美股存储、半导体股，全线爆发；首批18只主动ETF获批；10余家A股公司宣布回购",
@@ -1245,6 +1267,17 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[07时25分 ~ 15时38分]"
+        },
+        {
+          "title": "雷神技术第三季度调整后销售额249.7亿美元，预期240.8亿美元。 第三季度调整后每股收益2.26美元，预期1.79美元。 雷神技术预计全年调整后每股收益为7.65至7.75美元，此前预期为7.10至7.25美元。 雷神技术美股盘前涨超3%。",
+          "url": "https://wallstreetcn.com/livenews/3181889",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时27分"
         },
         {
           "title": "美股大类资产类ETF多数下跌，地产ETF收跌超1.1%，纳指ETF涨1.2%",
@@ -1374,6 +1407,17 @@
           "time_info": "01时27分"
         },
         {
+          "title": "通用汽车预计全年调整后每股收益12.75美元至13.75美元，此前预计12美元至14美元，市场预估13.10美元。 通用汽车预计全年调整后息税前利润145亿美元至155亿美元，此前预计140亿美元至160亿美元，市场预估150.6亿美元。 通用汽车预计全年汽车部门调整后自由现金流115亿美元至125亿美元，此前预计95亿美 通用汽车第三季度调整后每股收益3.70美元，上年同期2.80美元，预估3.56美元。 通用汽车第三季度净销售额和营收500.2亿美元，同比增长2.9%，预估485.3亿美元。 通用汽车第三季度调整后息税前利润41.1亿美元，同比增长22%，预估40.2亿美元。 通用汽车美股盘前跌超4%。 通用汽车预计，软件费用上升将带来10亿至15亿美元的额外成本。 通用汽车预计，全年电动汽车亏损将改善10亿至15亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3181864",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时27分"
+        },
+        {
           "title": "美股收盘：费城半导体指数结束下跌",
           "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E6%94%B6%E7%9B%98%EF%BC%9A%E8%B4%B9%E5%9F%8E%E5%8D%8A%E5%AF%BC%E4%BD%93%E6%8C%87%E6%95%B0%E7%BB%93%E6%9D%9F%E4%B8%8B%E8%B7%8C",
           "source": "百度热搜",
@@ -1410,7 +1454,7 @@
     },
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 14,
+      "match_count": 15,
       "titles": [
         {
           "title": "如何评价 DeepSeek V4.1 Flash 1017 登顶「史上最差 AI 模型名称排行榜」?",
@@ -1421,8 +1465,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[08时32分 ~ 18时25分]"
+          "appearance_count": 15,
+          "time_info": "[08时32分 ~ 19时27分]"
         },
         {
           "title": "梁文锋和 DeepSeek，为什么配得上 「 国运级 」 三个字？",
@@ -1476,8 +1520,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时30分 ~ 18时25分]"
+          "appearance_count": 5,
+          "time_info": "[16时30分 ~ 19时27分]"
         },
         {
           "title": "美国禁止政府使用DeepSeek",
@@ -1538,6 +1582,18 @@
           "time_info": "[13时26分 ~ 14时31分]"
         },
         {
+          "title": "中方回应美要求机构停用DeepSeek",
+          "url": "https://www.toutiao.com/trending/7698396845743850010/",
+          "source": "今日头条",
+          "ranks": [
+            16,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时25分 ~ 19时27分]"
+        },
+        {
           "title": "美国政府指示各机构停用DeepSeek，外交部：反对将科技经贸问题政治化",
           "url": "https://wallstreetcn.com/livenews/3181667",
           "source": "华尔街见闻-快讯",
@@ -1549,6 +1605,17 @@
           "time_info": "15时38分"
         },
         {
+          "title": "如何看待 DeepSeek 开源的大规模云服务推理框架 DeepInfer ？",
+          "url": "https://www.zhihu.com/question/2095922064804636469",
+          "source": "知乎",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时27分"
+        },
+        {
           "title": "【DeepSeek：进一步将内部推理框架 DeepInfer 全面开源】DeepSeek表示，基于 DeepInfer，已实现 DeepSeek V4.1 Flash 高吞吐、低延迟的大规模推理服务。未来，DeepSeek 新模型的推理代码及后续优化也将在此持续更新。",
           "url": "https://wallstreetcn.com/livenews/3181767",
           "source": "华尔街见闻-快讯",
@@ -1558,17 +1625,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时29分"
-        },
-        {
-          "title": "中方回应美要求机构停用DeepSeek",
-          "url": "https://www.toutiao.com/trending/7698396845743850010/",
-          "source": "今日头条",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时25分"
         },
         {
           "title": "DeepSeek新模型升级背后",
@@ -1629,7 +1685,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时25分"
         },
