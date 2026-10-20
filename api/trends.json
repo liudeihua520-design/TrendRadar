@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-20T17:29:56.411343+08:00",
-  "total_titles_processed": 1661,
+  "generated_at": "2026-10-20T18:25:45.893268+08:00",
+  "total_titles_processed": 1764,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 51,
+      "match_count": 53,
       "titles": [
         {
           "title": "以色列总理称已下达“推翻伊朗政权”指令",
@@ -16,8 +16,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[08时32分 ~ 17时29分]"
+          "appearance_count": 14,
+          "time_info": "[08时32分 ~ 18时25分]"
         },
         {
           "title": "伊朗针对美以威胁有哪些反击预案？凤凰记者：可能从3方面入手",
@@ -40,17 +40,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时31分"
-        },
-        {
-          "title": "伊朗伊斯兰革命卫队：两艘油轮在霍尔木兹触雷。",
-          "url": "https://wallstreetcn.com/livenews/3181795",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时29分"
         },
         {
           "title": "伊朗就海峡光缆发出警告",
@@ -81,7 +70,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时29分"
         },
@@ -140,6 +129,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时25分 ~ 07时25分]"
+        },
+        {
+          "title": "伊朗伊斯兰革命卫队：两艘油轮在霍尔木兹触雷。",
+          "url": "https://wallstreetcn.com/livenews/3181795",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时29分 ~ 18时25分]"
         },
         {
           "title": "据伊朗官方媒体：伊朗总统佩泽希齐扬表示，伊朗与地区国家没有根本分歧，并准备通过对话解决现有问题。",
@@ -523,6 +524,17 @@
           "time_info": "02时28分"
         },
         {
+          "title": "伊朗议会国家安全与外交政策委员会发言人卡什卡维：欧洲多地出现的动荡局势是外部势力干预地区事务的结果。",
+          "url": "https://flash.jin10.com/detail/20261020175855821800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时25分"
+        },
+        {
           "title": "伊朗重申美国的“过分要求”阻碍谈判进展。（彭博）",
           "url": "https://wallstreetcn.com/livenews/3181699",
           "source": "华尔街见闻-快讯",
@@ -567,6 +579,17 @@
           "time_info": "16时31分"
         },
         {
+          "title": "伊朗：巴基斯坦军方高层访伊不涉及霍尔木兹海峡冲突调解",
+          "url": "https://flash.jin10.com/detail/20261020175422775800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时25分"
+        },
+        {
           "title": "伊朗外长阿拉格齐：我在德黑兰接待了拉夫罗夫外长，并进行了及时的会谈。我们讨论了从欧洲到西亚的各类议题，包括黎巴嫩、巴勒斯坦、乌克兰和也门局势。双方还重点探讨了扩大在经济及核能领域的合作。伊朗与俄罗斯之间的合作，正处于两国历史上最紧密的时期。",
           "url": "https://flash.jin10.com/detail/20261020112848348800",
           "source": "金十数据",
@@ -602,8 +625,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[11时26分 ~ 17时29分]"
+          "appearance_count": 11,
+          "time_info": "[11时26分 ~ 18时25分]"
         },
         {
           "title": "特朗普：也许泽连斯基是时候找别人来谈判了",
@@ -614,8 +637,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[09时32分 ~ 17时29分]"
+          "appearance_count": 13,
+          "time_info": "[09时32分 ~ 18时25分]"
         },
         {
           "title": "不满豁免对俄制裁，担心更坏事情发生，美媒称泽连斯基决定“公开对抗特朗普”",
@@ -637,8 +660,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[09时32分 ~ 17时29分]"
+          "appearance_count": 13,
+          "time_info": "[09时32分 ~ 18时25分]"
         },
         {
           "title": "新华社：特朗普为何此时“力挺”内塔尼亚胡",
@@ -652,8 +675,22 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[09时32分 ~ 17时29分]"
+          "appearance_count": 12,
+          "time_info": "[09时32分 ~ 18时25分]"
+        },
+        {
+          "title": "特朗普：中方在乌问题上立场很公允",
+          "url": "https://www.toutiao.com/trending/7697897058136604715/",
+          "source": "今日头条",
+          "ranks": [
+            6,
+            2,
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[14时31分 ~ 18时25分]"
         },
         {
           "title": "特朗普称该换人代表乌克兰谈判 以色列总理下令推翻伊朗政权 | 环球市场",
@@ -671,17 +708,18 @@
           "time_info": "[09时32分 ~ 15时38分]"
         },
         {
-          "title": "特朗普：中方在乌问题上立场很公允",
-          "url": "https://www.toutiao.com/trending/7697897058136604715/",
-          "source": "今日头条",
+          "title": "中期选举前关键民调！特朗普支持率创历史新低：31%",
+          "url": "https://www.cls.cn/detail/2509225",
+          "source": "财联社热门",
           "ranks": [
-            6,
-            2,
-            4
+            13,
+            10,
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时31分 ~ 17时29分]"
+          "appearance_count": 6,
+          "time_info": "[14时31分 ~ 18时25分]"
         },
         {
           "title": "美国总统特朗普：民主党给我们留下了历史最高的通胀和随之而来的高昂物价，而我一上任，他们就开始高喊“生活负担能力”问题。制造生活成本危机的正是他们。我才是创造了最强劲经济、并正在推动物价下降的人。这不过是又一场假新闻骗局！",
@@ -715,20 +753,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时32分"
-        },
-        {
-          "title": "中期选举前关键民调！特朗普支持率创历史新低：31%",
-          "url": "https://www.cls.cn/detail/2509225",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            10,
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时31分 ~ 17时29分]"
         },
         {
           "title": "三位知情人士称，特朗普女婿库什纳与美国总统特使威特科夫计划本周前往挪威参加乌克兰问题会谈。两名知情人士称，乌克兰总统泽连斯基预计将参加会谈。",
@@ -919,7 +943,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时29分"
         },
@@ -1386,7 +1410,7 @@
     },
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 13,
+      "match_count": 14,
       "titles": [
         {
           "title": "如何评价 DeepSeek V4.1 Flash 1017 登顶「史上最差 AI 模型名称排行榜」?",
@@ -1397,8 +1421,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[08时32分 ~ 17时29分]"
+          "appearance_count": 14,
+          "time_info": "[08时32分 ~ 18时25分]"
         },
         {
           "title": "梁文锋和 DeepSeek，为什么配得上 「 国运级 」 三个字？",
@@ -1443,6 +1467,19 @@
           "time_info": "[00时29分 ~ 07时25分]"
         },
         {
+          "title": "美国政府指示各机构停用DeepSeek，外交部：反对将科技经贸问题政治化",
+          "url": "https://www.cls.cn/detail/2509748",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时30分 ~ 18时25分]"
+        },
+        {
           "title": "美国禁止政府使用DeepSeek",
           "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E5%9B%BD%E7%A6%81%E6%AD%A2%E6%94%BF%E5%BA%9C%E4%BD%BF%E7%94%A8DeepSeek",
           "source": "bilibili 热搜",
@@ -1453,18 +1490,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[15时38分 ~ 16时31分]"
-        },
-        {
-          "title": "美国政府指示各机构停用DeepSeek，外交部：反对将科技经贸问题政治化",
-          "url": "https://www.cls.cn/detail/2509748",
-          "source": "财联社热门",
-          "ranks": [
-            5,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时30分 ~ 17时29分]"
         },
         {
           "title": "如何评价美国国土安全部将 DeepSeek 及相关第三方产品排除出联邦文职采购？",
@@ -1530,9 +1555,20 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时29分"
+        },
+        {
+          "title": "中方回应美要求机构停用DeepSeek",
+          "url": "https://www.toutiao.com/trending/7698396845743850010/",
+          "source": "今日头条",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时25分"
         },
         {
           "title": "DeepSeek新模型升级背后",
@@ -1549,7 +1585,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "Cognizant与谷歌云扩大合作联盟，加速企业向智能体驱动型企业转型。",
@@ -1587,6 +1623,17 @@
           "time_info": "[01时27分 ~ 02时28分]"
         },
         {
+          "title": "谷歌云：在谷歌分布式云上推出搭载Gemini的企业搜索预览版。",
+          "url": "https://flash.jin10.com/detail/20261020180706755800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时25分"
+        },
+        {
           "title": "谷歌(GOOG.O)前首席执行官埃里克·施密特在Anthropic公司拥有约1%的股份。",
           "url": "https://flash.jin10.com/detail/20261020053341203800",
           "source": "金十数据",
@@ -1621,11 +1668,12 @@
           "ranks": [
             12,
             11,
-            10
+            10,
+            13
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时31分 ~ 17时29分]"
+          "appearance_count": 6,
+          "time_info": "[14时31分 ~ 18时25分]"
         },
         {
           "title": "市场消息：消息人士称，软银与MGX正洽谈参与OpenAI本轮融资。",
