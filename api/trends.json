@@ -1,12 +1,45 @@
 {
-  "generated_at": "2026-10-22T01:27:35.160268+08:00",
-  "total_titles_processed": 383,
+  "generated_at": "2026-10-22T02:29:01.560342+08:00",
+  "total_titles_processed": 436,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 8,
+      "match_count": 15,
       "titles": [
+        {
+          "title": "美消息人士：数十架以色列军机曾飞近伊朗边境 背后目的引关注",
+          "url": "https://flash.jin10.com/detail/20261022020547078800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时29分"
+        },
+        {
+          "title": "美国对伊朗实施新一轮制裁",
+          "url": "https://flash.jin10.com/detail/20261022015137763800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时29分"
+        },
+        {
+          "title": "美国对伊朗实施新一轮制裁",
+          "url": "https://wallstreetcn.com/livenews/3182895",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时29分"
+        },
         {
           "title": "伊朗议会议长卡利巴夫会见最高领袖穆杰塔巴",
           "url": "https://wallstreetcn.com/livenews/3182846",
@@ -37,9 +70,42 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时27分"
+        },
+        {
+          "title": "美国财长贝森特：无论你是在海上从事非法石油转运，还是身居律所高管办公室，只要你为伊朗政权提供支持，我们就会找到你并实施制裁。 伊朗的协助者必须做出选择：要么站在我们这边，要么与我们为敌。 我们清楚你们是谁，清楚你们的所作所为，并且会持续采取行动。",
+          "url": "https://wallstreetcn.com/livenews/3182890",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时29分"
+        },
+        {
+          "title": "伊朗阿拉格齐：如果看到美国真诚希望建立信任并达成公正解决方案的有力证据，伊朗准备再给外交一次机会。但如果美国选择战争而非外交，必将导致更大的战略失败。",
+          "url": "https://flash.jin10.com/detail/20261022012422733800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时29分"
+        },
+        {
+          "title": "美国财长贝森特：无论你是在海上从事非法石油转运，还是坐在律所的角落办公室里，只要你在支持伊朗政权，我们就一定会找到你并实施制裁。伊朗的帮凶必须做出选择：要么与我们站在一起，要么与我们为敌。我们清楚你是谁，清楚你在做什么，且将持续采取行动。",
+          "url": "https://flash.jin10.com/detail/20261022012224738800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时29分"
         },
         {
           "title": "美国财政部：美国发布新一轮涉伊朗制裁。",
@@ -48,7 +114,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时27分"
         },
@@ -73,6 +139,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时29分"
+        },
+        {
+          "title": "据伊朗Press TV：伊朗总统佩泽希齐扬表示，伊朗从未寻求战争，也无意发动战争，但绝不会屈服于武力或欺凌。",
+          "url": "https://flash.jin10.com/detail/20261022010621643800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时29分"
         },
         {
           "title": "据伊通社（IRNA）：伊朗议会议长卡利巴夫与最高领袖穆杰塔巴·哈梅内伊讨论了美以对伊战争的最新进展。",
@@ -110,8 +187,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时28分 ~ 01时27分]"
+          "appearance_count": 5,
+          "time_info": "[00时28分 ~ 02时29分]"
         },
         {
           "title": "贝利为就特朗普攻击鲍威尔一事发声进行辩护",
@@ -131,7 +208,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时27分"
         },
@@ -157,11 +234,12 @@
           "url": "https://wallstreetcn.com/livenews/3182871",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            8
+            8,
+            25
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时27分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时27分 ~ 02时29分]"
         },
         {
           "title": "据华尔街日报：美国参议员就人工智能对学龄儿童的影响向谷歌(GOOG.O)寻求解释，此前已展开相关调查。",
@@ -170,7 +248,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时27分"
         },
@@ -199,8 +277,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时28分 ~ 01时27分]"
+          "appearance_count": 5,
+          "time_info": "[00时28分 ~ 02时29分]"
         },
         {
           "title": "金十图示：2026年10月21日（周三）美股热门股票行情一览（美股盘中）",
@@ -209,7 +287,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时27分"
         },
@@ -220,7 +298,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时27分"
         }
@@ -228,18 +306,30 @@
     },
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "腾讯姚顺雨想把DeepSeek卷到加班",
           "url": "https://www.toutiao.com/trending/7697961005829668883/",
           "source": "今日头条",
           "ranks": [
-            25
+            25,
+            19
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时28分 ~ 01时27分]"
+          "appearance_count": 5,
+          "time_info": "[00时28分 ~ 02时29分]"
+        },
+        {
+          "title": "周鸿祎谈美国“封杀”DeepSeek",
+          "url": "https://www.toutiao.com/trending/7699074388208913958/",
+          "source": "今日头条",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时28分 ~ 02时29分]"
         }
       ]
     }
