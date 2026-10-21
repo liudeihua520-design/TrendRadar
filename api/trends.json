@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-21T20:32:52.610506+08:00",
-  "total_titles_processed": 2029,
+  "generated_at": "2026-10-21T21:37:49.178341+08:00",
+  "total_titles_processed": 2131,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 67,
+      "match_count": 68,
       "titles": [
         {
           "title": "特朗普对与中俄举行三方会谈态度积极，外交部回应",
@@ -26,8 +26,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 27,
-          "time_info": "[00时29分 ~ 20时32分]"
+          "appearance_count": 28,
+          "time_info": "[00时29分 ~ 21时37分]"
         },
         {
           "title": "美国中期选举在即，特朗普连共和党铁盘都快守不住了",
@@ -168,17 +168,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时31分"
-        },
-        {
-          "title": "特朗普：Jackdaw项目获批对英国是重大好消息。 英国应全力推进北海钻探。",
-          "url": "https://wallstreetcn.com/livenews/3182732",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时32分"
         },
         {
           "title": "市场消息：美国一家食品进口企业就特朗普政府对加拿大产品征收50%关税，向美国国际贸易法院提起诉讼。",
@@ -330,6 +319,18 @@
           "time_info": "[03时31分 ~ 04时25分]"
         },
         {
+          "title": "特朗普：Jackdaw项目获批对英国是重大好消息。 英国应全力推进北海钻探。",
+          "url": "https://wallstreetcn.com/livenews/3182732",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时32分 ~ 21时37分]"
+        },
+        {
           "title": "美国总统特朗普：副总统万斯非常不错。",
           "url": "https://wallstreetcn.com/livenews/3182099",
           "source": "华尔街见闻-快讯",
@@ -430,7 +431,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时32分"
         },
@@ -655,6 +656,17 @@
           "time_info": "03时31分"
         },
         {
+          "title": "伊朗外交部：特朗普不能发动战争、制造全球混乱后再扮演受害者",
+          "url": "https://flash.jin10.com/detail/20261021204249057800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时37分"
+        },
+        {
           "title": "美国法官驳回特朗普政府试图阻止NAACP就数据中心起诉马斯克xAI的请求",
           "url": "https://wallstreetcn.com/livenews/3182033",
           "source": "华尔街见闻-快讯",
@@ -779,7 +791,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 47,
+      "match_count": 48,
       "titles": [
         {
           "title": "伊朗总统称谈判前提是美方解除施压、威胁和制裁 | 环球市场",
@@ -804,11 +816,12 @@
             20,
             18,
             17,
-            15
+            15,
+            19
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[14时32分 ~ 20时32分]"
+          "appearance_count": 10,
+          "time_info": "[14时32分 ~ 21时37分]"
         },
         {
           "title": "据伊朗迈赫尔通讯社：伊朗议会议长卡利巴夫称美国只有执行伊朗在纽约提出的七项条件，才能赢得伊方信任。",
@@ -842,17 +855,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时29分"
-        },
-        {
-          "title": "伊拉克关闭与伊朗的一处边境口岸",
-          "url": "https://wallstreetcn.com/livenews/3182729",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时32分"
         },
         {
           "title": "伊朗外长称美伊分歧不只在核问题，核问题只是借口",
@@ -913,6 +915,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时29分 ~ 01时38分]"
+        },
+        {
+          "title": "伊拉克关闭与伊朗的一处边境口岸",
+          "url": "https://wallstreetcn.com/livenews/3182729",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时32分 ~ 21时37分]"
         },
         {
           "title": "伊朗外长回应埃及可能介入也门冲突",
@@ -987,6 +1001,17 @@
           "time_info": "[05时26分 ~ 06时26分]"
         },
         {
+          "title": "伊朗“摸鞋哥”全身都是戏",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E2%80%9C%E6%91%B8%E9%9E%8B%E5%93%A5%E2%80%9D%E5%85%A8%E8%BA%AB%E9%83%BD%E6%98%AF%E6%88%8F",
+          "source": "百度热搜",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时37分"
+        },
+        {
           "title": "据NourNews：在巴基斯坦陆军参谋长穆尼尔离开德黑兰前不久，一个卡塔尔外交代表团抵达了伊朗。",
           "url": "https://flash.jin10.com/detail/20261021020202978800",
           "source": "金十数据",
@@ -1026,7 +1051,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时32分"
         },
@@ -1147,7 +1172,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时32分"
         },
@@ -1257,7 +1282,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时32分"
         },
@@ -1312,7 +1337,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时32分"
         }
@@ -1320,7 +1345,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 28,
+      "match_count": 29,
       "titles": [
         {
           "title": "美股收盘：三大指数涨跌不一 SpaceX绩后股价走强",
@@ -1507,6 +1532,17 @@
           "time_info": "16时31分"
         },
         {
+          "title": "周三美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/3182739",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时37分"
+        },
+        {
           "title": "美股市值前十公司盘初股价全线下跌",
           "url": "https://www.toutiao.com/trending/7698236248431050795/",
           "source": "今日头条",
@@ -1546,7 +1582,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时32分"
         },
@@ -1579,7 +1615,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时32分"
         },
@@ -1738,7 +1774,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时32分"
         },
@@ -1768,7 +1804,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "OpenAI前工程师涉嫌窃密，疑似与沙特政界交往甚密",
@@ -1780,6 +1816,17 @@
           "is_new": false,
           "appearance_count": 15,
           "time_info": "[00时29分 ~ 11时27分]"
+        },
+        {
+          "title": "OpenAI：OpenAI正将ChatGPT广告扩展至另外26个国家，使全球可用范围达到89个国家。",
+          "url": "https://wallstreetcn.com/livenews/3182750",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时37分"
         },
         {
           "title": "OpenAI称发现其AI Agent削弱了对齐失效监控机制",
@@ -1865,19 +1912,8 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 5,
+      "match_count": 8,
       "titles": [
-        {
-          "title": "OpenAI与谷歌云达成合作，将开放前沿模型及Codex",
-          "url": "https://wallstreetcn.com/livenews/3182731",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时32分"
-        },
         {
           "title": "谷歌：OpenAI的GPT-ASTRA、GPT-6.1 SOL和GPT-6 LUNA模型正在谷歌云Model Garden中向少数企业客户进行私密预览推送。",
           "url": "https://flash.jin10.com/detail/20261021200756080800",
@@ -1885,7 +1921,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时32分"
         },
@@ -1896,9 +1932,43 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时32分"
+        },
+        {
+          "title": "OpenAI与谷歌云达成合作，将开放前沿模型及Codex",
+          "url": "https://wallstreetcn.com/livenews/3182731",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时32分 ~ 21时37分]"
+        },
+        {
+          "title": "OpenAI：OpenAI模型即将登陆谷歌云。 OpenAI将把前沿模型引入谷歌云Model Garden。 微软仍是主要云合作伙伴。 模型即将在谷歌Antigravity和Gemini Agent中提供。",
+          "url": "https://wallstreetcn.com/livenews/3182738",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时37分"
+        },
+        {
+          "title": "谷歌云与英伟达宣布Vera Rubin基础设施即将商用",
+          "url": "https://wallstreetcn.com/livenews/3182737",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时37分"
         },
         {
           "title": "谷歌：Claude Opus 5.5和Claude Sonnet 5.5现已在Google Antigravity上线。",
@@ -1921,12 +1991,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时38分"
+        },
+        {
+          "title": "OpenAI：前沿模型将通过谷歌云市场开放购买。",
+          "url": "https://flash.jin10.com/detail/20261021203514440800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时37分"
         }
       ]
     },
     {
       "keyword_group": "金价",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "金十图示：2026年10月21日（周三）上海金早盘价为886.26元/克，较国际金价(883.98元/克)，高2.28元/克",
@@ -1938,6 +2019,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时27分"
+        },
+        {
+          "title": "金价跌了抢金的人却更多",
+          "url": "https://www.toutiao.com/trending/7699059120464219690/",
+          "source": "今日头条",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时37分"
         },
         {
           "title": "利好全来了，金价为何还是跌？",
