@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-21T10:26:55.611251+08:00",
-  "total_titles_processed": 1020,
+  "generated_at": "2026-10-21T11:27:25.276245+08:00",
+  "total_titles_processed": 1130,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时29分 ~ 10时26分]"
+          "appearance_count": 15,
+          "time_info": "[00时29分 ~ 11时27分]"
         },
         {
           "title": "特朗普：也许泽连斯基是时候找别人来谈判了",
@@ -26,8 +26,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时29分 ~ 10时26分]"
+          "appearance_count": 15,
+          "time_info": "[00时29分 ~ 11时27分]"
         },
         {
           "title": "美国中期选举在即，特朗普连共和党铁盘都快守不住了",
@@ -50,11 +50,12 @@
             4,
             21,
             15,
-            14
+            14,
+            20
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时29分 ~ 10时26分]"
+          "appearance_count": 15,
+          "time_info": "[00时29分 ~ 11时27分]"
         },
         {
           "title": "泽连斯基：作为伙伴我愿向特朗普让步",
@@ -143,17 +144,6 @@
           "time_info": "03时31分"
         },
         {
-          "title": "特朗普为何突然对乌克兰翻脸",
-          "url": "https://www.toutiao.com/trending/7698912022229945898/",
-          "source": "今日头条",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时26分"
-        },
-        {
           "title": "美国总统特朗普：截至选举日，我已经花费或将累计花费超过4亿美元。",
           "url": "https://flash.jin10.com/detail/20261021011014849800",
           "source": "金十数据",
@@ -193,7 +183,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时26分"
         },
@@ -243,6 +233,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时31分 ~ 04时25分]"
+        },
+        {
+          "title": "特朗普为何突然对乌克兰翻脸",
+          "url": "https://www.toutiao.com/trending/7698912022229945898/",
+          "source": "今日头条",
+          "ranks": [
+            4,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时26分 ~ 11时27分]"
         },
         {
           "title": "美国总统特朗普：副总统万斯非常不错。",
@@ -584,7 +586,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 32,
+      "match_count": 33,
       "titles": [
         {
           "title": "据伊朗迈赫尔通讯社：伊朗议会议长卡利巴夫称美国只有执行伊朗在纽约提出的七项条件，才能赢得伊方信任。",
@@ -657,6 +659,19 @@
           "time_info": "[00时29分 ~ 01时38分]"
         },
         {
+          "title": "伊朗总统称谈判前提是美方解除施压、威胁和制裁 | 环球市场",
+          "url": "https://www.cls.cn/detail/2510457",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            11,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时33分 ~ 11时27分]"
+        },
+        {
           "title": "伊朗外长回应埃及可能介入也门冲突",
           "url": "https://flash.jin10.com/detail/20261021055934240800",
           "source": "金十数据",
@@ -691,18 +706,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时38分 ~ 02时29分]"
-        },
-        {
-          "title": "伊朗总统称谈判前提是美方解除施压、威胁和制裁 | 环球市场",
-          "url": "https://www.cls.cn/detail/2510457",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时33分 ~ 10时26分]"
         },
         {
           "title": "伊朗外长阿拉格齐谈及美方想要增加的附加条件：我们不会在你们设定的框架内谈判。",
@@ -794,6 +797,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时29分"
+        },
+        {
+          "title": "伊朗小学遇袭事发近8个月 美国“仍在调查”",
+          "url": "https://flash.jin10.com/detail/20261021105325020800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时27分"
         },
         {
           "title": "伊朗总统：谈判前提是美方解除施压、威胁和制裁",
@@ -967,6 +981,19 @@
           "time_info": "[00时29分 ~ 06时26分]"
         },
         {
+          "title": "美股收盘：三大指数涨跌不一 SpaceX绩后股价走强",
+          "url": "https://www.cls.cn/detail/2510428",
+          "source": "财联社热门",
+          "ranks": [
+            3,
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[07时23分 ~ 11时27分]"
+        },
+        {
           "title": "美股见顶最直接的信号：韩国芯片出口？",
           "url": "https://wallstreetcn.com/articles/3784011",
           "source": "华尔街见闻",
@@ -977,8 +1004,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[01时38分 ~ 10时26分]"
+          "appearance_count": 14,
+          "time_info": "[01时38分 ~ 11时27分]"
         },
         {
           "title": "韩国AI新股上市首日暴跌 美股科技题材再度承压 | 今夜看点",
@@ -988,11 +1015,12 @@
             9,
             8,
             10,
-            11
+            11,
+            7
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时29分 ~ 10时26分]"
+          "appearance_count": 15,
+          "time_info": "[00时29分 ~ 11时27分]"
         },
         {
           "title": "美股深夜反攻纳指涨超1%",
@@ -1009,18 +1037,6 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时29分 ~ 07时23分]"
-        },
-        {
-          "title": "美股收盘：三大指数涨跌不一 SpaceX绩后股价走强",
-          "url": "https://www.cls.cn/detail/2510428",
-          "source": "财联社热门",
-          "ranks": [
-            3,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时23分 ~ 10时26分]"
         },
         {
           "title": "SpaceX(SPCX.O)美股盘后涨2%。",
@@ -1206,98 +1222,8 @@
       ]
     },
     {
-      "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 7,
-      "titles": [
-        {
-          "title": "怎么看 DeepSeek 官宣单集群日均吞吐达 155 万亿 Token，单卡每小时收入 38 美金？",
-          "url": "https://www.zhihu.com/question/2095938083422262957",
-          "source": "知乎",
-          "ranks": [
-            15,
-            7,
-            4,
-            3,
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[01时38分 ~ 10时26分]"
-        },
-        {
-          "title": "无理打压中企！美国政府下令全面移除DeepSeek技术",
-          "url": "https://original.ifeng.com/c/8xNeD5i09FW",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时29分 ~ 10时26分]"
-        },
-        {
-          "title": "如何看待 DeepSeek 开源的大规模云服务推理框架 DeepInfer ？",
-          "url": "https://www.zhihu.com/question/2095922064804636469",
-          "source": "知乎",
-          "ranks": [
-            2,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时29分 ~ 05时26分]"
-        },
-        {
-          "title": "美国政府指示各机构停用DeepSeek，外交部：反对将科技经贸问题政治化",
-          "url": "https://www.cls.cn/detail/2509748",
-          "source": "财联社热门",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时29分"
-        },
-        {
-          "title": "如何评价 DeepSeek V4.1 Flash 1017 登顶「史上最差 AI 模型名称排行榜」?",
-          "url": "https://www.zhihu.com/question/2095476625228019430",
-          "source": "知乎",
-          "ranks": [
-            19,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[04时24分 ~ 07时23分]"
-        },
-        {
-          "title": "DeepSeek全面开源DeepInfer",
-          "url": "https://search.bilibili.com/all?keyword=DeepSeek%E5%85%A8%E9%9D%A2%E5%BC%80%E6%BA%90",
-          "source": "bilibili 热搜",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时26分"
-        },
-        {
-          "title": "DeepSeek一张卡每小时收入38美元",
-          "url": "https://www.baidu.com/s?wd=DeepSeek%E4%B8%80%E5%BC%A0%E5%8D%A1%E6%AF%8F%E5%B0%8F%E6%97%B6%E6%94%B6%E5%85%A538%E7%BE%8E%E5%85%83",
-          "source": "百度热搜",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时29分"
-        }
-      ]
-    },
-    {
       "keyword_group": "chatgpt openai",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "OpenAI前工程师涉嫌窃密，疑似与沙特政界交往甚密",
@@ -1307,8 +1233,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时29分 ~ 10时26分]"
+          "appearance_count": 15,
+          "time_info": "[00时29分 ~ 11时27分]"
         },
         {
           "title": "OpenAI称发现其AI Agent削弱了对齐失效监控机制",
@@ -1369,6 +1295,17 @@
           "time_info": "02时29分"
         },
         {
+          "title": "OpenAI表示，其两个AI智能体削弱了一个旨在检测不当行为的内部监控系统。",
+          "url": "https://flash.jin10.com/detail/20261021105005154800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时27分"
+        },
+        {
           "title": "城堡证券CEO格里芬：目前AI领域几乎肯定存在泡沫，尽管泡沫往往伴随着重大技术突破。企业正在仔细审查Anthropic和OpenAI的账单，部分公司难以从AI中获取价值。",
           "url": "https://flash.jin10.com/detail/20261021054329265800",
           "source": "金十数据",
@@ -1378,6 +1315,97 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时26分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "DeepSeek 梁文锋",
+      "match_count": 7,
+      "titles": [
+        {
+          "title": "怎么看 DeepSeek 官宣单集群日均吞吐达 155 万亿 Token，单卡每小时收入 38 美金？",
+          "url": "https://www.zhihu.com/question/2095938083422262957",
+          "source": "知乎",
+          "ranks": [
+            15,
+            7,
+            4,
+            3,
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 14,
+          "time_info": "[01时38分 ~ 11时27分]"
+        },
+        {
+          "title": "无理打压中企！美国政府下令全面移除DeepSeek技术",
+          "url": "https://original.ifeng.com/c/8xNeD5i09FW",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 15,
+          "time_info": "[00时29分 ~ 11时27分]"
+        },
+        {
+          "title": "如何看待 DeepSeek 开源的大规模云服务推理框架 DeepInfer ？",
+          "url": "https://www.zhihu.com/question/2095922064804636469",
+          "source": "知乎",
+          "ranks": [
+            2,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时29分 ~ 05时26分]"
+        },
+        {
+          "title": "DeepSeek全面开源DeepInfer",
+          "url": "https://search.bilibili.com/all?keyword=DeepSeek%E5%85%A8%E9%9D%A2%E5%BC%80%E6%BA%90",
+          "source": "bilibili 热搜",
+          "ranks": [
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时26分 ~ 11时27分]"
+        },
+        {
+          "title": "美国政府指示各机构停用DeepSeek，外交部：反对将科技经贸问题政治化",
+          "url": "https://www.cls.cn/detail/2509748",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时29分"
+        },
+        {
+          "title": "如何评价 DeepSeek V4.1 Flash 1017 登顶「史上最差 AI 模型名称排行榜」?",
+          "url": "https://www.zhihu.com/question/2095476625228019430",
+          "source": "知乎",
+          "ranks": [
+            19,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[04时24分 ~ 07时23分]"
+        },
+        {
+          "title": "DeepSeek一张卡每小时收入38美元",
+          "url": "https://www.baidu.com/s?wd=DeepSeek%E4%B8%80%E5%BC%A0%E5%8D%A1%E6%AF%8F%E5%B0%8F%E6%97%B6%E6%94%B6%E5%85%A538%E7%BE%8E%E5%85%83",
+          "source": "百度热搜",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时29分"
         }
       ]
     },
@@ -1435,6 +1463,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时25分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "金十图示：2026年10月21日（周三）上海金早盘价为886.26元/克，较国际金价(883.98元/克)，高2.28元/克",
+          "url": "https://flash.jin10.com/detail/20261021110038191800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时27分"
         }
       ]
     },
