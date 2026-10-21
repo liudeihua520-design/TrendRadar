@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-22T02:29:01.560342+08:00",
-  "total_titles_processed": 436,
+  "generated_at": "2026-10-22T03:31:25.721489+08:00",
+  "total_titles_processed": 487,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 15,
+      "match_count": 20,
       "titles": [
         {
           "title": "美消息人士：数十架以色列军机曾飞近伊朗边境 背后目的引关注",
@@ -14,7 +14,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时29分"
         },
@@ -25,7 +25,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时29分"
         },
@@ -34,11 +34,24 @@
           "url": "https://wallstreetcn.com/livenews/3182895",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            5
+            5,
+            21
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时29分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时29分 ~ 03时31分]"
+        },
+        {
+          "title": "美国财长贝森特：无论你是在海上从事非法石油转运，还是身居律所高管办公室，只要你为伊朗政权提供支持，我们就会找到你并实施制裁。 伊朗的协助者必须做出选择：要么站在我们这边，要么与我们为敌。 我们清楚你们是谁，清楚你们的所作所为，并且会持续采取行动。",
+          "url": "https://wallstreetcn.com/livenews/3182890",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时29分 ~ 03时31分]"
         },
         {
           "title": "伊朗议会议长卡利巴夫会见最高领袖穆杰塔巴",
@@ -64,6 +77,28 @@
           "time_info": "[00时28分 ~ 00时29分]"
         },
         {
+          "title": "数十架以军战机曾逼近伊朗边境",
+          "url": "https://wallstreetcn.com/livenews/3182912",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时31分"
+        },
+        {
+          "title": "伊朗方面称锡里克地区传出数次爆炸声",
+          "url": "https://wallstreetcn.com/livenews/3182911",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时31分"
+        },
+        {
           "title": "美国财政部：发布伊朗相关一般许可证，允许卸载部分受制裁船舶的货物。",
           "url": "https://flash.jin10.com/detail/20261022004856343800",
           "source": "金十数据",
@@ -75,15 +110,15 @@
           "time_info": "01时27分"
         },
         {
-          "title": "美国财长贝森特：无论你是在海上从事非法石油转运，还是身居律所高管办公室，只要你为伊朗政权提供支持，我们就会找到你并实施制裁。 伊朗的协助者必须做出选择：要么站在我们这边，要么与我们为敌。 我们清楚你们是谁，清楚你们的所作所为，并且会持续采取行动。",
-          "url": "https://wallstreetcn.com/livenews/3182890",
-          "source": "华尔街见闻-快讯",
+          "title": "伊朗方面称锡里克地区传出数次爆炸声",
+          "url": "https://flash.jin10.com/detail/20261022024533877800",
+          "source": "金十数据",
           "ranks": [
-            9
+            11
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时29分"
+          "time_info": "03时31分"
         },
         {
           "title": "伊朗阿拉格齐：如果看到美国真诚希望建立信任并达成公正解决方案的有力证据，伊朗准备再给外交一次机会。但如果美国选择战争而非外交，必将导致更大的战略失败。",
@@ -92,9 +127,20 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时29分"
+        },
+        {
+          "title": "据伊朗伊斯兰共和国广播电视台（IRIB）：伊朗外长阿拉格齐表示，伊朗正积极开展经济外交，并致力于解决出口商面临的障碍。邻国是伊朗最重要的出口目的地之一，伊朗希望改善与邻国的关系。",
+          "url": "https://flash.jin10.com/detail/20261022023828577800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时31分"
         },
         {
           "title": "美国财长贝森特：无论你是在海上从事非法石油转运，还是坐在律所的角落办公室里，只要你在支持伊朗政权，我们就一定会找到你并实施制裁。伊朗的帮凶必须做出选择：要么与我们站在一起，要么与我们为敌。我们清楚你是谁，清楚你在做什么，且将持续采取行动。",
@@ -103,7 +149,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时29分"
         },
@@ -147,9 +193,20 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时29分"
+        },
+        {
+          "title": "据伊朗媒体Fars News：几分钟前，锡里克克尔潘地区传出多次爆炸声；目前尚不清楚这些声音的来源和性质。",
+          "url": "https://flash.jin10.com/detail/20261022022616903800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时31分"
         },
         {
           "title": "据伊通社（IRNA）：伊朗议会议长卡利巴夫与最高领袖穆杰塔巴·哈梅内伊讨论了美以对伊战争的最新进展。",
@@ -177,7 +234,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 4,
+      "match_count": 8,
       "titles": [
         {
           "title": "泽连斯基和特朗普，彻底决裂了？",
@@ -187,8 +244,41 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时28分 ~ 02时29分]"
+          "appearance_count": 7,
+          "time_info": "[00时28分 ~ 03时31分]"
+        },
+        {
+          "title": "加拿大总理卡尼：周三与美国总统特朗普进行了相当长时间的交谈。",
+          "url": "https://flash.jin10.com/detail/20261022030459344800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时31分"
+        },
+        {
+          "title": "加拿大总理卡尼：与美国总统特朗普讨论了广泛议题，包括伊朗问题。",
+          "url": "https://flash.jin10.com/detail/20261022030449083800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时31分"
+        },
+        {
+          "title": "加拿大总理卡尼：周三与美国总统特朗普进行了长时间通话。 与特朗普讨论了包括伊朗在内的广泛议题。",
+          "url": "https://wallstreetcn.com/livenews/3182914",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时31分"
         },
         {
           "title": "贝利为就特朗普攻击鲍威尔一事发声进行辩护",
@@ -222,6 +312,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时29分"
+        },
+        {
+          "title": "据国会山报：共和党全国委员会宣布，美国特朗普总统将于当地时间10月28日在俄亥俄州奇利科西参加集会活动。",
+          "url": "https://flash.jin10.com/detail/20261022022413260800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时31分"
         }
       ]
     },
@@ -277,8 +378,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时28分 ~ 02时29分]"
+          "appearance_count": 7,
+          "time_info": "[00时28分 ~ 03时31分]"
         },
         {
           "title": "金十图示：2026年10月21日（周三）美股热门股票行情一览（美股盘中）",
@@ -317,8 +418,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时28分 ~ 02时29分]"
+          "appearance_count": 7,
+          "time_info": "[00时28分 ~ 03时31分]"
         },
         {
           "title": "周鸿祎谈美国“封杀”DeepSeek",
