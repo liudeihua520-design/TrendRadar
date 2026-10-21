@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-21T07:23:39.736496+08:00",
-  "total_titles_processed": 718,
+  "generated_at": "2026-10-21T08:31:06.285205+08:00",
+  "total_titles_processed": 829,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 45,
+      "match_count": 47,
       "titles": [
         {
           "title": "特朗普对与中俄举行三方会谈态度积极，外交部回应",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时29分 ~ 07时23分]"
+          "appearance_count": 12,
+          "time_info": "[00时29分 ~ 08时31分]"
         },
         {
           "title": "特朗普：也许泽连斯基是时候找别人来谈判了",
@@ -26,8 +26,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时29分 ~ 07时23分]"
+          "appearance_count": 12,
+          "time_info": "[00时29分 ~ 08时31分]"
         },
         {
           "title": "美国中期选举在即，特朗普连共和党铁盘都快守不住了",
@@ -37,8 +37,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时29分 ~ 07时23分]"
+          "appearance_count": 12,
+          "time_info": "[00时29分 ~ 08时31分]"
         },
         {
           "title": "特朗普：中方在乌问题上立场很公允",
@@ -48,11 +48,12 @@
             5,
             16,
             4,
-            21
+            21,
+            15
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时29分 ~ 07时23分]"
+          "appearance_count": 12,
+          "time_info": "[00时29分 ~ 08时31分]"
         },
         {
           "title": "泽连斯基：作为伙伴我愿向特朗普让步",
@@ -168,7 +169,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时23分"
         },
@@ -256,6 +257,18 @@
           "time_info": "[00时29分 ~ 01时38分]"
         },
         {
+          "title": "特朗普政府因对加拿大商品征收50%关税遭起诉",
+          "url": "https://wallstreetcn.com/livenews/3182187",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时23分 ~ 08时31分]"
+        },
+        {
           "title": "美国总统特朗普：乌克兰必须愿意达成协议。 我想看看我们能否就乌克兰冲突达成协议。 我们给了乌克兰很多，却什么也没得到。",
           "url": "https://wallstreetcn.com/livenews/3182109",
           "source": "华尔街见闻-快讯",
@@ -313,17 +326,6 @@
           "time_info": "03时31分"
         },
         {
-          "title": "特朗普政府因对加拿大商品征收50%关税遭起诉",
-          "url": "https://wallstreetcn.com/livenews/3182187",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时23分"
-        },
-        {
           "title": "美国总统特朗普：无法说明美国国防部长赫格塞思在以色列与以色列总理内塔尼亚胡谈了些什么。",
           "url": "https://flash.jin10.com/detail/20261021030620527800",
           "source": "金十数据",
@@ -355,6 +357,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时31分"
+        },
+        {
+          "title": "城堡证券CEO批评特朗普减税政策：美国已无财政空间",
+          "url": "https://flash.jin10.com/detail/20261021074602734800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时31分"
         },
         {
           "title": "美国总统特朗普：普京和泽连斯基不必同处一室也能签署和平协议。",
@@ -421,6 +434,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时31分"
+        },
+        {
+          "title": "美国总统特朗普刚刚抵达北卡罗来纳州，稍后其将在一场集会上发表讲话。",
+          "url": "https://flash.jin10.com/detail/20261021072707352800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时31分"
         },
         {
           "title": "美国总统特朗普：俄罗斯是一台庞大的机器。他们只是一直碾压式向前推进，这就是他们所做的。他们已占领了非常大的一片土地。",
@@ -539,17 +563,6 @@
           "time_info": "00时29分"
         },
         {
-          "title": "伊朗外长称美伊分歧不只在核问题，核问题只是借口",
-          "url": "https://flash.jin10.com/detail/20261021070413945800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时23分"
-        },
-        {
           "title": "据伊朗NourNews：伊朗总统佩泽希齐扬在德黑兰会见巴基斯坦陆军参谋长时，讨论了调解努力和地区事态发展。",
           "url": "https://flash.jin10.com/detail/20261021000625239800",
           "source": "金十数据",
@@ -559,6 +572,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时29分"
+        },
+        {
+          "title": "伊朗外长称美伊分歧不只在核问题，核问题只是借口",
+          "url": "https://flash.jin10.com/detail/20261021070413945800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时23分 ~ 08时31分]"
         },
         {
           "title": "伊朗告知巴基斯坦：对美国“没有什么新内容要说”。（伊朗媒体MEHR）",
@@ -686,7 +711,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时23分"
         },
@@ -904,8 +929,21 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时29分 ~ 07时23分]"
+          "appearance_count": 12,
+          "time_info": "[00时29分 ~ 08时31分]"
+        },
+        {
+          "title": "美股见顶最直接的信号：韩国芯片出口？",
+          "url": "https://wallstreetcn.com/articles/3784011",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[01时38分 ~ 08时31分]"
         },
         {
           "title": "美股深夜反攻纳指涨超1%",
@@ -924,28 +962,16 @@
           "time_info": "[00时29分 ~ 07时23分]"
         },
         {
-          "title": "美股见顶最直接的信号：韩国芯片出口？",
-          "url": "https://wallstreetcn.com/articles/3784011",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时38分 ~ 07时23分]"
-        },
-        {
           "title": "美股收盘：三大指数涨跌不一 SpaceX绩后股价走强",
           "url": "https://www.cls.cn/detail/2510428",
           "source": "财联社热门",
           "ranks": [
-            3
+            3,
+            4
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时23分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时23分 ~ 08时31分]"
         },
         {
           "title": "SpaceX(SPCX.O)美股盘后涨2%。",
@@ -1080,7 +1106,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时23分"
         },
@@ -1131,6 +1157,91 @@
       ]
     },
     {
+      "keyword_group": "chatgpt openai",
+      "match_count": 7,
+      "titles": [
+        {
+          "title": "OpenAI前工程师涉嫌窃密，疑似与沙特政界交往甚密",
+          "url": "https://news.ifeng.com/c/8xNZBdFHgMK",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[00时29分 ~ 08时31分]"
+        },
+        {
+          "title": "OpenAI称发现其AI Agent削弱了对齐失效监控机制",
+          "url": "https://flash.jin10.com/detail/20261021080108460800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时31分"
+        },
+        {
+          "title": "OpenAI已经收购Orchestra Bio。 将Orchestra Bio与Rosalind AI模型及工具整合，用于生命科学研究。（Axios）",
+          "url": "https://wallstreetcn.com/livenews/3182097",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时29分 ~ 03时31分]"
+        },
+        {
+          "title": "OpenAI CEO Altman在内部沟通时提出一种AI安全方案，提议将头部AI实验室整合为同一个组织，集中管控前沿模型风险。 不过OpenAI、Anthropic均在筹备IPO，商业化诉求上升，让跨竞争对手的深度协同难以落地。",
+          "url": "https://wallstreetcn.com/livenews/3182087",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时29分 ~ 03时31分]"
+        },
+        {
+          "title": "据Axios：OpenAI收购生物医疗公司Orchestra Bio。",
+          "url": "https://flash.jin10.com/detail/20261021015825860800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时29分"
+        },
+        {
+          "title": "OpenAI称AI Agent削弱了对齐失效监控",
+          "url": "https://wallstreetcn.com/livenews/3182207",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时31分"
+        },
+        {
+          "title": "城堡证券CEO格里芬：目前AI领域几乎肯定存在泡沫，尽管泡沫往往伴随着重大技术突破。企业正在仔细审查Anthropic和OpenAI的账单，部分公司难以从AI中获取价值。",
+          "url": "https://flash.jin10.com/detail/20261021054329265800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时26分"
+        }
+      ]
+    },
+    {
       "keyword_group": "DeepSeek 梁文锋",
       "match_count": 6,
       "titles": [
@@ -1143,11 +1254,12 @@
             7,
             4,
             3,
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时38分 ~ 07时23分]"
+          "appearance_count": 11,
+          "time_info": "[01时38分 ~ 08时31分]"
         },
         {
           "title": "无理打压中企！美国政府下令全面移除DeepSeek技术",
@@ -1157,8 +1269,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时29分 ~ 07时23分]"
+          "appearance_count": 12,
+          "time_info": "[00时29分 ~ 08时31分]"
         },
         {
           "title": "如何看待 DeepSeek 开源的大规模云服务推理框架 DeepInfer ？",
@@ -1205,69 +1317,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时29分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "OpenAI前工程师涉嫌窃密，疑似与沙特政界交往甚密",
-          "url": "https://news.ifeng.com/c/8xNZBdFHgMK",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时29分 ~ 07时23分]"
-        },
-        {
-          "title": "OpenAI已经收购Orchestra Bio。 将Orchestra Bio与Rosalind AI模型及工具整合，用于生命科学研究。（Axios）",
-          "url": "https://wallstreetcn.com/livenews/3182097",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时29分 ~ 03时31分]"
-        },
-        {
-          "title": "OpenAI CEO Altman在内部沟通时提出一种AI安全方案，提议将头部AI实验室整合为同一个组织，集中管控前沿模型风险。 不过OpenAI、Anthropic均在筹备IPO，商业化诉求上升，让跨竞争对手的深度协同难以落地。",
-          "url": "https://wallstreetcn.com/livenews/3182087",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时29分 ~ 03时31分]"
-        },
-        {
-          "title": "据Axios：OpenAI收购生物医疗公司Orchestra Bio。",
-          "url": "https://flash.jin10.com/detail/20261021015825860800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时29分"
-        },
-        {
-          "title": "城堡证券CEO格里芬：目前AI领域几乎肯定存在泡沫，尽管泡沫往往伴随着重大技术突破。企业正在仔细审查Anthropic和OpenAI的账单，部分公司难以从AI中获取价值。",
-          "url": "https://flash.jin10.com/detail/20261021054329265800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时26分"
         }
       ]
     },
