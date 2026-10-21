@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-21T12:28:52.915815+08:00",
-  "total_titles_processed": 1237,
+  "generated_at": "2026-10-21T13:27:07.144284+08:00",
+  "total_titles_processed": 1321,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 52,
+      "match_count": 55,
       "titles": [
         {
           "title": "特朗普对与中俄举行三方会谈态度积极，外交部回应",
@@ -26,8 +26,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时29分 ~ 12时28分]"
+          "appearance_count": 18,
+          "time_info": "[00时29分 ~ 13时27分]"
         },
         {
           "title": "美国中期选举在即，特朗普连共和党铁盘都快守不住了",
@@ -54,8 +54,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时29分 ~ 12时28分]"
+          "appearance_count": 18,
+          "time_info": "[00时29分 ~ 13时27分]"
         },
         {
           "title": "泽连斯基：作为伙伴我愿向特朗普让步",
@@ -89,6 +89,20 @@
           "time_info": "[02时29分 ~ 07时23分]"
         },
         {
+          "title": "特朗普为何突然对乌克兰翻脸",
+          "url": "https://www.toutiao.com/trending/7698912022229945898/",
+          "source": "今日头条",
+          "ranks": [
+            4,
+            9,
+            14,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[10时26分 ~ 13时27分]"
+        },
+        {
           "title": "美国总统特朗普：美国副总统万斯做的不错。",
           "url": "https://flash.jin10.com/detail/20261021021215564800",
           "source": "金十数据",
@@ -109,6 +123,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时31分"
+        },
+        {
+          "title": "前欧盟委员寻求特朗普协助，以恢复黑海粮食运输走廊",
+          "url": "https://flash.jin10.com/detail/20261021125607004800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时27分"
+        },
+        {
+          "title": "如何看待特朗普频频公开提及台积电？国台办回应",
+          "url": "https://wallstreetcn.com/livenews/3182349",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时27分"
         },
         {
           "title": "美国总统特朗普：不知何故，总统总会在中期选举中失利。",
@@ -199,19 +235,6 @@
           "time_info": "03时31分"
         },
         {
-          "title": "特朗普为何突然对乌克兰翻脸",
-          "url": "https://www.toutiao.com/trending/7698912022229945898/",
-          "source": "今日头条",
-          "ranks": [
-            4,
-            9,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时26分 ~ 12时28分]"
-        },
-        {
           "title": "美国将建议普京与乌克兰总统泽连斯基、美国总统特朗普面谈。（Politico）",
           "url": "https://wallstreetcn.com/livenews/3182102",
           "source": "华尔街见闻-快讯",
@@ -294,6 +317,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时23分 ~ 08时31分]"
+        },
+        {
+          "title": "特朗普施压泽连斯基同俄达成协议",
+          "url": "https://www.toutiao.com/trending/7698725891135881252/",
+          "source": "今日头条",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时26分 ~ 13时27分]"
         },
         {
           "title": "美国总统特朗普：乌克兰必须愿意达成协议。 我想看看我们能否就乌克兰冲突达成协议。 我们给了乌克兰很多，却什么也没得到。",
@@ -414,7 +448,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时28分"
         },
@@ -535,7 +569,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时28分"
         },
@@ -609,8 +643,22 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 33,
+      "match_count": 35,
       "titles": [
+        {
+          "title": "伊朗总统称谈判前提是美方解除施压、威胁和制裁 | 环球市场",
+          "url": "https://www.cls.cn/detail/2510457",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            11,
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时33分 ~ 13时27分]"
+        },
         {
           "title": "据伊朗迈赫尔通讯社：伊朗议会议长卡利巴夫称美国只有执行伊朗在纽约提出的七项条件，才能赢得伊方信任。",
           "url": "https://flash.jin10.com/detail/20261021001139286800",
@@ -621,6 +669,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时29分"
+        },
+        {
+          "title": "伊朗称三艘油轮在霍尔木兹触雷",
+          "url": "https://wallstreetcn.com/livenews/3182348",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时27分"
         },
         {
           "title": "据伊朗NourNews：伊朗总统佩泽希齐扬在德黑兰会见巴基斯坦陆军参谋长时，讨论了调解努力和地区事态发展。",
@@ -668,20 +727,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时29分 ~ 01时38分]"
-        },
-        {
-          "title": "伊朗总统称谈判前提是美方解除施压、威胁和制裁 | 环球市场",
-          "url": "https://www.cls.cn/detail/2510457",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            11,
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时33分 ~ 12时28分]"
         },
         {
           "title": "伊朗革命卫队：两艘油轮在霍尔木兹海峡沿非法航线航行时触雷起火。",
@@ -966,6 +1011,17 @@
           "time_info": "00时29分"
         },
         {
+          "title": "内塔尼亚胡推动重启对伊朗军事行动，美国官员称“不急”",
+          "url": "https://flash.jin10.com/detail/20261021122836322800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时27分"
+        },
+        {
           "title": "伊朗革命卫队：波斯湾和阿曼海船只的船东及船员对通过非法航道负有责任，任何无视该海峡安全的行为都将受到坚决处理。",
           "url": "https://flash.jin10.com/detail/20261021005722482800",
           "source": "金十数据",
@@ -994,17 +1050,6 @@
       "match_count": 21,
       "titles": [
         {
-          "title": "AI交易紧张情绪暂缓，美股指转涨，CoreWeave涨超5%，礼来涨近5%股价创新高，美元走软",
-          "url": "https://wallstreetcn.com/articles/3783983",
-          "source": "华尔街见闻",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时29分 ~ 06时26分]"
-        },
-        {
           "title": "美股收盘：三大指数涨跌不一 SpaceX绩后股价走强",
           "url": "https://www.cls.cn/detail/2510428",
           "source": "财联社热门",
@@ -1014,8 +1059,19 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[07时23分 ~ 12时28分]"
+          "appearance_count": 9,
+          "time_info": "[07时23分 ~ 13时27分]"
+        },
+        {
+          "title": "AI交易紧张情绪暂缓，美股指转涨，CoreWeave涨超5%，礼来涨近5%股价创新高，美元走软",
+          "url": "https://wallstreetcn.com/articles/3783983",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时29分 ~ 06时26分]"
         },
         {
           "title": "美股见顶最直接的信号：韩国芯片出口？",
@@ -1028,8 +1084,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[01时38分 ~ 12时28分]"
+          "appearance_count": 17,
+          "time_info": "[01时38分 ~ 13时27分]"
         },
         {
           "title": "韩国AI新股上市首日暴跌 美股科技题材再度承压 | 今夜看点",
@@ -1359,8 +1415,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[01时38分 ~ 12时28分]"
+          "appearance_count": 17,
+          "time_info": "[01时38分 ~ 13时27分]"
         },
         {
           "title": "无理打压中企！美国政府下令全面移除DeepSeek技术",
@@ -1484,7 +1540,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时28分"
         }
