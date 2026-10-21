@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-21T15:40:13.396636+08:00",
-  "total_titles_processed": 1514,
+  "generated_at": "2026-10-21T16:31:58.472078+08:00",
+  "total_titles_processed": 1601,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 57,
+      "match_count": 58,
       "titles": [
         {
           "title": "特朗普对与中俄举行三方会谈态度积极，外交部回应",
@@ -26,8 +26,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时29分 ~ 15时40分]"
+          "appearance_count": 22,
+          "time_info": "[00时29分 ~ 16时31分]"
         },
         {
           "title": "美国中期选举在即，特朗普连共和党铁盘都快守不住了",
@@ -146,6 +146,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时31分"
+        },
+        {
+          "title": "特朗普表示砸逾4亿美元助共和党选举",
+          "url": "https://wallstreetcn.com/livenews/3182482",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时31分"
         },
         {
           "title": "市场消息：美国一家食品进口企业就特朗普政府对加拿大产品征收50%关税，向美国国际贸易法院提起诉讼。",
@@ -669,7 +680,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 36,
+      "match_count": 37,
       "titles": [
         {
           "title": "伊朗总统称谈判前提是美方解除施压、威胁和制裁 | 环球市场",
@@ -683,8 +694,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时33分 ~ 15时40分]"
+          "appearance_count": 10,
+          "time_info": "[09时33分 ~ 16时31分]"
         },
         {
           "title": "据伊朗迈赫尔通讯社：伊朗议会议长卡利巴夫称美国只有执行伊朗在纽约提出的七项条件，才能赢得伊方信任。",
@@ -776,8 +787,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时32分 ~ 15时40分]"
+          "appearance_count": 4,
+          "time_info": "[14时32分 ~ 16时31分]"
         },
         {
           "title": "伊朗外长回应埃及可能介入也门冲突",
@@ -1081,12 +1092,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时29分"
+        },
+        {
+          "title": "据中东媒体Al-Ain：一位伊拉克政府消息人士透露，美国正在向巴格达施压，要求其关闭与伊朗的边境通道。",
+          "url": "https://flash.jin10.com/detail/20261021160157507800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时31分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 21,
+      "match_count": 26,
       "titles": [
         {
           "title": "美股收盘：三大指数涨跌不一 SpaceX绩后股价走强",
@@ -1167,6 +1189,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时25分"
+        },
+        {
+          "title": "Nebius(NBIS.O)美股盘前上涨4.3%，Coreweave(CRWV.O)上涨3%。",
+          "url": "https://flash.jin10.com/detail/20261021161750634800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时31分"
         },
         {
           "title": "周二（10月20日），彭博电动汽车价格回报指数跌1.01%，报2974.76点。 指数几乎全天处于下跌状态，亚太盘初微幅上涨，亚太早盘持续下跌、北京时间14:13刷新日低至2952.25点，美股开盘后一度显著收复失地。 成分股里，中创新航科技集团H股收跌9.21%，优美科欧股收跌4.47%，地平线H股收跌3.95%，蔚来集团H股收跌3.5%，松下株式会社东京股价跌2.49%跌幅第五大。 速腾聚创科技H股则收涨3.92%表现第六，沃尔沃汽车集团欧股涨4.4%，ANTAM Persero涨10.48%。",
@@ -1251,6 +1284,17 @@
           "time_info": "[05时26分 ~ 06时26分]"
         },
         {
+          "title": "美股盘前：SpaceX涨约9%，超微电脑涨约15%，奈飞跌约6%",
+          "url": "https://wallstreetcn.com/livenews/3182465",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时31分"
+        },
+        {
           "title": "美股市值前十公司盘初股价全线下跌",
           "url": "https://www.toutiao.com/trending/7698236248431050795/",
           "source": "今日头条",
@@ -1306,6 +1350,28 @@
           "time_info": "04时25分"
         },
         {
+          "title": "奈飞(NFLX.O)美股盘前下跌6.1%，此前其第四季度利润预测低于预期，且公司下调了全年广告收入预测。",
+          "url": "https://flash.jin10.com/detail/20261021160427477800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时31分"
+        },
+        {
+          "title": "特斯拉(TSLA.O)美股盘前上涨1.8%。",
+          "url": "https://flash.jin10.com/detail/20261021160405094800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时31分"
+        },
+        {
           "title": "美股AI板块反弹是拐点还是喘息",
           "url": "https://www.toutiao.com/trending/7698720757680967204/",
           "source": "今日头条",
@@ -1315,6 +1381,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时38分"
+        },
+        {
+          "title": "超微电脑(SMCI.O)美股盘前上涨16%，此前公司预计第一财季营收高于预期。",
+          "url": "https://flash.jin10.com/detail/20261021160321111800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时31分"
         },
         {
           "title": "周二（10月20日），美股行业ETF多数收涨，生物科技指数ETF涨3.16%，全球航空业ETF、医疗业ETF至多涨2.38%，科技行业ETF、全球科技股指数ETF、半导体ETF则至多收跌0.38%。",
@@ -1451,11 +1528,12 @@
             4,
             3,
             2,
-            1
+            1,
+            5
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[01时38分 ~ 15时40分]"
+          "appearance_count": 21,
+          "time_info": "[01时38分 ~ 16时31分]"
         },
         {
           "title": "无理打压中企！美国政府下令全面移除DeepSeek技术",
