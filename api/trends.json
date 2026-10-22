@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-22T17:43:09.327708+08:00",
-  "total_titles_processed": 1745,
+  "generated_at": "2026-10-22T18:30:50.752598+08:00",
+  "total_titles_processed": 1840,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 49,
+      "match_count": 50,
       "titles": [
         {
           "title": "美国增兵1万人、以色列酝酿新一轮打击、伊朗发出战争警告，中东火药桶一触即发？",
@@ -77,6 +77,19 @@
           "time_info": "05时26分"
         },
         {
+          "title": "伊朗官员：已做好应对全面战争准备",
+          "url": "https://www.toutiao.com/trending/7699092788410860083/",
+          "source": "今日头条",
+          "ranks": [
+            16,
+            14,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[16时37分 ~ 18时30分]"
+        },
+        {
           "title": "伊朗已有超 3 万名女性忍者，熟练使用弓、剑、飞镖等武器等训练画面走热，背后是怎样的社会文化环境？",
           "url": "https://www.zhihu.com/question/2095115972684112468",
           "source": "知乎",
@@ -112,16 +125,16 @@
           "time_info": "[02时29分 ~ 03时31分]"
         },
         {
-          "title": "伊朗官员：已做好应对全面战争准备",
-          "url": "https://www.toutiao.com/trending/7699092788410860083/",
-          "source": "今日头条",
+          "title": "美国中期选举后伊朗将遭新一轮打击？美以据称已制定具体计划",
+          "url": "https://www.cls.cn/detail/2511788",
+          "source": "财联社热门",
           "ranks": [
-            16,
-            14
+            12,
+            10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时37分 ~ 17时43分]"
+          "appearance_count": 3,
+          "time_info": "[17时42分 ~ 18时30分]"
         },
         {
           "title": "伊朗称美推动船只通过“非法航道”导致冲突加剧",
@@ -136,6 +149,18 @@
           "time_info": "[15时42分 ~ 16时38分]"
         },
         {
+          "title": "伊朗官员：如对伊采取行动 美国将付出代价",
+          "url": "https://wallstreetcn.com/livenews/3183459",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时43分 ~ 18时30分]"
+        },
+        {
           "title": "美国财长贝森特：无论你是在海上从事非法石油转运，还是身居律所高管办公室，只要你为伊朗政权提供支持，我们就会找到你并实施制裁。 伊朗的协助者必须做出选择：要么站在我们这边，要么与我们为敌。 我们清楚你们是谁，清楚你们的所作所为，并且会持续采取行动。",
           "url": "https://wallstreetcn.com/livenews/3182890",
           "source": "华尔街见闻-快讯",
@@ -148,15 +173,16 @@
           "time_info": "[02时29分 ~ 03时31分]"
         },
         {
-          "title": "美国中期选举后伊朗将遭新一轮打击？美以据称已制定具体计划",
-          "url": "https://www.cls.cn/detail/2511788",
-          "source": "财联社热门",
+          "title": "若美国继续鼓励船只使用海峡“非法”航线 伊朗威胁打击该地区美国基地",
+          "url": "https://wallstreetcn.com/livenews/3183457",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            12
+            9,
+            29
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[17时42分 ~ 17时43分]"
+          "time_info": "[17时43分 ~ 18时30分]"
         },
         {
           "title": "伊朗议会议长卡利巴夫会见最高领袖穆杰塔巴",
@@ -216,17 +242,6 @@
           "time_info": "03时31分"
         },
         {
-          "title": "伊朗官员：如对伊采取行动 美国将付出代价",
-          "url": "https://wallstreetcn.com/livenews/3183459",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时43分"
-        },
-        {
           "title": "美国财政部：发布伊朗相关一般许可证，允许卸载部分受制裁船舶的货物。",
           "url": "https://flash.jin10.com/detail/20261022004856343800",
           "source": "金十数据",
@@ -236,17 +251,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时27分"
-        },
-        {
-          "title": "若美国继续鼓励船只使用海峡“非法”航线 伊朗威胁打击该地区美国基地",
-          "url": "https://wallstreetcn.com/livenews/3183457",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时43分"
         },
         {
           "title": "伊朗方面称锡里克地区传出数次爆炸声",
@@ -486,7 +490,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时43分"
         },
@@ -519,9 +523,20 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时43分"
+        },
+        {
+          "title": "伊朗：胡塞武装并非伊朗军事单位 曼德海峡事务由其自行决定",
+          "url": "https://flash.jin10.com/detail/20261022175537968800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时30分"
         },
         {
           "title": "伊朗革命卫队海军：如果美国继续鼓励船只穿越布有水雷的水域，伊方的反制行动可能会扩大至美国在该地区的基地。",
@@ -552,7 +567,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时43分"
         }
@@ -560,7 +575,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 31,
+      "match_count": 32,
       "titles": [
         {
           "title": "泽连斯基和特朗普，彻底决裂了？",
@@ -589,6 +604,17 @@
           "time_info": "[10时27分 ~ 16时38分]"
         },
         {
+          "title": "默茨：对华政策，我们跟特朗普不一样",
+          "url": "https://news.ifeng.com/c/8xQF4vpHREI",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[13时27分 ~ 18时30分]"
+        },
+        {
           "title": "克林顿嘲讽特朗普诺贝尔奖言论",
           "url": "https://www.douyin.com/hot/2707583",
           "source": "抖音",
@@ -601,17 +627,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[12时29分 ~ 17时43分]"
-        },
-        {
-          "title": "默茨：对华政策，我们跟特朗普不一样",
-          "url": "https://news.ifeng.com/c/8xQF4vpHREI",
-          "source": "凤凰网",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[13时27分 ~ 17时43分]"
         },
         {
           "title": "亚马逊向数百万美国消费者退款 支票写上特朗普的名字",
@@ -739,6 +754,17 @@
           "time_info": "08时31分"
         },
         {
+          "title": "克里姆林宫就美国总统特朗普的二十国集团峰会邀请表示：将综合考虑各方面情况研究该邀请，尚未作出决定。",
+          "url": "https://flash.jin10.com/detail/20261022180512684800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时30分"
+        },
+        {
           "title": "马克龙点名抨击特朗普",
           "url": "https://s.weibo.com/weibo?q=%23%E9%A9%AC%E5%85%8B%E9%BE%99%E7%82%B9%E5%90%8D%E6%8A%A8%E5%87%BB%E7%89%B9%E6%9C%97%E6%99%AE%23&t=31&band_rank=9&Refer=top",
           "source": "微博",
@@ -778,7 +804,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时43分"
         },
@@ -918,7 +944,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 20,
+      "match_count": 21,
       "titles": [
         {
           "title": "【早报】科技股火力全开，纳指领涨美股；中办、国办发文！事关人工智能；泽连斯基：愿在保留至少75%领土控制权的基础上达成和平协议",
@@ -1046,6 +1072,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时25分"
+        },
+        {
+          "title": "Spotify第三季度营收49.7亿欧元，预估49.8亿欧元。 第三季度每股收益2.48欧元，去年同期为3.28欧元。 第三季度营业利润6.72亿欧元，同比增长15%。 Spotify预计第四季度营收52亿欧元，市场预估52.4亿欧元。 Spotify美股盘前跌近3%。",
+          "url": "https://wallstreetcn.com/livenews/3183543",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时30分"
         },
         {
           "title": "美股盘前：特斯拉跌约5%，半导体股、光通信股普跌",
@@ -1191,6 +1228,18 @@
           "time_info": "[09时32分 ~ 12时29分]"
         },
         {
+          "title": "美国政府指示各机构停用 DeepSeek ，外交部表示反对将科技经贸问题政治化，美国此举有何意图？",
+          "url": "https://www.zhihu.com/question/2095898196539073291",
+          "source": "知乎",
+          "ranks": [
+            19,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时42分 ~ 18时30分]"
+        },
+        {
           "title": "DeepSeek完成1000亿融资",
           "url": "https://s.weibo.com/weibo?q=%23DeepSeek%E5%AE%8C%E6%88%901000%E4%BA%BF%E8%9E%8D%E8%B5%84%23&t=31&band_rank=17&Refer=top",
           "source": "微博",
@@ -1200,17 +1249,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[15时41分 ~ 15时42分]"
-        },
-        {
-          "title": "美国政府指示各机构停用 DeepSeek ，外交部表示反对将科技经贸问题政治化，美国此举有何意图？",
-          "url": "https://www.zhihu.com/question/2095898196539073291",
-          "source": "知乎",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时42分 ~ 17时43分]"
         },
         {
           "title": "周鸿祎谈美国“封杀”DeepSeek",
