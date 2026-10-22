@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-22T16:38:06.795464+08:00",
-  "total_titles_processed": 1623,
+  "generated_at": "2026-10-22T17:43:09.327708+08:00",
+  "total_titles_processed": 1745,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 43,
+      "match_count": 49,
       "titles": [
         {
           "title": "美国增兵1万人、以色列酝酿新一轮打击、伊朗发出战争警告，中东火药桶一触即发？",
@@ -39,7 +39,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时38分"
         },
@@ -112,6 +112,18 @@
           "time_info": "[02时29分 ~ 03时31分]"
         },
         {
+          "title": "伊朗官员：已做好应对全面战争准备",
+          "url": "https://www.toutiao.com/trending/7699092788410860083/",
+          "source": "今日头条",
+          "ranks": [
+            16,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时37分 ~ 17时43分]"
+        },
+        {
           "title": "伊朗称美推动船只通过“非法航道”导致冲突加剧",
           "url": "https://wallstreetcn.com/livenews/3183287",
           "source": "华尔街见闻-快讯",
@@ -136,6 +148,17 @@
           "time_info": "[02时29分 ~ 03时31分]"
         },
         {
+          "title": "美国中期选举后伊朗将遭新一轮打击？美以据称已制定具体计划",
+          "url": "https://www.cls.cn/detail/2511788",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时42分 ~ 17时43分]"
+        },
+        {
           "title": "伊朗议会议长卡利巴夫会见最高领袖穆杰塔巴",
           "url": "https://wallstreetcn.com/livenews/3182846",
           "source": "华尔街见闻-快讯",
@@ -146,17 +169,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时29分 ~ 01时27分]"
-        },
-        {
-          "title": "伊朗官员：已做好应对全面战争准备",
-          "url": "https://www.toutiao.com/trending/7699092788410860083/",
-          "source": "今日头条",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时37分 ~ 16时38分]"
         },
         {
           "title": "伊朗最高领袖会见议会议长卡利巴夫",
@@ -204,6 +216,17 @@
           "time_info": "03时31分"
         },
         {
+          "title": "伊朗官员：如对伊采取行动 美国将付出代价",
+          "url": "https://wallstreetcn.com/livenews/3183459",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时43分"
+        },
+        {
           "title": "美国财政部：发布伊朗相关一般许可证，允许卸载部分受制裁船舶的货物。",
           "url": "https://flash.jin10.com/detail/20261022004856343800",
           "source": "金十数据",
@@ -213,6 +236,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时27分"
+        },
+        {
+          "title": "若美国继续鼓励船只使用海峡“非法”航线 伊朗威胁打击该地区美国基地",
+          "url": "https://wallstreetcn.com/livenews/3183457",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时43分"
         },
         {
           "title": "伊朗方面称锡里克地区传出数次爆炸声",
@@ -342,7 +376,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时38分"
         },
@@ -446,6 +480,17 @@
           "time_info": "15时42分"
         },
         {
+          "title": "伊朗警告称如果美国继续护航，伊朗可能袭击美国基地。霍尔木兹海峡“非法”通行事件或将扩大冲突范围。",
+          "url": "https://wallstreetcn.com/livenews/3183384",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时43分"
+        },
+        {
           "title": "据伊通社（IRNA）：伊朗议会议长卡利巴夫与最高领袖穆杰塔巴·哈梅内伊讨论了美以对伊战争的最新进展。",
           "url": "https://flash.jin10.com/detail/20261021233534933800",
           "source": "金十数据",
@@ -468,6 +513,17 @@
           "time_info": "00时29分"
         },
         {
+          "title": "伊朗：将美方AI设施列为潜在打击目标",
+          "url": "https://flash.jin10.com/detail/20261022171734000800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时43分"
+        },
+        {
           "title": "伊朗革命卫队海军：如果美国继续鼓励船只穿越布有水雷的水域，伊方的反制行动可能会扩大至美国在该地区的基地。",
           "url": "https://flash.jin10.com/detail/20261022121950818800",
           "source": "金十数据",
@@ -488,12 +544,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时26分"
+        },
+        {
+          "title": "以色列总理内塔尼亚胡：以色列在伊朗的任务已完成90%。",
+          "url": "https://flash.jin10.com/detail/20261022171535865800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时43分"
         }
       ]
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 30,
+      "match_count": 31,
       "titles": [
         {
           "title": "泽连斯基和特朗普，彻底决裂了？",
@@ -528,11 +595,23 @@
           "ranks": [
             21,
             17,
-            18
+            18,
+            19
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时29分 ~ 16时38分]"
+          "appearance_count": 9,
+          "time_info": "[12时29分 ~ 17时43分]"
+        },
+        {
+          "title": "默茨：对华政策，我们跟特朗普不一样",
+          "url": "https://news.ifeng.com/c/8xQF4vpHREI",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[13时27分 ~ 17时43分]"
         },
         {
           "title": "亚马逊向数百万美国消费者退款 支票写上特朗普的名字",
@@ -544,17 +623,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时29分"
-        },
-        {
-          "title": "默茨：对华政策，我们跟特朗普不一样",
-          "url": "https://news.ifeng.com/c/8xQF4vpHREI",
-          "source": "凤凰网",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时27分 ~ 16时38分]"
         },
         {
           "title": "加拿大总理卡尼：周三与美国总统特朗普进行了相当长时间的交谈。",
@@ -702,6 +770,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时27分"
+        },
+        {
+          "title": "特朗普仍在进行地缘豪赌：乌克兰危局正是其中一环！",
+          "url": "https://flash.jin10.com/detail/20261022172930511800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时43分"
         },
         {
           "title": "贝利为就特朗普攻击鲍威尔一事发声进行辩护",
@@ -975,7 +1054,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时38分"
         },
@@ -1066,6 +1145,105 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时26分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "DeepSeek 梁文锋",
+      "match_count": 8,
+      "titles": [
+        {
+          "title": "腾讯姚顺雨想把DeepSeek卷到加班",
+          "url": "https://www.toutiao.com/trending/7697961005829668883/",
+          "source": "今日头条",
+          "ranks": [
+            25,
+            19,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 17,
+          "time_info": "[00时28分 ~ 12时29分]"
+        },
+        {
+          "title": "“DeepSeek才是真正的OpenAI”",
+          "url": "https://www.baidu.com/s?wd=%E2%80%9CDeepSeek%E6%89%8D%E6%98%AF%E7%9C%9F%E6%AD%A3%E7%9A%84OpenAI%E2%80%9D",
+          "source": "百度热搜",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时42分 ~ 17时43分]"
+        },
+        {
+          "title": "揭秘DeepSeek开源推理框架",
+          "url": "https://search.bilibili.com/all?keyword=%E6%8F%AD%E7%A7%98DeepSeek%E5%BC%80%E6%BA%90%E6%8E%A8%E7%90%86%E6%A1%86%E6%9E%B6",
+          "source": "bilibili 热搜",
+          "ranks": [
+            2,
+            3,
+            26,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时32分 ~ 12时29分]"
+        },
+        {
+          "title": "DeepSeek完成1000亿融资",
+          "url": "https://s.weibo.com/weibo?q=%23DeepSeek%E5%AE%8C%E6%88%901000%E4%BA%BF%E8%9E%8D%E8%B5%84%23&t=31&band_rank=17&Refer=top",
+          "source": "微博",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时41分 ~ 15时42分]"
+        },
+        {
+          "title": "美国政府指示各机构停用 DeepSeek ，外交部表示反对将科技经贸问题政治化，美国此举有何意图？",
+          "url": "https://www.zhihu.com/question/2095898196539073291",
+          "source": "知乎",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时42分 ~ 17时43分]"
+        },
+        {
+          "title": "周鸿祎谈美国“封杀”DeepSeek",
+          "url": "https://www.toutiao.com/trending/7699074388208913958/",
+          "source": "今日头条",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时28分 ~ 02时29分]"
+        },
+        {
+          "title": "报道：DeepSeek完成1000亿元融资 宁德时代和腾讯参投",
+          "url": "https://wallstreetcn.com/livenews/3183128",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时29分"
+        },
+        {
+          "title": "DeepSeek据悉融资1000亿元",
+          "url": "https://flash.jin10.com/detail/20261022103845554800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时27分"
         }
       ]
     },
@@ -1161,83 +1339,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时29分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 6,
-      "titles": [
-        {
-          "title": "腾讯姚顺雨想把DeepSeek卷到加班",
-          "url": "https://www.toutiao.com/trending/7697961005829668883/",
-          "source": "今日头条",
-          "ranks": [
-            25,
-            19,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时28分 ~ 12时29分]"
-        },
-        {
-          "title": "揭秘DeepSeek开源推理框架",
-          "url": "https://search.bilibili.com/all?keyword=%E6%8F%AD%E7%A7%98DeepSeek%E5%BC%80%E6%BA%90%E6%8E%A8%E7%90%86%E6%A1%86%E6%9E%B6",
-          "source": "bilibili 热搜",
-          "ranks": [
-            2,
-            3,
-            26,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时32分 ~ 12时29分]"
-        },
-        {
-          "title": "DeepSeek完成1000亿融资",
-          "url": "https://s.weibo.com/weibo?q=%23DeepSeek%E5%AE%8C%E6%88%901000%E4%BA%BF%E8%9E%8D%E8%B5%84%23&t=31&band_rank=17&Refer=top",
-          "source": "微博",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时41分 ~ 15时42分]"
-        },
-        {
-          "title": "周鸿祎谈美国“封杀”DeepSeek",
-          "url": "https://www.toutiao.com/trending/7699074388208913958/",
-          "source": "今日头条",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时28分 ~ 02时29分]"
-        },
-        {
-          "title": "报道：DeepSeek完成1000亿元融资 宁德时代和腾讯参投",
-          "url": "https://wallstreetcn.com/livenews/3183128",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时29分"
-        },
-        {
-          "title": "DeepSeek据悉融资1000亿元",
-          "url": "https://flash.jin10.com/detail/20261022103845554800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时27分"
         }
       ]
     },
