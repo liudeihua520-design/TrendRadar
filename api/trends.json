@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-22T12:29:36.755647+08:00",
-  "total_titles_processed": 1213,
+  "generated_at": "2026-10-22T13:27:53.909645+08:00",
+  "total_titles_processed": 1313,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 32,
+      "match_count": 37,
       "titles": [
         {
           "title": "美国增兵1万人、以色列酝酿新一轮打击、伊朗发出战争警告，中东火药桶一触即发？",
@@ -17,8 +17,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[07时22分 ~ 12时29分]"
+          "appearance_count": 8,
+          "time_info": "[07时22分 ~ 13时27分]"
         },
         {
           "title": "美消息人士：数十架以色列军机曾飞近伊朗边境 背后目的引关注",
@@ -202,6 +202,17 @@
           "time_info": "02时29分"
         },
         {
+          "title": "伊朗称海峡有7艘船只遭袭，警告美国可能面临更大规模的回应",
+          "url": "https://flash.jin10.com/detail/20261022124442118800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时27分"
+        },
+        {
           "title": "消息称美以已制定新一轮对伊朗打击计划",
           "url": "https://wallstreetcn.com/livenews/3183042",
           "source": "华尔街见闻-快讯",
@@ -244,6 +255,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时27分"
+        },
+        {
+          "title": "伊朗伊斯兰革命卫队称打击了4艘“违规”油轮。",
+          "url": "https://wallstreetcn.com/livenews/3183168",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时27分"
         },
         {
           "title": "伊朗官员：若袭击恢复 将把美国政治目标列为打击对象",
@@ -323,6 +345,28 @@
           "time_info": "07时23分"
         },
         {
+          "title": "伊朗革命卫队：四艘违规油轮在波斯湾北部进行油品转运时遭到打击。",
+          "url": "https://flash.jin10.com/detail/20261022122900469800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时27分"
+        },
+        {
+          "title": "伊朗伊斯兰革命卫队：准备推出“炸弹之父”",
+          "url": "https://wallstreetcn.com/livenews/3183161",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时27分"
+        },
+        {
           "title": "据伊朗媒体Fars News：几分钟前，锡里克克尔潘地区传出多次爆炸声；目前尚不清楚这些声音的来源和性质。",
           "url": "https://flash.jin10.com/detail/20261022022616903800",
           "source": "金十数据",
@@ -356,6 +400,17 @@
           "time_info": "00时29分"
         },
         {
+          "title": "伊朗革命卫队海军：如果美国继续鼓励船只穿越布有水雷的水域，伊方的反制行动可能会扩大至美国在该地区的基地。",
+          "url": "https://flash.jin10.com/detail/20261022121950818800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时27分"
+        },
+        {
           "title": "伊朗威胁称：若再遭袭击，将考虑把“美国政治目标”作为打击目标",
           "url": "https://wallstreetcn.com/livenews/3182977",
           "source": "华尔街见闻-快讯",
@@ -370,7 +425,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 25,
+      "match_count": 29,
       "titles": [
         {
           "title": "泽连斯基和特朗普，彻底决裂了？",
@@ -393,8 +448,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时27分 ~ 12时29分]"
+          "appearance_count": 4,
+          "time_info": "[10时27分 ~ 13时27分]"
         },
         {
           "title": "亚马逊向数百万美国消费者退款 支票写上特朗普的名字",
@@ -403,7 +458,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时29分"
         },
@@ -419,6 +474,17 @@
           "time_info": "03时31分"
         },
         {
+          "title": "批评特朗普？泽连斯基遭美总统特使“斥责”",
+          "url": "https://flash.jin10.com/detail/20261022130023073800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时27分"
+        },
+        {
           "title": "加拿大总理卡尼：与美国总统特朗普讨论了广泛议题，包括伊朗问题。",
           "url": "https://flash.jin10.com/detail/20261022030449083800",
           "source": "金十数据",
@@ -428,6 +494,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时31分"
+        },
+        {
+          "title": "伊朗媒体：特朗普没拿到诺贝尔和平奖，现在又想要普利策奖",
+          "url": "https://flash.jin10.com/detail/20261022125534771800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时27分"
         },
         {
           "title": "特朗普目前在南卡罗来纳州进行了约一个小时的讲话，期间被至少12名抗议者打断。",
@@ -477,6 +554,18 @@
           "time_info": "[03时31分 ~ 04时25分]"
         },
         {
+          "title": "克林顿嘲讽特朗普诺贝尔奖言论",
+          "url": "https://www.douyin.com/hot/2707583",
+          "source": "抖音",
+          "ranks": [
+            21,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时29分 ~ 13时27分]"
+        },
+        {
           "title": "市场消息：SpaceX与特斯拉计划在特朗普任期结束前完成合并交易，力争在2027年上半年达成合并协议。",
           "url": "https://flash.jin10.com/detail/20261022081451934800",
           "source": "金十数据",
@@ -494,9 +583,20 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时29分"
+        },
+        {
+          "title": "默茨：对华政策，我们跟特朗普不一样",
+          "url": "https://news.ifeng.com/c/8xQF4vpHREI",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时27分"
         },
         {
           "title": "特朗普在集会上表示：我们对“特朗普海峡”（霍尔木兹海峡）实施了封锁。",
@@ -508,6 +608,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时31分"
+        },
+        {
+          "title": "特朗普否认与伊朗进行谈判，称局势“很快”就会有定论",
+          "url": "https://flash.jin10.com/detail/20261022123906300800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时27分"
         },
         {
           "title": "贝利为就特朗普攻击鲍威尔一事发声进行辩护",
@@ -563,17 +674,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时26分"
-        },
-        {
-          "title": "克林顿嘲讽特朗普诺贝尔奖言论",
-          "url": "https://www.douyin.com/hot/2707583",
-          "source": "抖音",
-          "ranks": [
-            21
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时29分"
         },
         {
           "title": "英国央行行长就特朗普攻击鲍威尔一事为其发声辩护",
@@ -648,7 +748,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时29分"
         }
@@ -658,17 +758,6 @@
       "keyword_group": "美股",
       "match_count": 18,
       "titles": [
-        {
-          "title": "强劲季报提振AI交易，美股开盘走高，SpaceX涨幅扩大至10%，英伟达涨约2%，油价再度走高",
-          "url": "https://wallstreetcn.com/articles/3784116",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时28分 ~ 06时26分]"
-        },
         {
           "title": "美股收盘：芯片、存储、光集体走强 纳指升超1%领涨三大指数",
           "url": "https://www.cls.cn/detail/2511618",
@@ -680,8 +769,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[07时22分 ~ 12时29分]"
+          "appearance_count": 8,
+          "time_info": "[07时22分 ~ 13时27分]"
         },
         {
           "title": "【早报】科技股火力全开，纳指领涨美股；中办、国办发文！事关人工智能；泽连斯基：愿在保留至少75%领土控制权的基础上达成和平协议",
@@ -691,8 +780,19 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[08时31分 ~ 12时29分]"
+          "appearance_count": 6,
+          "time_info": "[08时31分 ~ 13时27分]"
+        },
+        {
+          "title": "强劲季报提振AI交易，美股开盘走高，SpaceX涨幅扩大至10%，英伟达涨约2%，油价再度走高",
+          "url": "https://wallstreetcn.com/articles/3784116",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时28分 ~ 06时26分]"
         },
         {
           "title": "美股收盘：三大股指收涨 SpaceX涨7.7%",
@@ -1018,7 +1118,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时29分"
         },
@@ -1084,7 +1184,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时29分"
         },
@@ -1112,7 +1212,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时29分"
         },
