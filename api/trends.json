@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-22T21:41:54.288876+08:00",
-  "total_titles_processed": 2129,
+  "generated_at": "2026-10-22T22:32:15.444861+08:00",
+  "total_titles_processed": 2240,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 56,
+      "match_count": 66,
       "titles": [
         {
           "title": "美国增兵1万人、以色列酝酿新一轮打击、伊朗发出战争警告，中东火药桶一触即发？",
@@ -77,6 +77,41 @@
           "time_info": "05时26分"
         },
         {
+          "title": "美国财长贝森特：此前，油轮挤满了伊朗主要石油装载码头。 如今，连一艘原油油轮都看不到。",
+          "url": "https://wallstreetcn.com/livenews/3183801",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时32分"
+        },
+        {
+          "title": "军事威慑升级！数十架以军战机曾逼近伊朗边境，美国扩大制裁、据称拟撤离部分中东使馆人员",
+          "url": "https://wallstreetcn.com/articles/3784151",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[20时33分 ~ 22时32分]"
+        },
+        {
+          "title": "伊朗伊斯兰革命卫队发言人：我们准备推出有史以来威力最大炸弹——“炸弹之父”",
+          "url": "https://www.cls.cn/detail/2512367",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[20时33分 ~ 22时32分]"
+        },
+        {
           "title": "伊朗官员：已做好应对全面战争准备",
           "url": "https://www.toutiao.com/trending/7699092788410860083/",
           "source": "今日头条",
@@ -137,16 +172,15 @@
           "time_info": "[02时29分 ~ 03时31分]"
         },
         {
-          "title": "军事威慑升级！数十架以军战机曾逼近伊朗边境，美国扩大制裁、据称拟撤离部分中东使馆人员",
-          "url": "https://wallstreetcn.com/articles/3784151",
-          "source": "华尔街见闻",
+          "title": "新闻蒸馏器｜美以被曝制定中期选举后再袭伊朗计划，以战机飞近边境模拟打击",
+          "url": "https://m.thepaper.cn/newsDetail_forward_34306120",
+          "source": "澎湃新闻",
           "ranks": [
-            10,
             9
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[20时33分 ~ 21时41分]"
+          "time_info": "[21时41分 ~ 22时32分]"
         },
         {
           "title": "美国中期选举后伊朗将遭新一轮打击？美以据称已制定具体计划",
@@ -159,18 +193,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[17时42分 ~ 18时30分]"
-        },
-        {
-          "title": "伊朗伊斯兰革命卫队发言人：我们准备推出有史以来威力最大炸弹——“炸弹之父”",
-          "url": "https://www.cls.cn/detail/2512367",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时33分 ~ 21时41分]"
         },
         {
           "title": "伊朗称美推动船只通过“非法航道”导致冲突加剧",
@@ -245,6 +267,17 @@
           "time_info": "[09时32分 ~ 10时27分]"
         },
         {
+          "title": "伊朗革命卫队将领贾瓦尼：近期战争表明，与那些预测美国一旦发动袭击伊朗就会崩溃的人的说法相反，伊朗成功抵御了美国的军事力量，并展示了自身的防御能力。",
+          "url": "https://flash.jin10.com/detail/20261022221501076800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时32分"
+        },
+        {
           "title": "数十架以军战机曾逼近伊朗边境",
           "url": "https://wallstreetcn.com/livenews/3182912",
           "source": "华尔街见闻-快讯",
@@ -267,6 +300,17 @@
           "time_info": "09时32分"
         },
         {
+          "title": "伊朗革命卫队将领贾瓦尼：国内某些派别没有看到伊朗民族的伟大与力量，反而始终将责任归咎于国家、政治体制和武装部队，这种做法实际上是在为敌人开脱。而一个爱国的伊朗人不会为敌人开脱，也不会将责任归咎于自己的国家。",
+          "url": "https://flash.jin10.com/detail/20261022221453563800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时32分"
+        },
+        {
           "title": "伊朗方面称锡里克地区传出数次爆炸声",
           "url": "https://wallstreetcn.com/livenews/3182911",
           "source": "华尔街见闻-快讯",
@@ -276,17 +320,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时31分"
-        },
-        {
-          "title": "新闻蒸馏器｜美以被曝制定中期选举后再袭伊朗计划，以战机飞近边境模拟打击",
-          "url": "https://m.thepaper.cn/newsDetail_forward_34306120",
-          "source": "澎湃新闻",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时41分"
         },
         {
           "title": "美国财政部：发布伊朗相关一般许可证，允许卸载部分受制裁船舶的货物。",
@@ -333,6 +366,17 @@
           "time_info": "13时27分"
         },
         {
+          "title": "贝森特：伊朗主要石油装运码头已不见原油运输船",
+          "url": "https://flash.jin10.com/detail/20261022220446962800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时32分"
+        },
+        {
           "title": "消息称美以已制定新一轮对伊朗打击计划",
           "url": "https://wallstreetcn.com/livenews/3183042",
           "source": "华尔街见闻-快讯",
@@ -350,7 +394,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时41分"
         },
@@ -366,6 +410,17 @@
           "time_info": "03时31分"
         },
         {
+          "title": "美国财长贝森特：“经济孤立行动”正切断伊朗政权的石油生命线，使其无法获得用于资助恐怖主义、采购核相关物资以及维持伊斯兰革命卫队精英奢华生活方式的资源。",
+          "url": "https://flash.jin10.com/detail/20261022220412000800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时32分"
+        },
+        {
           "title": "美国财长贝森特：无论你是在海上从事非法石油转运，还是坐在律所的角落办公室里，只要你在支持伊朗政权，我们就一定会找到你并实施制裁。伊朗的帮凶必须做出选择：要么与我们站在一起，要么与我们为敌。我们清楚你是谁，清楚你在做什么，且将持续采取行动。",
           "url": "https://flash.jin10.com/detail/20261022012224738800",
           "source": "金十数据",
@@ -375,6 +430,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时29分"
+        },
+        {
+          "title": "美国财长贝森特：伊朗政权的傲慢与好战姿态仍在让普通伊朗民众付出代价。",
+          "url": "https://flash.jin10.com/detail/20261022220357981800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时32分"
         },
         {
           "title": "以防长说伊朗若袭击以色列将灭了伊朗",
@@ -397,6 +463,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时27分"
+        },
+        {
+          "title": "美国财长贝森特：哈尔克岛如今不过是一座纪念碑，见证着伊朗政权唯一还能制造的东西——失败。",
+          "url": "https://flash.jin10.com/detail/20261022220351479800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时32分"
         },
         {
           "title": "伊朗伊斯兰革命卫队称打击了4艘“违规”油轮。",
@@ -441,6 +518,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时38分"
+        },
+        {
+          "title": "美国财长贝森特：此前，伊朗主要石油装运码头停满了油轮。如今，已看不到任何原油运输船。",
+          "url": "https://flash.jin10.com/detail/20261022220342507800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时32分"
         },
         {
           "title": "伊朗最高领袖会见议会议长卡利巴夫",
@@ -529,6 +617,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时27分"
+        },
+        {
+          "title": "以总理披露去年初曾向美方通报袭击伊朗计划",
+          "url": "https://wallstreetcn.com/livenews/3183781",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时32分"
         },
         {
           "title": "据伊朗媒体Fars News：几分钟前，锡里克克尔潘地区传出多次爆炸声；目前尚不清楚这些声音的来源和性质。",
@@ -639,12 +738,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时43分"
+        },
+        {
+          "title": "伊朗军方：在装备方面已为非对称战争做好准备",
+          "url": "https://wallstreetcn.com/livenews/3183768",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时32分"
         }
       ]
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 36,
+      "match_count": 37,
       "titles": [
         {
           "title": "泽连斯基和特朗普，彻底决裂了？",
@@ -691,11 +801,12 @@
             21,
             17,
             18,
-            19
+            19,
+            16
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[12时29分 ~ 17时43分]"
+          "appearance_count": 11,
+          "time_info": "[12时29分 ~ 22时32分]"
         },
         {
           "title": "亚马逊向数百万美国消费者退款 支票写上特朗普的名字",
@@ -707,6 +818,31 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时29分"
+        },
+        {
+          "title": "美国驻联合国大使：正如报道指出的那样，尽管伊朗威胁称，如果自身无法出口石油，就不会允许邻国出口石油，但事实是石油仍在持续运出，是特朗普总统的坚定领导使这一切成为现实。",
+          "url": "https://flash.jin10.com/detail/20261022222001177800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时32分"
+        },
+        {
+          "title": "特朗普为何给内塔尼亚胡送“大礼”",
+          "url": "https://www.toutiao.com/trending/7699447449483480595/",
+          "source": "今日头条",
+          "ranks": [
+            28,
+            10,
+            12,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[19时52分 ~ 22时32分]"
         },
         {
           "title": "加拿大总理卡尼：周三与美国总统特朗普进行了相当长时间的交谈。",
@@ -737,7 +873,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时41分"
         },
@@ -773,6 +909,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时31分"
+        },
+        {
+          "title": "特朗普称将砸逾 4 亿美元助共和党选举，或成美国历史上烧钱最多的中期选举，共和党胜算有多大？",
+          "url": "https://www.zhihu.com/question/2096563694825992624",
+          "source": "知乎",
+          "ranks": [
+            8,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[20时33分 ~ 22时32分]"
         },
         {
           "title": "SpaceX与特斯拉的潜在合并交易据悉可能有意在特朗普任期结束前完成。（彭博）",
@@ -821,31 +969,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时31分 ~ 04时25分]"
-        },
-        {
-          "title": "特朗普为何给内塔尼亚胡送“大礼”",
-          "url": "https://www.toutiao.com/trending/7699447449483480595/",
-          "source": "今日头条",
-          "ranks": [
-            28,
-            10,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时52分 ~ 21时41分]"
-        },
-        {
-          "title": "特朗普称将砸逾 4 亿美元助共和党选举，或成美国历史上烧钱最多的中期选举，共和党胜算有多大？",
-          "url": "https://www.zhihu.com/question/2096563694825992624",
-          "source": "知乎",
-          "ranks": [
-            8,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时33分 ~ 21时41分]"
         },
         {
           "title": "特朗普中期选举面临哪些困境",
@@ -1060,7 +1183,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 25,
+      "match_count": 29,
       "titles": [
         {
           "title": "【早报】科技股火力全开，纳指领涨美股；中办、国办发文！事关人工智能；泽连斯基：愿在保留至少75%领土控制权的基础上达成和平协议",
@@ -1099,6 +1222,17 @@
           "time_info": "[00时28分 ~ 06时26分]"
         },
         {
+          "title": "AI交易熄火、中东局势恶化，美股低开，光通信、存储芯片股普跌，CoreWeave跌约5%",
+          "url": "https://wallstreetcn.com/articles/3784189",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时31分 ~ 22时32分]"
+        },
+        {
           "title": "美股收盘：三大股指收涨 SpaceX涨7.7%",
           "url": "https://flash.jin10.com/detail/20261022040629658800",
           "source": "金十数据",
@@ -1127,7 +1261,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时41分"
         },
@@ -1190,6 +1324,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[19时52分 ~ 20时34分]"
+        },
+        {
+          "title": "美股开盘：纳指低开1.55% Meta跌超4%",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E5%BC%80%E7%9B%98%EF%BC%9A%E7%BA%B3%E6%8C%87%E4%BD%8E%E5%BC%801.55%25+Meta%E8%B7%8C%E8%B6%854%25",
+          "source": "百度热搜",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时31分 ~ 22时32分]"
         },
         {
           "title": "金十图示：2026年10月21日（周三）美股热门股票行情一览（美股盘中）",
@@ -1302,6 +1447,17 @@
           "time_info": "06时26分"
         },
         {
+          "title": "美股盘初，主要行业ETF涨跌不一，日常消费品ETF涨超1%，半导体ETF跌超3%，全球科技股指数ETF跌近2%。",
+          "url": "https://wallstreetcn.com/livenews/3183779",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时32分"
+        },
+        {
           "title": "周三（10月21日），美股行业ETF多数收涨，半导体ETF涨1.89%，全球科技股指数ETF、科技行业ETF至少涨1.67%，银行业ETF跌0.09%。",
           "url": "https://wallstreetcn.com/livenews/3182982",
           "source": "华尔街见闻-快讯",
@@ -1322,6 +1478,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时26分"
+        },
+        {
+          "title": "美股盘初：费城半导体指数跌约4%，Meta跌约5%，CoreWeave跌约5%，光通信股、存储芯片股普跌",
+          "url": "https://wallstreetcn.com/livenews/3183773",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时32分"
         },
         {
           "title": "标普500指数收涨44.60点，涨幅0.58%，报7757.17点。标普500相等权重指数涨1.15%，报8744.41点，美股早盘显著上涨，北京时间22:30以来持续高位窄幅震荡。 道琼斯工业平均指数收涨360.21点，涨幅0.69%，报52856.09点。 纳斯达克综合指数（纳指）收涨278.041点，涨幅1.05%，报26702.858点。 纳斯达克100指数收涨332.235点，涨幅1.13%，报29822.518点。",
@@ -1349,7 +1516,7 @@
     },
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "腾讯姚顺雨想把DeepSeek卷到加班",
@@ -1363,6 +1530,19 @@
           "is_new": false,
           "appearance_count": 17,
           "time_info": "[00时28分 ~ 12时29分]"
+        },
+        {
+          "title": "如何评价 SemiAnalysis 认为 DeepSeek 与华为已形成共生关系？",
+          "url": "https://www.zhihu.com/question/2096603053763846842",
+          "source": "知乎",
+          "ranks": [
+            7,
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[19时52分 ~ 22时32分]"
         },
         {
           "title": "“DeepSeek才是真正的OpenAI”",
@@ -1403,16 +1583,15 @@
           "time_info": "[17时42分 ~ 20时34分]"
         },
         {
-          "title": "如何评价 SemiAnalysis 认为 DeepSeek 与华为已形成共生关系？",
-          "url": "https://www.zhihu.com/question/2096603053763846842",
-          "source": "知乎",
+          "title": "“DeepSeek才是真正的OpenAI”",
+          "url": "https://news.ifeng.com/c/8xQqgcTDXjq",
+          "source": "凤凰网",
           "ranks": [
-            7,
-            6
+            12
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时52分 ~ 21时41分]"
+          "appearance_count": 2,
+          "time_info": "[22时31分 ~ 22时32分]"
         },
         {
           "title": "DeepSeek完成1000亿融资",
